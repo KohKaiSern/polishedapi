@@ -121,6 +121,19 @@ export async function writeSplitJSON<T extends Base>(folder: string, data: Split
   }
 }
 
+//Used for writing manifests. keys is an array that contains every key that should be retained for the manifest.
+export async function writeManifestJSON<T extends Base>(name: string, obj: Split<T>, keys: string[]): Promise<void> {
+  const manifest: Split<T> = {
+    polished: obj.polished.map((item) =>
+      Object.fromEntries(keys.filter((key) => key in item).map((key) => [key, (item as Record<string, unknown>)[key]])) as unknown as T
+    ),
+    faithful: obj.faithful.map((item) =>
+      Object.fromEntries(keys.filter((key) => key in item).map((key) => [key, (item as Record<string, unknown>)[key]])) as unknown as T
+    ),
+  };
+  writeJSON(name, manifest);
+}
+
 //Applies palette to greyscale PNG and writes to outputPath
 export async function applyPalette(sprite: SpriteData, outputPath: string): Promise<void> {
   const data = await sharp(PC_PATH + sprite.spritePath)

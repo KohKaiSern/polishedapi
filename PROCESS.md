@@ -15,7 +15,7 @@ Finally, after every extractor is written, consolidate() accepts all the data ar
 
 ### Data Writing
 
-Outputs of consolidate() can be written to the data folder in two main ways. For smaller arrays, writeJSON can be used to quickly write the entire array into a JSON file. For bigger arrays, we can choose to instead use writeSplitJSON, which will split the array, writing a JSON file for each entry. It also writes both polished/faithful data to each individual file. This enforces consistency - no matter which method you use, when you retrieve the JSON output, you must first access either the Polished or the Faithful data. Note that individual files are named by index. This is because that is the only guaranteed unique property of every object in the array.
+Outputs of consolidate() can be written to the data folder in three main ways. For smaller arrays, writeJSON can be used to quickly write the entire array into a JSON file. For bigger arrays, we can choose to instead use writeSplitJSON, which will split the array, writing a JSON file for each entry. It also writes both polished/faithful data to each individual file. This enforces consistency - no matter which method you use, when you retrieve the JSON output, you must first access either the Polished or the Faithful data. You can also write a manifest JSON. Providing an array of desired keys will give a shortened version of the full data, with each object having only the keys that you specify. Note that individual files are named by index. This is because that is the only guaranteed unique property of every object in the array.
 
 ### Graphics Processing
 
