@@ -34,22 +34,3 @@ interface Item extends Base {
   category: string;
 }
 
-//UNFINISHED
-interface Pokemon extends Base {
-  formNo: number;
-  name: string;
-  nationalDexNo: number;
-  johtoDexNo: number;
-  bsts: number[];
-  evolvesInto: string | null;
-  evoMethod: string | null;
-  levelMoves: {
-    id: string,
-    level: number
-  }[] | null;
-  eggMoves: string[] | null;
-  evoMove: string | null;
-  bodyData: string;
-  description: string;
-}
-
