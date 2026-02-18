@@ -5,6 +5,8 @@
 
 Before any file is parsed, it is first pre-processed by splitRead (in utils.ts). The purpose of splitRead is to take a file path, read the file inside and convert it into an array of strings, where each string is a line in the file. More importantly, it creates two copies of this array, one where Polished mode is activated, and one where Faithful mode is activated. It ignores any special palette choices, like HGSS/Monochrome/Noir/NoRTC. It also removes macro definitions, comments and empty lines. Finally, it performs some string replacements for convenience (e.g. PSYCHIC_M -> PSYCHIC, # -> Poké, etc.)
 
+Some data comes in folders, with each file representing one entry. splitReadFolder can be used to parse the entire folder, creating an array of { filename, contents } objects that can be used to access the parsed data.
+
 ### Data Processing
 
 The first step of each extraction algorithm is a file within the constants folder. Each file in the constants folder assigns a unique index to each ID. The index is always a number. The ID is a string, if assigned one. Some indexes do not have IDs.
