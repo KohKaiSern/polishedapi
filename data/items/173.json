@@ -6,6 +6,7 @@
     "description": "Raises Sp.Atk on a sound move.",
     "price": 4000,
     "heldEffect": "HELD_PROTECTIVE_PADS",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Sp.Atk on a sound move.",
     "price": 4000,
     "heldEffect": "HELD_PROTECTIVE_PADS",
+    "params": "0",
     "category": "ITEM"
   }
 }

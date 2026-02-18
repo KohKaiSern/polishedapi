@@ -6,6 +6,7 @@
     "description": "Switches out foe when hit. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_AIR_BALLOON",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Switches out foe when hit. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_AIR_BALLOON",
+    "params": "0",
     "category": "ITEM"
   }
 }

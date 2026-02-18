@@ -6,6 +6,7 @@
     "description": "Copies foe's statboost once.",
     "price": 4000,
     "heldEffect": "HELD_CLEAR_AMULET",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Copies foe's statboost once.",
     "price": 4000,
     "heldEffect": "HELD_CLEAR_AMULET",
+    "params": "0",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Blocks additional attack effects.",
     "price": 4000,
     "heldEffect": "HELD_PUNCHING_GLOVE",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Blocks additional attack effects.",
     "price": 4000,
     "heldEffect": "HELD_PUNCHING_GLOVE",
+    "params": "0",
     "category": "ITEM"
   }
 }

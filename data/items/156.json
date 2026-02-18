@@ -6,6 +6,7 @@
     "description": "Powers up moves used again. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_FOCUS_SASH",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers up moves used again. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_FOCUS_SASH",
+    "params": "0",
     "category": "ITEM"
   }
 }

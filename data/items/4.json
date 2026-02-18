@@ -6,6 +6,7 @@
     "description": "The Safari Game Ball.",
     "price": null,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "The Safari Game Ball.",
     "price": null,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   }
 }

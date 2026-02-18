@@ -6,6 +6,7 @@
     "description": "Super effective hit ups offenses.",
     "price": 4000,
     "heldEffect": "HELD_SWITCH_TARGET",
+    "params": "1 << SWITCH_DEFERRED | 1 << SWITCH_TARGET | 1 << SWITCH_OPPITEM",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Super effective hit ups offenses.",
     "price": 4000,
     "heldEffect": "HELD_SWITCH_TARGET",
+    "params": "1 << SWITCH_DEFERRED | 1 << SWITCH_TARGET | 1 << SWITCH_OPPITEM",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Raises Speed when a move misses.",
     "price": 4000,
     "heldEffect": "HELD_HEAVY_BOOTS",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Speed when a move misses.",
     "price": 4000,
     "heldEffect": "HELD_HEAVY_BOOTS",
+    "params": "0",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Always moves last. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_IRON_BALL",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Always moves last. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_IRON_BALL",
+    "params": "0",
     "category": "ITEM"
   }
 }

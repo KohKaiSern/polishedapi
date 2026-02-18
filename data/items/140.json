@@ -6,6 +6,7 @@
     "description": "Boosts chances of moving 1st. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BRIGHTPOWDER",
+    "params": "$9a",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts chances of moving 1st. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BRIGHTPOWDER",
+    "params": "$9a",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "A Ball for early in a battle.",
     "price": 300,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A Ball for early in a battle.",
     "price": 300,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Powers punch moves with no contact.",
     "price": 4000,
     "heldEffect": "HELD_MIRROR_HERB",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers punch moves with no contact.",
     "price": 4000,
     "heldEffect": "HELD_MIRROR_HERB",
+    "params": "0",
     "category": "ITEM"
   }
 }

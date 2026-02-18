@@ -6,6 +6,7 @@
     "description": "A chunk of tile. Sell low.",
     "price": 12000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A chunk of tile. Sell low.",
     "price": 12000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

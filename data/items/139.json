@@ -6,6 +6,7 @@
     "description": "Lowers the foe's accuracy. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BERSERK_GENE",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Lowers the foe's accuracy. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BERSERK_GENE",
+    "params": "0",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "A self-heal for a burn. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "1 << PSN",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-heal for a burn. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "1 << PSN",
     "category": "BERRIES"
   }
 }

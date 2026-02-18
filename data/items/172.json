@@ -6,6 +6,7 @@
     "description": "Protects from contact effects.",
     "price": 4000,
     "heldEffect": "HELD_SAFETY_GOGGLES",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Protects from contact effects.",
     "price": 4000,
     "heldEffect": "HELD_SAFETY_GOGGLES",
+    "params": "0",
     "category": "ITEM"
   }
 }

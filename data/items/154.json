@@ -6,6 +6,7 @@
     "description": "Powers up moves with HP. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_PROLONG_SCREENS",
+    "params": "8",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers up moves with HP. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_PROLONG_SCREENS",
+    "params": "8",
     "category": "ITEM"
   }
 }

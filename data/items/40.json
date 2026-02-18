@@ -6,6 +6,7 @@
     "description": "Fully restores the PP of one Pokémon.",
     "price": 3000,
     "heldEffect": null,
+    "params": "10",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Fully restores the PP of one Pokémon.",
     "price": 3000,
     "heldEffect": null,
+    "params": "10",
     "category": "MEDICINE"
   }
 }

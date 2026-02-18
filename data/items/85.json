@@ -6,6 +6,7 @@
     "description": "Restores HP on super-effective hit.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "$10 | MULTIPLE_STATS",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Restores HP on super-effective hit.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "$10 | MULTIPLE_STATS",
     "category": "BERRIES"
   }
 }

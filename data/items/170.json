@@ -6,6 +6,7 @@
     "description": "Boosts Sp.Def, but bans status moves.",
     "price": 1000,
     "heldEffect": "HELD_WEAKNESS_POLICY",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts Sp.Def, but bans status moves.",
     "price": 1000,
     "heldEffect": "HELD_WEAKNESS_POLICY",
+    "params": "0",
     "category": "ITEM"
   }
 }

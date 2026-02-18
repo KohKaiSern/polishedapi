@@ -6,6 +6,7 @@
     "description": "Earns extra Exp. points. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_FOCUS_BAND",
+    "params": "30",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Earns extra Exp. points. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_FOCUS_BAND",
+    "params": "30",
     "category": "ITEM"
   }
 }

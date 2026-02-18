@@ -6,6 +6,7 @@
     "description": "May make the foe flinch. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_QUICK_CLAW",
+    "params": "20",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "May make the foe flinch. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_QUICK_CLAW",
+    "params": "20",
     "category": "ITEM"
   }
 }

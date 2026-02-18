@@ -6,6 +6,7 @@
     "description": "Raises Sp.Atk of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_SPE_EV - MON_EVS",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Sp.Atk of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_SPE_EV - MON_EVS",
     "category": "MEDICINE"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Fully restores PP of one move.",
     "price": 1200,
     "heldEffect": null,
+    "params": "10",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Fully restores PP of one move.",
     "price": 1200,
     "heldEffect": null,
+    "params": "10",
     "category": "MEDICINE"
   }
 }

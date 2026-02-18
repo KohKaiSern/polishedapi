@@ -6,6 +6,7 @@
     "description": "A rare commemorative Ball.",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A rare commemorative Ball.",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   }
 }

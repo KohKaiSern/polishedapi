@@ -6,6 +6,7 @@
     "description": "Heals burned Pokémon.",
     "price": 200,
     "heldEffect": null,
+    "params": "1 << PSN",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Heals burned Pokémon.",
     "price": 200,
     "heldEffect": null,
+    "params": "1 << PSN",
     "category": "MEDICINE"
   }
 }

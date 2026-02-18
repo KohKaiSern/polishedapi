@@ -6,6 +6,7 @@
     "description": "An ornament from a far-away place.",
     "price": 2000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "An ornament from a far-away place.",
     "price": 2000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

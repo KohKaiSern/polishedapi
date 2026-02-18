@@ -6,6 +6,7 @@
     "description": "A strange, silvercolored leaf.",
     "price": 3000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A strange, silvercolored leaf.",
     "price": 3000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

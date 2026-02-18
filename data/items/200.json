@@ -6,6 +6,7 @@
     "description": "Boosts Attack, but allows one move.",
     "price": 4000,
     "heldEffect": "HELD_PROLONG_HAIL",
+    "params": "8",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts Attack, but allows one move.",
     "price": 4000,
     "heldEffect": "HELD_PROLONG_HAIL",
+    "params": "8",
     "category": "ITEM"
   }
 }

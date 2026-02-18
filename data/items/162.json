@@ -6,6 +6,7 @@
     "description": "Powers up draining moves. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_SHED_SHELL",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers up draining moves. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_SHED_SHELL",
+    "params": "0",
     "category": "ITEM"
   }
 }

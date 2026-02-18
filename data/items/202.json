@@ -6,6 +6,7 @@
     "description": "Boosts Sp.Atk, but allows one move.",
     "price": 4000,
     "heldEffect": "HELD_CHOICE",
+    "params": "SPEED",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts Sp.Atk, but allows one move.",
     "price": 4000,
     "heldEffect": "HELD_CHOICE",
+    "params": "SPEED",
     "category": "ITEM"
   }
 }

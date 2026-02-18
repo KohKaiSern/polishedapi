@@ -6,6 +6,7 @@
     "description": "Helps repel wild Pokémon. (Hold)",
     "price": 10000,
     "heldEffect": "HELD_AMULET_COIN",
+    "params": "10",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Helps repel wild Pokémon. (Hold)",
     "price": 10000,
     "heldEffect": "HELD_AMULET_COIN",
+    "params": "10",
     "category": "ITEM"
   }
 }

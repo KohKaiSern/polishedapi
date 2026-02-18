@@ -6,6 +6,7 @@
     "description": "Powers up Firetype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "STEEL",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers up Firetype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "STEEL",
     "category": "ITEM"
   }
 }

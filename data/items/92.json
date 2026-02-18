@@ -6,6 +6,7 @@
     "description": "Repels weak Pokémon for 100 steps.",
     "price": 100,
     "heldEffect": "HELD_BERRY",
+    "params": "20",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Repels weak Pokémon for 100 steps.",
     "price": 100,
     "heldEffect": "HELD_BERRY",
+    "params": "20",
     "category": "BERRIES"
   }
 }

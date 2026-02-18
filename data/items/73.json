@@ -6,6 +6,7 @@
     "description": "Raises friendship but lowers Attack.",
     "price": 10,
     "heldEffect": "HELD_NO_BUG_BITE",
+    "params": "MON_HP_EV - MON_EVS",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises friendship but lowers Attack.",
     "price": 10,
     "heldEffect": "HELD_NO_BUG_BITE",
+    "params": "MON_HP_EV - MON_EVS",
     "category": "BERRIES"
   }
 }

@@ -20,6 +20,7 @@ interface Item extends Base {
   description: string;
   price: number | null;
   heldEffect: string | null;
+  params: string;
   category: string;
 }
 

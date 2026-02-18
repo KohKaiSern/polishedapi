@@ -6,6 +6,7 @@
     "description": "Damages foe on contact. (Hold)",
     "price": 2000,
     "heldEffect": "HELD_EVIOLITE",
+    "params": "50",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Damages foe on contact. (Hold)",
     "price": 2000,
     "heldEffect": "HELD_EVIOLITE",
+    "params": "50",
     "category": "ITEM"
   }
 }

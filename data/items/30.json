@@ -6,6 +6,7 @@
     "description": "Heals paralyzed Pokémon.",
     "price": 300,
     "heldEffect": null,
+    "params": "1 << BRN",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Heals paralyzed Pokémon.",
     "price": 300,
     "heldEffect": null,
+    "params": "1 << BRN",
     "category": "MEDICINE"
   }
 }

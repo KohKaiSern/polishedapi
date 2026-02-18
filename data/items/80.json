@@ -6,6 +6,7 @@
     "description": "Raises Speed in a pinch.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "DEFENSE",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Speed in a pinch.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "DEFENSE",
     "category": "BERRIES"
   }
 }

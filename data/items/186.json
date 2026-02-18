@@ -6,6 +6,7 @@
     "description": "Ups critical hit ratio of Chansey.",
     "price": 5000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Ups critical hit ratio of Chansey.",
     "price": 5000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

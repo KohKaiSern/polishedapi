@@ -6,6 +6,7 @@
     "description": "Ups Def and Sp.Def of evolvers.",
     "price": 4000,
     "heldEffect": "HELD_BIG_ROOT",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Ups Def and Sp.Def of evolvers.",
     "price": 4000,
     "heldEffect": "HELD_BIG_ROOT",
+    "params": "0",
     "category": "ITEM"
   }
 }

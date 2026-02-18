@@ -6,6 +6,7 @@
     "description": "Powers up Groundtype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "POISON",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Powers up Groundtype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "POISON",
     "category": "ITEM"
   }
 }

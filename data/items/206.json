@@ -6,6 +6,7 @@
     "description": "Boosts stat gain, but lowers Speed.",
     "price": 4000,
     "heldEffect": "HELD_BLACK_SLUDGE",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts stat gain, but lowers Speed.",
     "price": 4000,
     "heldEffect": "HELD_BLACK_SLUDGE",
+    "params": "0",
     "category": "ITEM"
   }
 }

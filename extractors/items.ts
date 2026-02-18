@@ -6,13 +6,14 @@ Entry Point: constants/item_constants
 Retrieves:
 Names: data/items/names
 Descriptions: data/items/descriptions
-Attributes (Price, Held Effect, Category): data/items/attributes
+Attributes (Price, Held Effect, Params, Category): data/items/attributes
 */
 
 function extractAttrs(ATTRS: string[]): {
   index: number;
   price: number | null;
   heldEffect: string | null;
+  params: string;
   category: string;
 }[] {
   const data = [];
@@ -20,7 +21,7 @@ function extractAttrs(ATTRS: string[]): {
   for (let lineNo = 0; lineNo < ATTRS.length; lineNo++) {
     if (ATTRS[lineNo].includes('NUM_ITEMS')) break;
     if (!ATTRS[lineNo].startsWith('item_attribute')) continue;
-    const match = ATTRS[lineNo].match(/item_attribute (\d+), (.+?), (?:.+?), (.+?),/)!;
+    const match = ATTRS[lineNo].match(/item_attribute (\d+), (.+?), (.+?), (.+?),/)!;
     //Convert zero price -> null and zero held effect -> null.
     const price: number | null = match[1] === '0' ? null : parseInt(match[1]);
     const heldEffect: string | null = match[2] === '0' ? null : match[2];
@@ -28,7 +29,8 @@ function extractAttrs(ATTRS: string[]): {
       index,
       price,
       heldEffect,
-      category: match[3]
+      params: match[3],
+      category: match[4]
     });
     index++;
   }

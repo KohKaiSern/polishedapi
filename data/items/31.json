@@ -6,6 +6,7 @@
     "description": "Awakens sleeping Pokémon.",
     "price": 300,
     "heldEffect": null,
+    "params": "1 << PAR",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Awakens sleeping Pokémon.",
     "price": 300,
     "heldEffect": null,
+    "params": "1 << PAR",
     "category": "MEDICINE"
   }
 }

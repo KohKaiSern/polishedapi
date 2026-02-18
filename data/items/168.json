@@ -6,6 +6,7 @@
     "description": "Switches out when hit. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BINDING_BAND",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Switches out when hit. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_BINDING_BAND",
+    "params": "0",
     "category": "ITEM"
   }
 }

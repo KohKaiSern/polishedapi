@@ -6,6 +6,7 @@
     "description": "May prevent fainting. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_ESCAPE",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "May prevent fainting. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_ESCAPE",
+    "params": "0",
     "category": "ITEM"
   }
 }

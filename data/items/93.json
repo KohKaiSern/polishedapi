@@ -6,6 +6,7 @@
     "description": "Repels weak Pokémon for 200 steps.",
     "price": 400,
     "heldEffect": null,
+    "params": "100",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Repels weak Pokémon for 200 steps.",
     "price": 400,
     "heldEffect": null,
+    "params": "100",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Raises level of a Pokémon by one.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_SDF_EV - MON_EVS",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises level of a Pokémon by one.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_SDF_EV - MON_EVS",
     "category": "MEDICINE"
   }
 }

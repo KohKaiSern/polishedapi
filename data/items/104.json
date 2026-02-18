@@ -6,6 +6,7 @@
     "description": "Raises accuracy. (1 battle)",
     "price": 2000,
     "heldEffect": null,
+    "params": "$10 | SP_DEFENSE",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises accuracy. (1 battle)",
     "price": 2000,
     "heldEffect": null,
+    "params": "$10 | SP_DEFENSE",
     "category": "ITEM"
   }
 }

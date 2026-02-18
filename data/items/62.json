@@ -6,6 +6,7 @@
     "description": "A self-awakening for sleep. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "1 << PAR",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-awakening for sleep. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "1 << PAR",
     "category": "BERRIES"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Restores HP for Poison Pokémon.",
     "price": 4000,
     "heldEffect": "HELD_SELF_PSN",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Restores HP for Poison Pokémon.",
     "price": 4000,
     "heldEffect": "HELD_SELF_PSN",
+    "params": "0",
     "category": "ITEM"
   }
 }

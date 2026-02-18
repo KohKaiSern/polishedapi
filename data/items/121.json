@@ -6,6 +6,7 @@
     "description": "Boosts Fightingtype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "NORMAL",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Boosts Fightingtype moves. (Hold)",
     "price": 1000,
     "heldEffect": "HELD_TYPE_BOOST",
+    "params": "NORMAL",
     "category": "ITEM"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Raises Speed of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_DEF_EV - MON_EVS",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Speed of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_DEF_EV - MON_EVS",
     "category": "MEDICINE"
   }
 }

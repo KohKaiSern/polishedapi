@@ -6,6 +6,7 @@
     "description": "Eliminates all status problems.",
     "price": 100,
     "heldEffect": null,
+    "params": "1 << FRZ",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Eliminates all status problems.",
     "price": 100,
     "heldEffect": null,
+    "params": "1 << FRZ",
     "category": "MEDICINE"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Switches out when stats fall. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_THROAT_SPRAY",
+    "params": "SP_ATTACK",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Switches out when stats fall. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_THROAT_SPRAY",
+    "params": "SP_ATTACK",
     "category": "ITEM"
   }
 }

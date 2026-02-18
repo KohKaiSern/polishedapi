@@ -6,6 +6,7 @@
     "description": "Shares battle Exp. Points. (Hold)",
     "price": 3000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Shares battle Exp. Points. (Hold)",
     "price": 3000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

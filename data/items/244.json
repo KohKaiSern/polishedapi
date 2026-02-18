@@ -6,6 +6,7 @@
     "description": "Flower-print Mail. (Hold)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Flower-print Mail. (Hold)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

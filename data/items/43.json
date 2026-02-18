@@ -6,6 +6,7 @@
     "description": "Raises Defense of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_ATK_EV - MON_EVS",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Defense of one Pokémon.",
     "price": 10000,
     "heldEffect": null,
+    "params": "MON_ATK_EV - MON_EVS",
     "category": "MEDICINE"
   }
 }

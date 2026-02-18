@@ -6,6 +6,7 @@
     "description": "Restores Pokémon HP by 20.",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Restores Pokémon HP by 20.",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "BALL"
   }
 }

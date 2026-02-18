@@ -6,6 +6,7 @@
     "description": "A self-cure for poison. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "SLP_MASK",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-cure for poison. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_STATUS",
+    "params": "SLP_MASK",
     "category": "BERRIES"
   }
 }

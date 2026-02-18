@@ -6,6 +6,7 @@
     "description": "Cures all status problems. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_CONFUSE",
+    "params": "0",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Cures all status problems. (Hold)",
     "price": 10,
     "heldEffect": "HELD_HEAL_CONFUSE",
+    "params": "0",
     "category": "BERRIES"
   }
 }

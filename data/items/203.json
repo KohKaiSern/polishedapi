@@ -6,6 +6,7 @@
     "description": "Causes a burn. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_CHOICE",
+    "params": "SP_ATTACK",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Causes a burn. (Hold)",
     "price": 4000,
     "heldEffect": "HELD_CHOICE",
+    "params": "SP_ATTACK",
     "category": "ITEM"
   }
 }

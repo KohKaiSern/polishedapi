@@ -6,6 +6,7 @@
     "description": "Raises max PP of a selected move.",
     "price": 10000,
     "heldEffect": null,
+    "params": "0",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises max PP of a selected move.",
     "price": 10000,
     "heldEffect": null,
+    "params": "0",
     "category": "MEDICINE"
   }
 }

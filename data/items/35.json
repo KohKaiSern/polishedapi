@@ -6,6 +6,7 @@
     "description": "Restores a fainted Pokémon to 1/2 HP.",
     "price": 3000,
     "heldEffect": null,
+    "params": "-1",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Restores a fainted Pokémon to 1/2 HP.",
     "price": 3000,
     "heldEffect": null,
+    "params": "-1",
     "category": "MEDICINE"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Use for escaping from caves, etc.",
     "price": 900,
     "heldEffect": null,
+    "params": "250",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Use for escaping from caves, etc.",
     "price": 900,
     "heldEffect": null,
+    "params": "250",
     "category": "ITEM"
   }
 }

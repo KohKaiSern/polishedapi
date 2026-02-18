@@ -6,6 +6,7 @@
     "description": "A self-restore item. (10HP, Hold)",
     "price": 10,
     "heldEffect": "HELD_RESTORE_PP",
+    "params": "-1",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-restore item. (10HP, Hold)",
     "price": 10,
     "heldEffect": "HELD_RESTORE_PP",
+    "params": "-1",
     "category": "BERRIES"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Raises Defense on a physical hit.",
     "price": 10,
     "heldEffect": "HELD_OFFEND_HIT",
+    "params": "SPECIAL",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Defense on a physical hit.",
     "price": 10,
     "heldEffect": "HELD_OFFEND_HIT",
+    "params": "SPECIAL",
     "category": "BERRIES"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Moves first in a pinch.",
     "price": 10,
     "heldEffect": "HELD_ENIGMA_BERRY",
+    "params": "0",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Moves first in a pinch.",
     "price": 10,
     "heldEffect": "HELD_ENIGMA_BERRY",
+    "params": "0",
     "category": "BERRIES"
   }
 }

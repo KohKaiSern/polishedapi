@@ -6,6 +6,7 @@
     "description": "Ups Speed gain, but lowers Speed.",
     "price": 3000,
     "heldEffect": "HELD_EV_SDF_UP",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Ups Speed gain, but lowers Speed.",
     "price": 3000,
     "heldEffect": "HELD_EV_SDF_UP",
+    "params": "0",
     "category": "ITEM"
   }
 }

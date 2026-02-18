@@ -6,6 +6,7 @@
     "description": "Protects from weather damage.",
     "price": 1000,
     "heldEffect": "HELD_ASSAULT_VEST",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Protects from weather damage.",
     "price": 1000,
     "heldEffect": "HELD_ASSAULT_VEST",
+    "params": "0",
     "category": "ITEM"
   }
 }

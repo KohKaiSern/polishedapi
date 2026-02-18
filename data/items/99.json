@@ -6,6 +6,7 @@
     "description": "Raises Attack. (1 battle)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Attack. (1 battle)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

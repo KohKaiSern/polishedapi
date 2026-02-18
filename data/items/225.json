@@ -6,6 +6,7 @@
     "description": "A strange, goldcolored leaf.",
     "price": 500,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A strange, goldcolored leaf.",
     "price": 500,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

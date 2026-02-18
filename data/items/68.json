@@ -6,6 +6,7 @@
     "description": "A self-cure for confusion. (Hold)",
     "price": 10,
     "heldEffect": "HELD_BERRY",
+    "params": "10",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-cure for confusion. (Hold)",
     "price": 10,
     "heldEffect": "HELD_BERRY",
+    "params": "10",
     "category": "BERRIES"
   }
 }

@@ -6,6 +6,7 @@
     "description": "Restores Pokémon HP by 120.",
     "price": 700,
     "heldEffect": null,
+    "params": "60",
     "category": "MEDICINE"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Restores Pokémon HP by 120.",
     "price": 700,
     "heldEffect": null,
+    "params": "60",
     "category": "MEDICINE"
   }
 }

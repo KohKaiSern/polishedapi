@@ -6,6 +6,7 @@
     "description": "Raises Defense in a pinch.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "ATTACK",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises Defense in a pinch.",
     "price": 10,
     "heldEffect": "HELD_RAISE_STAT",
+    "params": "ATTACK",
     "category": "BERRIES"
   }
 }

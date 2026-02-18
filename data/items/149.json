@@ -6,6 +6,7 @@
     "description": "Self-restore item. (1/8 damage, Hold)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Self-restore item. (1/8 damage, Hold)",
     "price": 1000,
     "heldEffect": null,
+    "params": "0",
     "category": "ITEM"
   }
 }

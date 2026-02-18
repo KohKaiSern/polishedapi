@@ -6,6 +6,7 @@
     "description": "A self-cure for infatuation.",
     "price": 4000,
     "heldEffect": "HELD_ZOOM_LENS",
+    "params": "$65",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "A self-cure for infatuation.",
     "price": 4000,
     "heldEffect": "HELD_ZOOM_LENS",
+    "params": "$65",
     "category": "ITEM"
   }
 }

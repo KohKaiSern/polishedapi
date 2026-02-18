@@ -6,6 +6,7 @@
     "description": "Extends duration of trapping moves.",
     "price": 4000,
     "heldEffect": "HELD_DESTINY_KNOT",
+    "params": "0",
     "category": "ITEM"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Extends duration of trapping moves.",
     "price": 4000,
     "heldEffect": "HELD_DESTINY_KNOT",
+    "params": "0",
     "category": "ITEM"
   }
 }

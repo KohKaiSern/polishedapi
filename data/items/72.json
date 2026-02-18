@@ -6,6 +6,7 @@
     "description": "Raises friendship but lowers HP.",
     "price": 10,
     "heldEffect": "HELD_BERRY",
+    "params": "0",
     "category": "BERRIES"
   },
   "faithful": {
@@ -15,6 +16,7 @@
     "description": "Raises friendship but lowers HP.",
     "price": 10,
     "heldEffect": "HELD_BERRY",
+    "params": "0",
     "category": "BERRIES"
   }
 }
