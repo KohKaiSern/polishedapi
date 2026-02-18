@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdir } from 'fs/promises';
+import { readFile, writeFile, mkdir, readdir } from 'fs/promises';
 import sharp from 'sharp'
 const PC_PATH = import.meta.dirname + '/../polishedcrystal/';
 const DATA_PATH = import.meta.dirname + '/../data/';
@@ -84,6 +84,30 @@ export async function splitRead(path: string): Promise<Split<string>> {
   files.faithful = addLines(true)
 
   return files;
+}
+
+//This is used when we need to read an entire folder.
+export async function splitReadFolder(path: string): Promise<Split<{ filename: string, contents: string[] }>> {
+  const files: Split<{
+    filename: string;
+    contents: string[];
+  }> = {
+    polished: [],
+    faithful: []
+  }
+  const filenames = await readdir(PC_PATH + path)
+  for (const filename of filenames) {
+    const contents = await splitRead(path + filename);
+    files.polished.push({
+      filename,
+      contents: contents.polished
+    })
+    files.faithful.push({
+      filename,
+      contents: contents.faithful
+    })
+  }
+  return files
 }
 
 //Consolidates arrays of objects by index. This allows for easier testing of the extraction

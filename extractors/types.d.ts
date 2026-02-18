@@ -10,6 +10,16 @@ interface Base {
   index: number
 }
 
+//These interfaces dictate what should be fed into GFX-Generating functions.
+interface SpriteData extends Base {
+  spritePath: string
+  palette: [[number, number, number], [number, number, number]]
+}
+
+interface GIFData extends SpriteData {
+  anim: string[]
+}
+
 interface Ability extends Base {
   name: string,
   description: string
@@ -24,11 +34,22 @@ interface Item extends Base {
   category: string;
 }
 
-interface SpriteData extends Base {
-  spritePath: string
-  palette: [[number, number, number], [number, number, number]]
+//UNFINISHED
+interface Pokemon extends Base {
+  formNo: number;
+  name: string;
+  nationalDexNo: number;
+  johtoDexNo: number;
+  bsts: number[];
+  evolvesInto: string | null;
+  evoMethod: string | null;
+  levelMoves: {
+    id: string,
+    level: number
+  }[] | null;
+  eggMoves: string[] | null;
+  evoMove: string | null;
+  bodyData: string;
+  description: string;
 }
 
-interface GIFData extends SpriteData {
-  anim: string[]
-}
