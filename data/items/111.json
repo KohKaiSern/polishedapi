@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FIRE_STONE",
+    "index": 111,
+    "name": "Fire Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "FIRE_STONE",
+    "index": 111,
+    "name": "Fire Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

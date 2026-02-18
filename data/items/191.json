@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SCOPE_LENS",
+    "index": 191,
+    "name": "Scope Lens",
+    "description": "Slightly boosts accuracy. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CRITICAL_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SCOPE_LENS",
+    "index": 191,
+    "name": "Scope Lens",
+    "description": "Slightly boosts accuracy. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CRITICAL_UP",
+    "category": "ITEM"
+  }
+}

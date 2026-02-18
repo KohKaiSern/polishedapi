@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "APICOT_BERRY",
+    "index": 83,
+    "name": "Apicot Berry",
+    "description": "Ups critical hit ratio in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "APICOT_BERRY",
+    "index": 83,
+    "name": "Apicot Berry",
+    "description": "Ups critical hit ratio in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  }
+}

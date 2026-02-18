@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "X_SP_ATK",
+    "index": 103,
+    "name": "X Sp.Atk",
+    "description": "Raises Sp.Def. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "X_SP_ATK",
+    "index": 103,
+    "name": "X Sp.Atk",
+    "description": "Raises Sp.Def. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

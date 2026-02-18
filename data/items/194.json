@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MENTAL_HERB",
+    "index": 194,
+    "name": "Mental Herb",
+    "description": "Skips charging of moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_MENTAL_HERB",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MENTAL_HERB",
+    "index": 194,
+    "name": "Mental Herb",
+    "description": "Skips charging of moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_MENTAL_HERB",
+    "category": "ITEM"
+  }
+}

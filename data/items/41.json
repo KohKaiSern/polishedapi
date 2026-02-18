@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MAX_ELIXIR",
+    "index": 41,
+    "name": "Max Elixir",
+    "description": "Raises the HP of one Pokémon.",
+    "price": 4500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "MAX_ELIXIR",
+    "index": 41,
+    "name": "Max Elixir",
+    "description": "Raises the HP of one Pokémon.",
+    "price": 4500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

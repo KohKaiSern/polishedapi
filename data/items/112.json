@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "WATER_STONE",
+    "index": 112,
+    "name": "Water Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "WATER_STONE",
+    "index": 112,
+    "name": "Water Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BINDING_BAND",
+    "index": 168,
+    "name": "Binding Band",
+    "description": "Switches out when hit. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BINDING_BAND",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BINDING_BAND",
+    "index": 168,
+    "name": "Binding Band",
+    "description": "Switches out when hit. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BINDING_BAND",
+    "category": "ITEM"
+  }
+}

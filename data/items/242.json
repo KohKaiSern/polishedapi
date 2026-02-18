@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HELIX_FOSSIL",
+    "index": 242,
+    "name": "Helix Fossil",
+    "description": "A fossilized Pokémon shell.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "HELIX_FOSSIL",
+    "index": 242,
+    "name": "Helix Fossil",
+    "description": "A fossilized Pokémon shell.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

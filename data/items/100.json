@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "X_ATTACK",
+    "index": 100,
+    "name": "X Attack",
+    "description": "Raises Defense. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "X_ATTACK",
+    "index": 100,
+    "name": "X Attack",
+    "description": "Raises Defense. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "STARF_BERRY",
+    "index": 85,
+    "name": "Starf Berry",
+    "description": "Restores HP on super-effective hit.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "STARF_BERRY",
+    "index": 85,
+    "name": "Starf Berry",
+    "description": "Restores HP on super-effective hit.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  }
+}

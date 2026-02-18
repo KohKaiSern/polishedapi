@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ARENA_TRAP",
+    "index": 64,
+    "name": "Arena Trap",
+    "description": "Prevents the foe from fleeing."
+  },
+  "faithful": {
+    "id": "ARENA_TRAP",
+    "index": 64,
+    "name": "Arena Trap",
+    "description": "Prevents the foe from fleeing."
+  }
+}

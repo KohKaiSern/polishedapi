@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BERRY_JUICE",
+    "index": 92,
+    "name": "Berry Juice",
+    "description": "Repels weak Pokémon for 100 steps.",
+    "price": 100,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "BERRY_JUICE",
+    "index": 92,
+    "name": "Berry Juice",
+    "description": "Repels weak Pokémon for 100 steps.",
+    "price": 100,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  }
+}

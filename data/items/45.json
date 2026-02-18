@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CARBOS",
+    "index": 45,
+    "name": "Carbos",
+    "description": "Raises Sp.Atk of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "CARBOS",
+    "index": 45,
+    "name": "Carbos",
+    "description": "Raises Sp.Atk of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

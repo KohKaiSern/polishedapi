@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PROTECT_PADS",
+    "index": 173,
+    "name": "Protect Pads",
+    "description": "Raises Sp.Atk on a sound move.",
+    "price": 4000,
+    "heldEffect": "HELD_PROTECTIVE_PADS",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PROTECT_PADS",
+    "index": 173,
+    "name": "Protect Pads",
+    "description": "Raises Sp.Atk on a sound move.",
+    "price": 4000,
+    "heldEffect": "HELD_PROTECTIVE_PADS",
+    "category": "ITEM"
+  }
+}

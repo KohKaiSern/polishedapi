@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SOFT_SAND",
+    "index": 125,
+    "name": "Soft Sand",
+    "description": "Powers up Rocktype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SOFT_SAND",
+    "index": 125,
+    "name": "Soft Sand",
+    "description": "Powers up Rocktype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SURF_MAIL",
+    "index": 246,
+    "name": "Surf Mail",
+    "description": "Dratini-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SURF_MAIL",
+    "index": 246,
+    "name": "Surf Mail",
+    "description": "Dratini-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

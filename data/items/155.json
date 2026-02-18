@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LIFE_ORB",
+    "index": 155,
+    "name": "Life Orb",
+    "description": "Endures one OHKO move at full HP.",
+    "price": 4000,
+    "heldEffect": "HELD_LIFE_ORB",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LIFE_ORB",
+    "index": 155,
+    "name": "Life Orb",
+    "description": "Endures one OHKO move at full HP.",
+    "price": 4000,
+    "heldEffect": "HELD_LIFE_ORB",
+    "category": "ITEM"
+  }
+}

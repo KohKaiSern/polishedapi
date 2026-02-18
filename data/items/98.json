@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MULCH",
+    "index": 98,
+    "name": "Mulch",
+    "description": "The aroma attracts wild Pokémon.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MULCH",
+    "index": 98,
+    "name": "Mulch",
+    "description": "The aroma attracts wild Pokémon.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

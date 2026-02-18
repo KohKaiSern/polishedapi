@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SPEED_BOOST",
+    "index": 3,
+    "name": "Speed Boost",
+    "description": "Its Speed stat is gradually boosted."
+  },
+  "faithful": {
+    "id": "SPEED_BOOST",
+    "index": 3,
+    "name": "Speed Boost",
+    "description": "Its Speed stat is gradually boosted."
+  }
+}

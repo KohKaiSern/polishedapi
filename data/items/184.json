@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LIGHT_BALL",
+    "index": 184,
+    "name": "Light Ball",
+    "description": "An ordinary leek. Sell low.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LIGHT_BALL",
+    "index": 184,
+    "name": "Light Ball",
+    "description": "An ordinary leek. Sell low.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

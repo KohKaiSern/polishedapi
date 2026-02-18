@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SWEET_HONEY",
+    "index": 99,
+    "name": "Sweet Honey",
+    "description": "Raises Attack. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SWEET_HONEY",
+    "index": 99,
+    "name": "Honey",
+    "description": "Raises Attack. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

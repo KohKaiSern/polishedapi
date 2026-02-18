@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MYSTIC_WATER",
+    "index": 131,
+    "name": "Mystic Water",
+    "description": "Powers up Grasstype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MYSTIC_WATER",
+    "index": 131,
+    "name": "Mystic Water",
+    "description": "Powers up Grasstype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

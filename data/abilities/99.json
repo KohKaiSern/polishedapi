@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ICE_BODY",
+    "index": 99,
+    "name": "Ice Body",
+    "description": "Gradually regains HP in hail."
+  },
+  "faithful": {
+    "id": "ICE_BODY",
+    "index": 99,
+    "name": "Ice Body",
+    "description": "Gradually regains HP in hail."
+  }
+}

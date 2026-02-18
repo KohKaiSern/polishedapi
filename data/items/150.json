@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SHELL_BELL",
+    "index": 150,
+    "name": "Shell Bell",
+    "description": "Powers up physical moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SHELL_BELL",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SHELL_BELL",
+    "index": 150,
+    "name": "Shell Bell",
+    "description": "Powers up physical moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SHELL_BELL",
+    "category": "ITEM"
+  }
+}

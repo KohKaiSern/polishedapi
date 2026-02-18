@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHERI_BERRY",
+    "index": 62,
+    "name": "Cheri Berry",
+    "description": "A self-awakening for sleep. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "CHERI_BERRY",
+    "index": 62,
+    "name": "Cheri Berry",
+    "description": "A self-awakening for sleep. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

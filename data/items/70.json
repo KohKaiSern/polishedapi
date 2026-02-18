@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LUM_BERRY",
+    "index": 70,
+    "name": "Lum Berry",
+    "description": "Self-restore item. (1/4 max HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "LUM_BERRY",
+    "index": 70,
+    "name": "Lum Berry",
+    "description": "Self-restore item. (1/4 max HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

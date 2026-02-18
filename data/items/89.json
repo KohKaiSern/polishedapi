@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ROWAP_BERRY",
+    "index": 89,
+    "name": "Rowap Berry",
+    "description": "Raises Defense on a physical hit.",
+    "price": 10,
+    "heldEffect": "HELD_OFFEND_HIT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "ROWAP_BERRY",
+    "index": 89,
+    "name": "Rowap Berry",
+    "description": "Raises Defense on a physical hit.",
+    "price": 10,
+    "heldEffect": "HELD_OFFEND_HIT",
+    "category": "BERRIES"
+  }
+}

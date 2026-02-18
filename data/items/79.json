@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LIECHI_BERRY",
+    "index": 79,
+    "name": "Liechi Berry",
+    "description": "Raises Defense in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "LIECHI_BERRY",
+    "index": 79,
+    "name": "Liechi Berry",
+    "description": "Raises Defense in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  }
+}

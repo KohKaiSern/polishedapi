@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "OLD_AMBER",
+    "index": 244,
+    "name": "Old Amber",
+    "description": "Flower-print Mail. (Hold)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "OLD_AMBER",
+    "index": 244,
+    "name": "Old Amber",
+    "description": "Flower-print Mail. (Hold)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

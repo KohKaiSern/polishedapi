@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MASTER_BALL",
+    "index": 4,
+    "name": "Master Ball",
+    "description": "The Safari Game Ball.",
+    "price": null,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "MASTER_BALL",
+    "index": 4,
+    "name": "Master Ball",
+    "description": "The Safari Game Ball.",
+    "price": null,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

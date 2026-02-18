@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LEVEL_BALL",
+    "index": 6,
+    "name": "Level Ball",
+    "description": "A Ball for Pokémon hooked by a Rod.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "LEVEL_BALL",
+    "index": 6,
+    "name": "Level Ball",
+    "description": "A Ball for Pokémon hooked by a Rod.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

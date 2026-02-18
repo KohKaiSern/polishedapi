@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DIRE_HIT",
+    "index": 106,
+    "name": "Dire Hit",
+    "description": "Prevents stat drops. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DIRE_HIT",
+    "index": 106,
+    "name": "Dire Hit",
+    "description": "Prevents stat drops. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "QUICK_DRAW",
+    "index": 150,
+    "name": "Quick Draw",
+    "description": "Moves first occasionally."
+  },
+  "faithful": {
+    "id": "QUICK_DRAW",
+    "index": 150,
+    "name": "Quick Draw",
+    "description": "Moves first occasionally."
+  }
+}

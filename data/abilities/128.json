@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MAGIC_BOUNCE",
+    "index": 128,
+    "name": "Magic Bounce",
+    "description": "Reflects statuschanging moves."
+  },
+  "faithful": {
+    "id": "MAGIC_BOUNCE",
+    "index": 128,
+    "name": "Magic Bounce",
+    "description": "Reflects statuschanging moves."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MUSCLE_BAND",
+    "index": 151,
+    "name": "Muscle Band",
+    "description": "Powers up special moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CATEGORY_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MUSCLE_BAND",
+    "index": 151,
+    "name": "Muscle Band",
+    "description": "Powers up special moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CATEGORY_BOOST",
+    "category": "ITEM"
+  }
+}

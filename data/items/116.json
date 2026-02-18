@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SUN_STONE",
+    "index": 116,
+    "name": "Sun Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SUN_STONE",
+    "index": 116,
+    "name": "Sun Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

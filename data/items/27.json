@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HYPER_POTION",
+    "index": 27,
+    "name": "Hyper Potion",
+    "description": "Fully restores Pokémon HP.",
+    "price": 1500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "HYPER_POTION",
+    "index": 27,
+    "name": "Hyper Potion",
+    "description": "Fully restores Pokémon HP.",
+    "price": 1500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

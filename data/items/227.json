@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MINT_LEAF",
+    "index": 227,
+    "name": "Mint Leaf",
+    "description": "A shiny, rare bottle cap.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MINT_LEAF",
+    "index": 227,
+    "name": "Mint Leaf",
+    "description": "A shiny, rare bottle cap.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

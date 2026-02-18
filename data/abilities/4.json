@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "BATTLE_ARMOR",
+    "index": 4,
+    "name": "Battle Armor",
+    "description": "Protects from critical hits."
+  },
+  "faithful": {
+    "id": "BATTLE_ARMOR",
+    "index": 4,
+    "name": "Battle Armor",
+    "description": "Protects from critical hits."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PERSIM_BERRY",
+    "index": 69,
+    "name": "Persim Berry",
+    "description": "Cures all status problems. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_CONFUSE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "PERSIM_BERRY",
+    "index": 69,
+    "name": "Persim Berry",
+    "description": "Cures all status problems. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_CONFUSE",
+    "category": "BERRIES"
+  }
+}

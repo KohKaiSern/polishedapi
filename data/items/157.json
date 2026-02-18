@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "METRONOME_I",
+    "index": 157,
+    "name": "Metronome",
+    "description": "Lowers Speed and grounds. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_METRONOME",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "METRONOME_I",
+    "index": 157,
+    "name": "Metronome",
+    "description": "Lowers Speed and grounds. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_METRONOME",
+    "category": "ITEM"
+  }
+}

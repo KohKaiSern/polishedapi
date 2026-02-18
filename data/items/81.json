@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SALAC_BERRY",
+    "index": 81,
+    "name": "Salac Berry",
+    "description": "Raises Sp.Atk in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "SALAC_BERRY",
+    "index": 81,
+    "name": "Salac Berry",
+    "description": "Raises Sp.Atk in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SLOWPOKETAIL",
+    "index": 241,
+    "name": "SlowpokeTail",
+    "description": "A fossilized Pokémon shell.",
+    "price": 9800,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SLOWPOKETAIL",
+    "index": 241,
+    "name": "SlowpokeTail",
+    "description": "A fossilized Pokémon shell.",
+    "price": 9800,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

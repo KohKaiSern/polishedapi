@@ -1,0 +1,18 @@
+{
+  "polished": {
+    "id": "MIRAGE_MAIL",
+    "index": 254,
+    "name": "Mirage Mail",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MIRAGE_MAIL",
+    "index": 254,
+    "name": "Mirage Mail",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

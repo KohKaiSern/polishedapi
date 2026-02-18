@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MULTISCALE",
+    "index": 113,
+    "name": "Multiscale",
+    "description": "Reduces damage when HP is full."
+  },
+  "faithful": {
+    "id": "MULTISCALE",
+    "index": 113,
+    "name": "Multiscale",
+    "description": "Reduces damage when HP is full."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SOOTHE_BELL",
+    "index": 149,
+    "name": "Soothe Bell",
+    "description": "Self-restore item. (1/8 damage, Hold)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SOOTHE_BELL",
+    "index": 149,
+    "name": "Soothe Bell",
+    "description": "Self-restore item. (1/8 damage, Hold)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PICKUP",
+    "index": 50,
+    "name": "Pickup",
+    "description": "The Pokémon may pick up items."
+  },
+  "faithful": {
+    "id": "PICKUP",
+    "index": 50,
+    "name": "Pickup",
+    "description": "The Pokémon may pick up items."
+  }
+}

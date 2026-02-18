@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ESCAPE_ROPE",
+    "index": 96,
+    "name": "Escape Rope",
+    "description": "Use to escape from a wild Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ESCAPE_ROPE",
+    "index": 96,
+    "name": "Escape Rope",
+    "description": "Use to escape from a wild Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

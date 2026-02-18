@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STENCH",
+    "index": 1,
+    "name": "Stench",
+    "description": "May cause the foe to flinch."
+  },
+  "faithful": {
+    "id": "STENCH",
+    "index": 1,
+    "name": "Stench",
+    "description": "May cause the foe to flinch."
+  }
+}

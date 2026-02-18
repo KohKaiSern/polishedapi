@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "WEAK_POLICY",
+    "index": 170,
+    "name": "Weak Policy",
+    "description": "Boosts Sp.Def, but bans status moves.",
+    "price": 1000,
+    "heldEffect": "HELD_WEAKNESS_POLICY",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "WEAK_POLICY",
+    "index": 170,
+    "name": "Weak Policy",
+    "description": "Boosts Sp.Def, but bans status moves.",
+    "price": 1000,
+    "heldEffect": "HELD_WEAKNESS_POLICY",
+    "category": "ITEM"
+  }
+}

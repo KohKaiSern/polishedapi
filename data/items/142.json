@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "KINGS_ROCK",
+    "index": 142,
+    "name": "King's Rock",
+    "description": "Doubles monetary earnings. (Hold)",
+    "price": 5000,
+    "heldEffect": "HELD_FLINCH_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "KINGS_ROCK",
+    "index": 142,
+    "name": "King's Rock",
+    "description": "Doubles monetary earnings. (Hold)",
+    "price": 5000,
+    "heldEffect": "HELD_FLINCH_UP",
+    "category": "ITEM"
+  }
+}

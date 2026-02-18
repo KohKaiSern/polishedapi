@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MAX_REPEL",
+    "index": 95,
+    "name": "Max Repel",
+    "description": "Use for escaping from caves, etc.",
+    "price": 900,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MAX_REPEL",
+    "index": 95,
+    "name": "Max Repel",
+    "description": "Use for escaping from caves, etc.",
+    "price": 900,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

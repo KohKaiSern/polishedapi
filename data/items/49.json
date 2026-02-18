@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PP_UP",
+    "index": 49,
+    "name": "PP Up",
+    "description": "Maximizes PP of a selected move.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "PP_UP",
+    "index": 49,
+    "name": "PP Up",
+    "description": "Maximizes PP of a selected move.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

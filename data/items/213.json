@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_ANKLET",
+    "index": 213,
+    "name": "Power Anklet",
+    "description": "A rare Dragon-type item.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SPE_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_ANKLET",
+    "index": 213,
+    "name": "Power Anklet",
+    "description": "A rare Dragon-type item.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SPE_UP",
+    "category": "ITEM"
+  }
+}

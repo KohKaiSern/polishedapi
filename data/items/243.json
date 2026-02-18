@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DOME_FOSSIL",
+    "index": 243,
+    "name": "Dome Fossil",
+    "description": "Fossilized resin containing DNA.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DOME_FOSSIL",
+    "index": 243,
+    "name": "Dome Fossil",
+    "description": "Fossilized resin containing DNA.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

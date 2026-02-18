@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "CORROSION",
+    "index": 142,
+    "name": "Corrosion",
+    "description": "Foes of any type can be poisoned."
+  },
+  "faithful": {
+    "id": "CORROSION",
+    "index": 142,
+    "name": "Corrosion",
+    "description": "Foes of any type can be poisoned."
+  }
+}

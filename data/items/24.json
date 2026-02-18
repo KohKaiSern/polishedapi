@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHERISH_BALL",
+    "index": 24,
+    "name": "Cherish Ball",
+    "description": "Restores Pokémon HP by 20.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "CHERISH_BALL",
+    "index": 24,
+    "name": "Cherish Ball",
+    "description": "Restores Pokémon HP by 20.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

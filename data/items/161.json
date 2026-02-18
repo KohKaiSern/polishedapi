@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "GRIP_CLAW",
+    "index": 161,
+    "name": "Grip Claw",
+    "description": "Allows switching out. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_WRAP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "GRIP_CLAW",
+    "index": 161,
+    "name": "Grip Claw",
+    "description": "Allows switching out. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_WRAP",
+    "category": "ITEM"
+  }
+}

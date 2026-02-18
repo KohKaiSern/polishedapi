@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "NEST_BALL",
+    "index": 15,
+    "name": "Nest Ball",
+    "description": "A Ball for Water or Bug Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "NEST_BALL",
+    "index": 15,
+    "name": "Nest Ball",
+    "description": "A Ball for Water or Bug Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

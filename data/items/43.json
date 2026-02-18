@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PROTEIN",
+    "index": 43,
+    "name": "Protein",
+    "description": "Raises Defense of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "PROTEIN",
+    "index": 43,
+    "name": "Protein",
+    "description": "Raises Defense of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

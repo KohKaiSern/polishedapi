@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ENIGMA_BERRY",
+    "index": 86,
+    "name": "Enigma Berry",
+    "description": "Moves first in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_ENIGMA_BERRY",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "ENIGMA_BERRY",
+    "index": 86,
+    "name": "Enigma Berry",
+    "description": "Moves first in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_ENIGMA_BERRY",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ANTIDOTE",
+    "index": 29,
+    "name": "Antidote",
+    "description": "Heals burned Pokémon.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ANTIDOTE",
+    "index": 29,
+    "name": "Antidote",
+    "description": "Heals burned Pokémon.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

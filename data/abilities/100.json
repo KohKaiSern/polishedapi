@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SOLID_ROCK",
+    "index": 100,
+    "name": "Solid Rock",
+    "description": "Reduces super effective damage."
+  },
+  "faithful": {
+    "id": "SOLID_ROCK",
+    "index": 100,
+    "name": "Solid Rock",
+    "description": "Reduces super effective damage."
+  }
+}

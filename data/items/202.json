@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHOICE_SCARF",
+    "index": 202,
+    "name": "Choice Scarf",
+    "description": "Boosts Sp.Atk, but allows one move.",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CHOICE_SCARF",
+    "index": 202,
+    "name": "Choice Scarf",
+    "description": "Boosts Sp.Atk, but allows one move.",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HONDEW_BERRY",
+    "index": 76,
+    "name": "Hondew Berry",
+    "description": "Raises friendship but lowers Sp.Def.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "HONDEW_BERRY",
+    "index": 76,
+    "name": "Hondew Berry",
+    "description": "Raises friendship but lowers Sp.Def.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "REPEAT_BALL",
+    "index": 13,
+    "name": "Repeat Ball",
+    "description": "A Ball for late in a battle.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "REPEAT_BALL",
+    "index": 13,
+    "name": "Repeat Ball",
+    "description": "A Ball for late in a battle.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

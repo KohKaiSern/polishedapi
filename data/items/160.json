@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DESTINY_KNOT",
+    "index": 160,
+    "name": "Destiny Knot",
+    "description": "Extends duration of trapping moves.",
+    "price": 4000,
+    "heldEffect": "HELD_DESTINY_KNOT",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DESTINY_KNOT",
+    "index": 160,
+    "name": "Destiny Knot",
+    "description": "Extends duration of trapping moves.",
+    "price": 4000,
+    "heldEffect": "HELD_DESTINY_KNOT",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_WEIGHT",
+    "index": 208,
+    "name": "Power Weight",
+    "description": "Ups Attack gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_HP_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_WEIGHT",
+    "index": 208,
+    "name": "Power Weight",
+    "description": "Ups Attack gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_HP_UP",
+    "category": "ITEM"
+  }
+}

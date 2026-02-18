@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PECHA_BERRY",
+    "index": 64,
+    "name": "Pecha Berry",
+    "description": "A self-heal for a burn. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "PECHA_BERRY",
+    "index": 64,
+    "name": "Pecha Berry",
+    "description": "A self-heal for a burn. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

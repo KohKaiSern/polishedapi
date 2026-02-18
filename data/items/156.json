@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FOCUS_SASH",
+    "index": 156,
+    "name": "Focus Sash",
+    "description": "Powers up moves used again. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_FOCUS_SASH",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "FOCUS_SASH",
+    "index": 156,
+    "name": "Focus Sash",
+    "description": "Powers up moves used again. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_FOCUS_SASH",
+    "category": "ITEM"
+  }
+}

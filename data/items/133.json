@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MAGNET",
+    "index": 133,
+    "name": "Magnet",
+    "description": "Powers up Psychictype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MAGNET",
+    "index": 133,
+    "name": "Magnet",
+    "description": "Powers up Psychictype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POTION",
+    "index": 25,
+    "name": "Potion",
+    "description": "Restores Pokémon HP by 60.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "POTION",
+    "index": 25,
+    "name": "Potion",
+    "description": "Restores Pokémon HP by 60.",
+    "price": 200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

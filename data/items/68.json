@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ORAN_BERRY",
+    "index": 68,
+    "name": "Oran Berry",
+    "description": "A self-cure for confusion. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "ORAN_BERRY",
+    "index": 68,
+    "name": "Oran Berry",
+    "description": "A self-cure for confusion. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  }
+}

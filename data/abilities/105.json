@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PICKPOCKET",
+    "index": 105,
+    "name": "Pickpocket",
+    "description": "Steals foe's item when contacted."
+  },
+  "faithful": {
+    "id": "PICKPOCKET",
+    "index": 105,
+    "name": "Pickpocket",
+    "description": "Steals foe's item when contacted."
+  }
+}

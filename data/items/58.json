@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ENERGY_ROOT",
+    "index": 58,
+    "name": "Energy Root",
+    "description": "Cures all status problems. Bitter.",
+    "price": 1200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ENERGY_ROOT",
+    "index": 58,
+    "name": "Energy Root",
+    "description": "Cures all status problems. Bitter.",
+    "price": 1200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

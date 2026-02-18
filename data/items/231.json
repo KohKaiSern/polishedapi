@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "TINYMUSHROOM",
+    "index": 231,
+    "name": "TinyMushroom",
+    "description": "A rare mushroom. Sell high.",
+    "price": 500,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "TINYMUSHROOM",
+    "index": 231,
+    "name": "TinyMushroom",
+    "description": "A rare mushroom. Sell high.",
+    "price": 500,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

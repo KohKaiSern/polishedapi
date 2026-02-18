@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FUR_COAT",
+    "index": 132,
+    "name": "Fur Coat",
+    "description": "Halves damage from physical moves."
+  },
+  "faithful": {
+    "id": "FUR_COAT",
+    "index": 132,
+    "name": "Fur Coat",
+    "description": "Halves damage from physical moves."
+  }
+}

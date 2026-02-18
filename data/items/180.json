@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MIRROR_HERB",
+    "index": 180,
+    "name": "Mirror Herb",
+    "description": "Powers punch moves with no contact.",
+    "price": 4000,
+    "heldEffect": "HELD_MIRROR_HERB",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MIRROR_HERB",
+    "index": 180,
+    "name": "Mirror Herb",
+    "description": "Powers punch moves with no contact.",
+    "price": 4000,
+    "heldEffect": "HELD_MIRROR_HERB",
+    "category": "ITEM"
+  }
+}

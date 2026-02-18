@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "IRON",
+    "index": 44,
+    "name": "Iron",
+    "description": "Raises Speed of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "IRON",
+    "index": 44,
+    "name": "Iron",
+    "description": "Raises Speed of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

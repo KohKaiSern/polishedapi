@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "TOXIC_ORB",
+    "index": 205,
+    "name": "Toxic Orb",
+    "description": "Restores HP for Poison Pokémon.",
+    "price": 4000,
+    "heldEffect": "HELD_SELF_PSN",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "TOXIC_ORB",
+    "index": 205,
+    "name": "Toxic Orb",
+    "description": "Restores HP for Poison Pokémon.",
+    "price": 4000,
+    "heldEffect": "HELD_SELF_PSN",
+    "category": "ITEM"
+  }
+}

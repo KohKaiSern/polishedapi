@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_BRACER",
+    "index": 209,
+    "name": "Power Bracer",
+    "description": "Ups Defense gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_ATK_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_BRACER",
+    "index": 209,
+    "name": "Power Bracer",
+    "description": "Ups Defense gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_ATK_UP",
+    "category": "ITEM"
+  }
+}

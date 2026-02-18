@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "NEVERMELTICE",
+    "index": 135,
+    "name": "NeverMeltIce",
+    "description": "Powers up Dragontype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "NEVERMELTICE",
+    "index": 135,
+    "name": "NeverMeltIce",
+    "description": "Powers up Dragontype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

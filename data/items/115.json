@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MOON_STONE",
+    "index": 115,
+    "name": "Moon Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MOON_STONE",
+    "index": 115,
+    "name": "Moon Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SHARP_BEAK",
+    "index": 123,
+    "name": "Sharp Beak",
+    "description": "Powers up Poisontype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SHARP_BEAK",
+    "index": 123,
+    "name": "Sharp Beak",
+    "description": "Powers up Poisontype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

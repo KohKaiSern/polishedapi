@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BRIGHTPOWDER",
+    "index": 140,
+    "name": "BrightPowder",
+    "description": "Boosts chances of moving 1st. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BRIGHTPOWDER",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BRIGHTPOWDER",
+    "index": 140,
+    "name": "BrightPowder",
+    "description": "Boosts chances of moving 1st. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BRIGHTPOWDER",
+    "category": "ITEM"
+  }
+}

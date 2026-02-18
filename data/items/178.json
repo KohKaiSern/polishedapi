@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ROOM_SERVICE",
+    "index": 178,
+    "name": "Room Service",
+    "description": "Prevents statlowering by foes.",
+    "price": 4000,
+    "heldEffect": "HELD_ROOM_SERVICE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ROOM_SERVICE",
+    "index": 178,
+    "name": "Room Service",
+    "description": "Prevents statlowering by foes.",
+    "price": 4000,
+    "heldEffect": "HELD_ROOM_SERVICE",
+    "category": "ITEM"
+  }
+}

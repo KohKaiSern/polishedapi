@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BIG_NUGGET",
+    "index": 230,
+    "name": "Big Nugget",
+    "description": "An ordinary mushroom. Sell low.",
+    "price": 20000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BIG_NUGGET",
+    "index": 230,
+    "name": "Big Nugget",
+    "description": "An ordinary mushroom. Sell low.",
+    "price": 20000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

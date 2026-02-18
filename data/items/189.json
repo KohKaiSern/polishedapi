@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "QUICK_POWDER",
+    "index": 189,
+    "name": "Quick Powder",
+    "description": "A suit of armor for some Pokémon.",
+    "price": 100,
+    "heldEffect": "HELD_QUICK_POWDER",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "QUICK_POWDER",
+    "index": 189,
+    "name": "Quick Powder",
+    "description": "A suit of armor for some Pokémon.",
+    "price": 100,
+    "heldEffect": "HELD_QUICK_POWDER",
+    "category": "ITEM"
+  }
+}

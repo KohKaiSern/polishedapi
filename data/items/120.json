@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EXP_SHARE",
+    "index": 120,
+    "name": "Exp.Share",
+    "description": "Powers up Normaltype moves. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EXP_SHARE",
+    "index": 120,
+    "name": "Exp.Share",
+    "description": "Powers up Normaltype moves. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

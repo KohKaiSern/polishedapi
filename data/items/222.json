@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "OVAL_STONE",
+    "index": 222,
+    "name": "Oval Stone",
+    "description": "An ornament from a far-away place.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "OVAL_STONE",
+    "index": 222,
+    "name": "Oval Stone",
+    "description": "An ornament from a far-away place.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

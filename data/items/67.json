@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LEPPA_BERRY",
+    "index": 67,
+    "name": "Leppa Berry",
+    "description": "A self-restore item. (10HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_RESTORE_PP",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "LEPPA_BERRY",
+    "index": 67,
+    "name": "Leppa Berry",
+    "description": "A self-restore item. (10HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_RESTORE_PP",
+    "category": "BERRIES"
+  }
+}

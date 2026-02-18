@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PINK_BOW",
+    "index": 138,
+    "name": "Pink Bow",
+    "description": "Boosts Attack but causes confusion.",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PINK_BOW",
+    "index": 138,
+    "name": "Pink Bow",
+    "description": "Boosts Attack but causes confusion.",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

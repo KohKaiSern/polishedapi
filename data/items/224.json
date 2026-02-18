@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LINKING_CORD",
+    "index": 224,
+    "name": "Linking Cord",
+    "description": "A strange, silvercolored leaf.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LINKING_CORD",
+    "index": 224,
+    "name": "Linking Cord",
+    "description": "A strange, silvercolored leaf.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

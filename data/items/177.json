@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BLUNDRPOLICY",
+    "index": 177,
+    "name": "BlundrPolicy",
+    "description": "Lowers Speed in Trick Room. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BLUNDER_POLICY",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BLUNDRPOLICY",
+    "index": 177,
+    "name": "BlundrPolicy",
+    "description": "Lowers Speed in Trick Room. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BLUNDER_POLICY",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RAZOR_FANG",
+    "index": 220,
+    "name": "Razor Fang",
+    "description": "Raises critical hit ratio. (Hold)",
+    "price": 5000,
+    "heldEffect": "HELD_FLINCH_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "RAZOR_FANG",
+    "index": 220,
+    "name": "Razor Fang",
+    "description": "Raises critical hit ratio. (Hold)",
+    "price": 5000,
+    "heldEffect": "HELD_FLINCH_UP",
+    "category": "ITEM"
+  }
+}

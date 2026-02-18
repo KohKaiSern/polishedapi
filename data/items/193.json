@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ZOOM_LENS",
+    "index": 193,
+    "name": "Zoom Lens",
+    "description": "A self-cure for infatuation.",
+    "price": 4000,
+    "heldEffect": "HELD_ZOOM_LENS",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ZOOM_LENS",
+    "index": 193,
+    "name": "Zoom Lens",
+    "description": "A self-cure for infatuation.",
+    "price": 4000,
+    "heldEffect": "HELD_ZOOM_LENS",
+    "category": "ITEM"
+  }
+}

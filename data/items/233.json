@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BALMMUSHROOM",
+    "index": 233,
+    "name": "BalmMushroom",
+    "description": "A beautiful pearl. Sell low.",
+    "price": 15000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BALMMUSHROOM",
+    "index": 233,
+    "name": "BalmMushroom",
+    "description": "A beautiful pearl. Sell low.",
+    "price": 15000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RAGECANDYBAR",
+    "index": 55,
+    "name": "Cake of Rage",
+    "description": "Eliminates all status problems.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "RAGECANDYBAR",
+    "index": 55,
+    "name": "RageCandyBar",
+    "description": "Eliminates all status problems.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ENERGYPOWDER",
+    "index": 57,
+    "name": "EnergyPowder",
+    "description": "Restores Pokémon HP by 120. Bitter.",
+    "price": 500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ENERGYPOWDER",
+    "index": 57,
+    "name": "EnergyPowder",
+    "description": "Restores Pokémon HP by 120. Bitter.",
+    "price": 500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

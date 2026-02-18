@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SAFE_GOGGLES",
+    "index": 172,
+    "name": "Safe Goggles",
+    "description": "Protects from contact effects.",
+    "price": 4000,
+    "heldEffect": "HELD_SAFETY_GOGGLES",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SAFE_GOGGLES",
+    "index": 172,
+    "name": "Safe Goggles",
+    "description": "Protects from contact effects.",
+    "price": 4000,
+    "heldEffect": "HELD_SAFETY_GOGGLES",
+    "category": "ITEM"
+  }
+}

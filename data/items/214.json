@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DRAGON_SCALE",
+    "index": 214,
+    "name": "Dragon Scale",
+    "description": "A mysterious box made by Silph Co.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DRAGON_SCALE",
+    "index": 214,
+    "name": "Dragon Scale",
+    "description": "A mysterious box made by Silph Co.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

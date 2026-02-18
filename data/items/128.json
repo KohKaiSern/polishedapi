@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SPELL_TAG",
+    "index": 128,
+    "name": "Spell Tag",
+    "description": "Powers up Steeltype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SPELL_TAG",
+    "index": 128,
+    "name": "Spell Tag",
+    "description": "Powers up Steeltype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FOCUS_BAND",
+    "index": 146,
+    "name": "Focus Band",
+    "description": "Earns extra Exp. points. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_FOCUS_BAND",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "FOCUS_BAND",
+    "index": 146,
+    "name": "Focus Band",
+    "description": "Earns extra Exp. points. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_FOCUS_BAND",
+    "category": "ITEM"
+  }
+}

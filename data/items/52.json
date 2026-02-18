@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SODA_POP",
+    "index": 52,
+    "name": "Soda Pop",
+    "description": "Restores Pokémon HP by 70.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "SODA_POP",
+    "index": 52,
+    "name": "Soda Pop",
+    "description": "Restores Pokémon HP by 70.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

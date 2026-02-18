@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MAX_POTION",
+    "index": 28,
+    "name": "Max Potion",
+    "description": "Cures poisoned Pokémon.",
+    "price": 2500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "MAX_POTION",
+    "index": 28,
+    "name": "Max Potion",
+    "description": "Cures poisoned Pokémon.",
+    "price": 2500,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

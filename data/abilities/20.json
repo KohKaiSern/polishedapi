@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SUCTION_CUPS",
+    "index": 20,
+    "name": "Suction Cups",
+    "description": "Negates forced switch-outs."
+  },
+  "faithful": {
+    "id": "SUCTION_CUPS",
+    "index": 20,
+    "name": "Suction Cups",
+    "description": "Negates forced switch-outs."
+  }
+}

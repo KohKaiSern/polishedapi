@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LIGHTNING_ROD",
+    "index": 28,
+    "name": "Lightning Rod",
+    "description": "Electric moves boost Sp.Atk."
+  },
+  "faithful": {
+    "id": "LIGHTNING_ROD",
+    "index": 28,
+    "name": "Lightning Rod",
+    "description": "Electric moves boost Sp.Atk."
+  }
+}

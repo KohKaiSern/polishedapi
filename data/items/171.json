@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ASSAULT_VEST",
+    "index": 171,
+    "name": "Assault Vest",
+    "description": "Protects from weather damage.",
+    "price": 1000,
+    "heldEffect": "HELD_ASSAULT_VEST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ASSAULT_VEST",
+    "index": 171,
+    "name": "Assault Vest",
+    "description": "Protects from weather damage.",
+    "price": 1000,
+    "heldEffect": "HELD_ASSAULT_VEST",
+    "category": "ITEM"
+  }
+}

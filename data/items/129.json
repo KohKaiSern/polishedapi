@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "METAL_COAT",
+    "index": 129,
+    "name": "Metal Coat",
+    "description": "Powers up Firetype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "METAL_COAT",
+    "index": 129,
+    "name": "Metal Coat",
+    "description": "Powers up Firetype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

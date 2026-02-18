@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "AIR_BALLOON",
+    "index": 166,
+    "name": "Air Balloon",
+    "description": "Switches out foe when hit. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_AIR_BALLOON",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "AIR_BALLOON",
+    "index": 166,
+    "name": "Air Balloon",
+    "description": "Switches out foe when hit. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_AIR_BALLOON",
+    "category": "ITEM"
+  }
+}

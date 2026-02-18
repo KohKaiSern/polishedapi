@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LURE_BALL",
+    "index": 7,
+    "name": "Lure Ball",
+    "description": "A Ball for Moon Stone evolvers.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "LURE_BALL",
+    "index": 7,
+    "name": "Lure Ball",
+    "description": "A Ball for Moon Stone evolvers.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

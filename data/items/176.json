@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HEAVY_BOOTS",
+    "index": 176,
+    "name": "Heavy Boots",
+    "description": "Raises Speed when a move misses.",
+    "price": 4000,
+    "heldEffect": "HELD_HEAVY_BOOTS",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "HEAVY_BOOTS",
+    "index": 176,
+    "name": "Heavy Boots",
+    "description": "Raises Speed when a move misses.",
+    "price": 4000,
+    "heldEffect": "HELD_HEAVY_BOOTS",
+    "category": "ITEM"
+  }
+}

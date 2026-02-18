@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LAGGING_TAIL",
+    "index": 159,
+    "name": "Lagging Tail",
+    "description": "Infatuates the foe back. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_LAGGING_TAIL",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LAGGING_TAIL",
+    "index": 159,
+    "name": "Lagging Tail",
+    "description": "Infatuates the foe back. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_LAGGING_TAIL",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STURDY",
+    "index": 5,
+    "name": "Sturdy",
+    "description": "Cannot be knocked out with one hit."
+  },
+  "faithful": {
+    "id": "STURDY",
+    "index": 5,
+    "name": "Sturdy",
+    "description": "Cannot be knocked out with one hit."
+  }
+}

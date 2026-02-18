@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PEARL_STRING",
+    "index": 236,
+    "name": "Pearl String",
+    "description": "Pretty, red sand. Sell high.",
+    "price": 16000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PEARL_STRING",
+    "index": 236,
+    "name": "Pearl String",
+    "description": "Pretty, red sand. Sell high.",
+    "price": 16000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

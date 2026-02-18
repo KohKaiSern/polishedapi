@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SOLAR_POWER",
+    "index": 83,
+    "name": "Solar Power",
+    "description": "Boosts Sp.Atk but lowers HP in sun."
+  },
+  "faithful": {
+    "id": "SOLAR_POWER",
+    "index": 83,
+    "name": "Solar Power",
+    "description": "Boosts Sp.Atk but lowers HP in sun."
+  }
+}

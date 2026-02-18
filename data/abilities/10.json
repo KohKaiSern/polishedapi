@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "VOLT_ABSORB",
+    "index": 10,
+    "name": "Volt Absorb",
+    "description": "Restores HP if hit by Electric moves."
+  },
+  "faithful": {
+    "id": "VOLT_ABSORB",
+    "index": 10,
+    "name": "Volt Absorb",
+    "description": "Restores HP if hit by Electric moves."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CLEAR_AMULET",
+    "index": 179,
+    "name": "Clear Amulet",
+    "description": "Copies foe's statboost once.",
+    "price": 4000,
+    "heldEffect": "HELD_CLEAR_AMULET",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CLEAR_AMULET",
+    "index": 179,
+    "name": "Clear Amulet",
+    "description": "Copies foe's statboost once.",
+    "price": 4000,
+    "heldEffect": "HELD_CLEAR_AMULET",
+    "category": "ITEM"
+  }
+}

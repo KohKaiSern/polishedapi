@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MARANGABERRY",
+    "index": 91,
+    "name": "MarangaBerry",
+    "description": "A self-restore item. (20HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_DEFEND_HIT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "MARANGABERRY",
+    "index": 91,
+    "name": "MarangaBerry",
+    "description": "A self-restore item. (20HP, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_DEFEND_HIT",
+    "category": "BERRIES"
+  }
+}

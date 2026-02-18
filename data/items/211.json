@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_LENS",
+    "index": 211,
+    "name": "Power Lens",
+    "description": "Ups Sp.Def gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SAT_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_LENS",
+    "index": 211,
+    "name": "Power Lens",
+    "description": "Ups Sp.Def gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SAT_UP",
+    "category": "ITEM"
+  }
+}

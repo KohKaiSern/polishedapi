@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DAMP_ROCK",
+    "index": 197,
+    "name": "Damp Rock",
+    "description": "Extends duration of sun. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_RAIN",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DAMP_ROCK",
+    "index": 197,
+    "name": "Damp Rock",
+    "description": "Extends duration of sun. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_RAIN",
+    "category": "ITEM"
+  }
+}

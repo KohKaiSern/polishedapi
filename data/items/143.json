@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "AMULET_COIN",
+    "index": 143,
+    "name": "Amulet Coin",
+    "description": "Helps repel wild Pokémon. (Hold)",
+    "price": 10000,
+    "heldEffect": "HELD_AMULET_COIN",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "AMULET_COIN",
+    "index": 143,
+    "name": "Amulet Coin",
+    "description": "Helps repel wild Pokémon. (Hold)",
+    "price": 10000,
+    "heldEffect": "HELD_AMULET_COIN",
+    "category": "ITEM"
+  }
+}

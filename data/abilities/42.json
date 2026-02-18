@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SAND_STREAM",
+    "index": 42,
+    "name": "Sand Stream",
+    "description": "Summons sandstorm when switched in."
+  },
+  "faithful": {
+    "id": "SAND_STREAM",
+    "index": 42,
+    "name": "Sand Stream",
+    "description": "Summons sandstorm when switched in."
+  }
+}

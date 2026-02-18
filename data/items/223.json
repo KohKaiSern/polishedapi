@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ODD_SOUVENIR",
+    "index": 223,
+    "name": "Odd Souvenir",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ODD_SOUVENIR",
+    "index": 223,
+    "name": "Odd Souvenir",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

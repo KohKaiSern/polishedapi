@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LUCKY_PUNCH",
+    "index": 187,
+    "name": "Lucky Punch",
+    "description": "Raises Defense of Ditto. (Hold)",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LUCKY_PUNCH",
+    "index": 187,
+    "name": "Lucky Punch",
+    "description": "Raises Defense of Ditto. (Hold)",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RED_CARD",
+    "index": 167,
+    "name": "Red Card",
+    "description": "Powers up trapping moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SWITCH_TARGET",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "RED_CARD",
+    "index": 167,
+    "name": "Red Card",
+    "description": "Powers up trapping moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SWITCH_TARGET",
+    "category": "ITEM"
+  }
+}

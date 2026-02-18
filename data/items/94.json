@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SUPER_REPEL",
+    "index": 94,
+    "name": "Super Repel",
+    "description": "Repels weak Pokémon for 250 steps.",
+    "price": 700,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SUPER_REPEL",
+    "index": 94,
+    "name": "Super Repel",
+    "description": "Repels weak Pokémon for 250 steps.",
+    "price": 700,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

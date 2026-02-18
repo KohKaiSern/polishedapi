@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "THROAT_SPRAY",
+    "index": 174,
+    "name": "Throat Spray",
+    "description": "Switches out when stats fall. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_THROAT_SPRAY",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "THROAT_SPRAY",
+    "index": 174,
+    "name": "Throat Spray",
+    "description": "Switches out when stats fall. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_THROAT_SPRAY",
+    "category": "ITEM"
+  }
+}

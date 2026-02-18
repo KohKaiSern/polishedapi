@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ABILITYPATCH",
+    "index": 109,
+    "name": "AbilityPatch",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ABILITYPATCH",
+    "index": 109,
+    "name": "AbilityPatch",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

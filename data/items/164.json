@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EVIOLITE",
+    "index": 164,
+    "name": "Eviolite",
+    "description": "Damages foe on contact. (Hold)",
+    "price": 2000,
+    "heldEffect": "HELD_EVIOLITE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EVIOLITE",
+    "index": 164,
+    "name": "Eviolite",
+    "description": "Damages foe on contact. (Hold)",
+    "price": 2000,
+    "heldEffect": "HELD_EVIOLITE",
+    "category": "ITEM"
+  }
+}

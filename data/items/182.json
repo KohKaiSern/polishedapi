@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "COVERT_CLOAK",
+    "index": 182,
+    "name": "Covert Cloak",
+    "description": "Multi-hit moves hit more often.",
+    "price": 4000,
+    "heldEffect": "HELD_COVERT_CLOAK",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "COVERT_CLOAK",
+    "index": 182,
+    "name": "Covert Cloak",
+    "description": "Multi-hit moves hit more often.",
+    "price": 4000,
+    "heldEffect": "HELD_COVERT_CLOAK",
+    "category": "ITEM"
+  }
+}

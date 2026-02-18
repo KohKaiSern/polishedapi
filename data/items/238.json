@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "STAR_PIECE",
+    "index": 238,
+    "name": "Star Piece",
+    "description": "A chunk of tile. Sell low.",
+    "price": 12000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "STAR_PIECE",
+    "index": 238,
+    "name": "Star Piece",
+    "description": "A chunk of tile. Sell low.",
+    "price": 12000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

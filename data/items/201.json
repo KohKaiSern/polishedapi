@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHOICE_BAND",
+    "index": 201,
+    "name": "Choice Band",
+    "description": "Boosts Speed, but allows one move.",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CHOICE_BAND",
+    "index": 201,
+    "name": "Choice Band",
+    "description": "Boosts Speed, but allows one move.",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  }
+}

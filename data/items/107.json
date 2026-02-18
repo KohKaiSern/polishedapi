@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "GUARD_SPEC",
+    "index": 107,
+    "name": "Guard Stats",
+    "description": "Switches a Pokémon's ability.",
+    "price": 1500,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "GUARD_SPEC",
+    "index": 107,
+    "name": "Guard Spec.",
+    "description": "Switches a Pokémon's ability.",
+    "price": 1500,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

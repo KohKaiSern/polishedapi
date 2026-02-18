@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SMOKE_BALL",
+    "index": 145,
+    "name": "Smoke Ball",
+    "description": "May prevent fainting. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_ESCAPE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SMOKE_BALL",
+    "index": 145,
+    "name": "Smoke Ball",
+    "description": "May prevent fainting. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_ESCAPE",
+    "category": "ITEM"
+  }
+}

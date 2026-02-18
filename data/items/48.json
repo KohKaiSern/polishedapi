@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RARE_CANDY",
+    "index": 48,
+    "name": "Rare Candy",
+    "description": "Raises max PP of a selected move.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "RARE_CANDY",
+    "index": 48,
+    "name": "Rare Candy",
+    "description": "Raises max PP of a selected move.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

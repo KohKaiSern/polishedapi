@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CLEANSE_TAG",
+    "index": 144,
+    "name": "Cleanse Tag",
+    "description": "Escape from wild Pokémon. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CLEANSE_TAG",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CLEANSE_TAG",
+    "index": 144,
+    "name": "Cleanse Tag",
+    "description": "Escape from wild Pokémon. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CLEANSE_TAG",
+    "category": "ITEM"
+  }
+}

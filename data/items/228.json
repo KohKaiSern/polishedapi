@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BOTTLE_CAP",
+    "index": 228,
+    "name": "Bottle Cap",
+    "description": "Made of pure gold. Sell high.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BOTTLE_CAP",
+    "index": 228,
+    "name": "Bottle Cap",
+    "description": "Made of pure gold. Sell high.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

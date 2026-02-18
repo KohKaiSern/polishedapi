@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LUCKY_EGG",
+    "index": 147,
+    "name": "Lucky Egg",
+    "description": "Restores HP during battle. (Hold)",
+    "price": 4000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LUCKY_EGG",
+    "index": 147,
+    "name": "Lucky Egg",
+    "description": "Restores HP during battle. (Hold)",
+    "price": 4000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

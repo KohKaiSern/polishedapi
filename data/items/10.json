@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FAST_BALL",
+    "index": 10,
+    "name": "Fast Ball",
+    "description": "A Ball for catching heavy Pokémon.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "FAST_BALL",
+    "index": 10,
+    "name": "Fast Ball",
+    "description": "A Ball for catching heavy Pokémon.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

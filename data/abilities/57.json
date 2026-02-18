@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LIQUID_OOZE",
+    "index": 57,
+    "name": "Liquid Ooze",
+    "description": "Damages foes using draining moves."
+  },
+  "faithful": {
+    "id": "LIQUID_OOZE",
+    "index": 57,
+    "name": "Liquid Ooze",
+    "description": "Damages foes using draining moves."
+  }
+}

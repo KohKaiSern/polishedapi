@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "NUGGET",
+    "index": 229,
+    "name": "Nugget",
+    "description": "Made of pure gold. Sell very high.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "NUGGET",
+    "index": 229,
+    "name": "Nugget",
+    "description": "Made of pure gold. Sell very high.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

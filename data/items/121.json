@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SILK_SCARF",
+    "index": 121,
+    "name": "Silk Scarf",
+    "description": "Boosts Fightingtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SILK_SCARF",
+    "index": 121,
+    "name": "Silk Scarf",
+    "description": "Boosts Fightingtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

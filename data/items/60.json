@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "REVIVAL_HERB",
+    "index": 60,
+    "name": "Revival Herb",
+    "description": "Fully revives all fainted Pokémon.",
+    "price": 2800,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "REVIVAL_HERB",
+    "index": 60,
+    "name": "Revival Herb",
+    "description": "Fully revives all fainted Pokémon.",
+    "price": 2800,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

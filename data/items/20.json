@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "QUICK_BALL",
+    "index": 20,
+    "name": "Quick Ball",
+    "description": "A Ball for nighttime or caves.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "QUICK_BALL",
+    "index": 20,
+    "name": "Quick Ball",
+    "description": "A Ball for nighttime or caves.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

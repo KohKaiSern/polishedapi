@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HEAL_POWDER",
+    "index": 59,
+    "name": "Heal Powder",
+    "description": "Revives fainted Pokémon. Bitter.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "HEAL_POWDER",
+    "index": 59,
+    "name": "Heal Powder",
+    "description": "Revives fainted Pokémon. Bitter.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

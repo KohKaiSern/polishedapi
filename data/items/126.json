@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HARD_STONE",
+    "index": 126,
+    "name": "Hard Stone",
+    "description": "Powers up Bug-type moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "HARD_STONE",
+    "index": 126,
+    "name": "Hard Stone",
+    "description": "Powers up Bug-type moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

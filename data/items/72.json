@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FIGY_BERRY",
+    "index": 72,
+    "name": "Figy Berry",
+    "description": "Raises friendship but lowers HP.",
+    "price": 10,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "FIGY_BERRY",
+    "index": 72,
+    "name": "Figy Berry",
+    "description": "Raises friendship but lowers HP.",
+    "price": 10,
+    "heldEffect": "HELD_BERRY",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EJECT_BUTTON",
+    "index": 169,
+    "name": "Eject Button",
+    "description": "Super effective hit ups offenses.",
+    "price": 4000,
+    "heldEffect": "HELD_SWITCH_TARGET",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EJECT_BUTTON",
+    "index": 169,
+    "name": "Eject Button",
+    "description": "Super effective hit ups offenses.",
+    "price": 4000,
+    "heldEffect": "HELD_SWITCH_TARGET",
+    "category": "ITEM"
+  }
+}

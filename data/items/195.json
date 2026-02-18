@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_HERB",
+    "index": 195,
+    "name": "Power Herb",
+    "description": "A self-cure for lowered stats.",
+    "price": 4000,
+    "heldEffect": "HELD_POWER_HERB",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_HERB",
+    "index": 195,
+    "name": "Power Herb",
+    "description": "A self-cure for lowered stats.",
+    "price": 4000,
+    "heldEffect": "HELD_POWER_HERB",
+    "category": "ITEM"
+  }
+}

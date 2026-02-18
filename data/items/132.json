@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MIRACLE_SEED",
+    "index": 132,
+    "name": "Miracle Seed",
+    "description": "Boosts Electrictype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MIRACLE_SEED",
+    "index": 132,
+    "name": "Miracle Seed",
+    "description": "Boosts Electrictype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

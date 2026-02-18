@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MAX_REVIVE",
+    "index": 37,
+    "name": "Max Revive",
+    "description": "Restores PP of one move by 10.",
+    "price": 4000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "MAX_REVIVE",
+    "index": 37,
+    "name": "Max Revive",
+    "description": "Restores PP of one move by 10.",
+    "price": 4000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

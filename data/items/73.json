@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POMEG_BERRY",
+    "index": 73,
+    "name": "Pomeg Berry",
+    "description": "Raises friendship but lowers Attack.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "POMEG_BERRY",
+    "index": 73,
+    "name": "Pomeg Berry",
+    "description": "Raises friendship but lowers Attack.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  }
+}

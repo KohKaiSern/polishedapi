@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HONEY_GATHER",
+    "index": 102,
+    "name": "Honey Gather",
+    "description": "The Pokémon may find Sweet Honey."
+  },
+  "faithful": {
+    "id": "HONEY_GATHER",
+    "index": 102,
+    "name": "Honey Gather",
+    "description": "The Pokémon may gather Honey."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DUSK_STONE",
+    "index": 117,
+    "name": "Dusk Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DUSK_STONE",
+    "index": 117,
+    "name": "Dusk Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

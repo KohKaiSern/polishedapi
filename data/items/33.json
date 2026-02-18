@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ICE_HEAL",
+    "index": 33,
+    "name": "Ice Heal",
+    "description": "Eliminates all status problems.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ICE_HEAL",
+    "index": 33,
+    "name": "Ice Heal",
+    "description": "Eliminates all status problems.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ARMOR_SUIT",
+    "index": 190,
+    "name": "Armor Suit",
+    "description": "Raises critical hit ratio. (Hold)",
+    "price": null,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "ARMOR_SUIT",
+    "index": 190,
+    "name": "Armor Suit",
+    "description": "Raises critical hit ratio. (Hold)",
+    "price": null,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

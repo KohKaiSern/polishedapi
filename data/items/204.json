@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FLAME_ORB",
+    "index": 204,
+    "name": "Flame Orb",
+    "description": "Causes bad poison. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SELF_BRN",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "FLAME_ORB",
+    "index": 204,
+    "name": "Flame Orb",
+    "description": "Causes bad poison. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SELF_BRN",
+    "category": "ITEM"
+  }
+}

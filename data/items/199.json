@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SMOOTH_ROCK",
+    "index": 199,
+    "name": "Smooth Rock",
+    "description": "Extends duration of hail. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SANDSTORM",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SMOOTH_ROCK",
+    "index": 199,
+    "name": "Smooth Rock",
+    "description": "Extends duration of hail. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SANDSTORM",
+    "category": "ITEM"
+  }
+}

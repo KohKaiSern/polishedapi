@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHARCOAL",
+    "index": 130,
+    "name": "Charcoal",
+    "description": "Powers up Watertype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CHARCOAL",
+    "index": 130,
+    "name": "Charcoal",
+    "description": "Powers up Watertype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

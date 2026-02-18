@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_BAND",
+    "index": 212,
+    "name": "Power Band",
+    "description": "Ups Speed gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SDF_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_BAND",
+    "index": 212,
+    "name": "Power Band",
+    "description": "Ups Speed gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_SDF_UP",
+    "category": "ITEM"
+  }
+}

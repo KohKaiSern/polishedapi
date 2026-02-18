@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POWER_BELT",
+    "index": 210,
+    "name": "Power Belt",
+    "description": "Ups Sp.Atk gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_DEF_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POWER_BELT",
+    "index": 210,
+    "name": "Power Belt",
+    "description": "Ups Sp.Atk gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_DEF_UP",
+    "category": "ITEM"
+  }
+}

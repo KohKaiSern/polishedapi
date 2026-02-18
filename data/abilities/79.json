@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "POISON_HEAL",
+    "index": 79,
+    "name": "Poison Heal",
+    "description": "Restores HP if it is poisoned."
+  },
+  "faithful": {
+    "id": "POISON_HEAL",
+    "index": 79,
+    "name": "Poison Heal",
+    "description": "Restores HP if it is poisoned."
+  }
+}

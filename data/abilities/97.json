@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FILTER",
+    "index": 97,
+    "name": "Filter",
+    "description": "Reduces super effective damage."
+  },
+  "faithful": {
+    "id": "FILTER",
+    "index": 97,
+    "name": "Filter",
+    "description": "Reduces super effective damage."
+  }
+}

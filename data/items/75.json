@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "QUALOT_BERRY",
+    "index": 75,
+    "name": "Qualot Berry",
+    "description": "Raises friendship but lowers Sp.Atk.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "QUALOT_BERRY",
+    "index": 75,
+    "name": "Qualot Berry",
+    "description": "Raises friendship but lowers Sp.Atk.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  }
+}

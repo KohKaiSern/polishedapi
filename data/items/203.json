@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHOICE_SPECS",
+    "index": 203,
+    "name": "Choice Specs",
+    "description": "Causes a burn. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "CHOICE_SPECS",
+    "index": 203,
+    "name": "Choice Specs",
+    "description": "Causes a burn. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CHOICE",
+    "category": "ITEM"
+  }
+}

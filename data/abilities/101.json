@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SNOW_WARNING",
+    "index": 101,
+    "name": "Snow Warning",
+    "description": "Summons hailstorm when switched in."
+  },
+  "faithful": {
+    "id": "SNOW_WARNING",
+    "index": 101,
+    "name": "Snow Warning",
+    "description": "Summons hailstorm when switched in."
+  }
+}

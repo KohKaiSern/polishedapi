@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ELIXIR",
+    "index": 40,
+    "name": "Elixir",
+    "description": "Fully restores the PP of one Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ELIXIR",
+    "index": 40,
+    "name": "Elixir",
+    "description": "Fully restores the PP of one Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

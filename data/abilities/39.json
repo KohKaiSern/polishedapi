@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MAGNET_PULL",
+    "index": 39,
+    "name": "Magnet Pull",
+    "description": "Prevents escape by Steel-type foes."
+  },
+  "faithful": {
+    "id": "MAGNET_PULL",
+    "index": 39,
+    "name": "Magnet Pull",
+    "description": "Prevents escape by Steel-type foes."
+  }
+}

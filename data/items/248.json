@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PORTRAITMAIL",
+    "index": 248,
+    "name": "PortraitMail",
+    "description": "Heart-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PORTRAITMAIL",
+    "index": 248,
+    "name": "PortraitMail",
+    "description": "Heart-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

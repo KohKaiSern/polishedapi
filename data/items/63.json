@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CHESTO_BERRY",
+    "index": 63,
+    "name": "Chesto Berry",
+    "description": "A self-cure for poison. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "CHESTO_BERRY",
+    "index": 63,
+    "name": "Chesto Berry",
+    "description": "A self-cure for poison. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

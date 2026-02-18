@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SHED_SHELL",
+    "index": 162,
+    "name": "Shed Shell",
+    "description": "Powers up draining moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SHED_SHELL",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SHED_SHELL",
+    "index": 162,
+    "name": "Shed Shell",
+    "description": "Powers up draining moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_SHED_SHELL",
+    "category": "ITEM"
+  }
+}

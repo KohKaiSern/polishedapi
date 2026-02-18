@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CALCIUM",
+    "index": 46,
+    "name": "Calcium",
+    "description": "Raises Sp.Def of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "CALCIUM",
+    "index": 46,
+    "name": "Calcium",
+    "description": "Raises Sp.Def of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

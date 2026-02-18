@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PUNCHINGLOVE",
+    "index": 181,
+    "name": "PunchinGlove",
+    "description": "Blocks additional attack effects.",
+    "price": 4000,
+    "heldEffect": "HELD_PUNCHING_GLOVE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PUNCHINGLOVE",
+    "index": 181,
+    "name": "PunchinGlove",
+    "description": "Blocks additional attack effects.",
+    "price": 4000,
+    "heldEffect": "HELD_PUNCHING_GLOVE",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PREMIER_BALL",
+    "index": 23,
+    "name": "Premier Ball",
+    "description": "A quite rare commemorative Ball.",
+    "price": 20,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "PREMIER_BALL",
+    "index": 23,
+    "name": "Premier Ball",
+    "description": "A quite rare commemorative Ball.",
+    "price": 20,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

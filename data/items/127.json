@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SILVERPOWDER",
+    "index": 127,
+    "name": "SilverPowder",
+    "description": "Powers up Ghosttype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SILVERPOWDER",
+    "index": 127,
+    "name": "SilverPowder",
+    "description": "Powers up Ghosttype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

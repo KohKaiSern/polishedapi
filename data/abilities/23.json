@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LEVITATE",
+    "index": 23,
+    "name": "Levitate",
+    "description": "Gives immunity to Ground-type moves."
+  },
+  "faithful": {
+    "id": "LEVITATE",
+    "index": 23,
+    "name": "Levitate",
+    "description": "Gives immunity to Ground-type moves."
+  }
+}

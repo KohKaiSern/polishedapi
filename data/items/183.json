@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LOADED_DICE",
+    "index": 183,
+    "name": "Loaded Dice",
+    "description": "Boost Pikachu's Attack and Sp.Atk.",
+    "price": 4000,
+    "heldEffect": "HELD_LOADED_DICE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LOADED_DICE",
+    "index": 183,
+    "name": "Loaded Dice",
+    "description": "Boost Pikachu's Attack and Sp.Atk.",
+    "price": 4000,
+    "heldEffect": "HELD_LOADED_DICE",
+    "category": "ITEM"
+  }
+}

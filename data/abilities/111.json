@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "WEAK_ARMOR",
+    "index": 111,
+    "name": "Weak Armor",
+    "description": "Physical attacks trade Def for Spe."
+  },
+  "faithful": {
+    "id": "WEAK_ARMOR",
+    "index": 111,
+    "name": "Weak Armor",
+    "description": "Physical attacks trade Def for Spe."
+  }
+}

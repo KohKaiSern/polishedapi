@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BLACK_SLUDGE",
+    "index": 206,
+    "name": "Black Sludge",
+    "description": "Boosts stat gain, but lowers Speed.",
+    "price": 4000,
+    "heldEffect": "HELD_BLACK_SLUDGE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BLACK_SLUDGE",
+    "index": 206,
+    "name": "Black Sludge",
+    "description": "Boosts stat gain, but lowers Speed.",
+    "price": 4000,
+    "heldEffect": "HELD_BLACK_SLUDGE",
+    "category": "ITEM"
+  }
+}

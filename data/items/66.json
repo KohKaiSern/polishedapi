@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ASPEAR_BERRY",
+    "index": 66,
+    "name": "Aspear Berry",
+    "description": "A self-restore item. (10<BOLDP><BOLDP>, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "ASPEAR_BERRY",
+    "index": 66,
+    "name": "Aspear Berry",
+    "description": "A self-restore item. (10<BOLDP><BOLDP>, Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

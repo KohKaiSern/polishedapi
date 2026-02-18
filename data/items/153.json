@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EXPERT_BELT",
+    "index": 153,
+    "name": "Expert Belt",
+    "description": "Extends duration of barrier moves.",
+    "price": 4000,
+    "heldEffect": "HELD_EXPERT_BELT",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EXPERT_BELT",
+    "index": 153,
+    "name": "Expert Belt",
+    "description": "Extends duration of barrier moves.",
+    "price": 4000,
+    "heldEffect": "HELD_EXPERT_BELT",
+    "category": "ITEM"
+  }
+}

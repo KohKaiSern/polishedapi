@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "WATER_ABSORB",
+    "index": 11,
+    "name": "Water Absorb",
+    "description": "Restores HP if hit by Water moves."
+  },
+  "faithful": {
+    "id": "WATER_ABSORB",
+    "index": 11,
+    "name": "Water Absorb",
+    "description": "Restores HP if hit by Water moves."
+  }
+}

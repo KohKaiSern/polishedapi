@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "TIMER_BALL",
+    "index": 14,
+    "name": "Timer Ball",
+    "description": "A Ball for weaker Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "TIMER_BALL",
+    "index": 14,
+    "name": "Timer Ball",
+    "description": "A Ball for weaker Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

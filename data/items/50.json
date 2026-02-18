@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PP_MAX",
+    "index": 50,
+    "name": "PP Max",
+    "description": "Restores Pokémon HP by 30.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "PP_MAX",
+    "index": 50,
+    "name": "PP Max",
+    "description": "Restores Pokémon HP by 30.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

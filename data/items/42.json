@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HP_UP",
+    "index": 42,
+    "name": "HP Up",
+    "description": "Raises Attack of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "HP_UP",
+    "index": 42,
+    "name": "HP Up",
+    "description": "Raises Attack of one Pokémon.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

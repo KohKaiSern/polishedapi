@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "UPGRADE",
+    "index": 215,
+    "name": "Upgrade",
+    "description": "A transparent disc of unknown origin.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "UPGRADE",
+    "index": 215,
+    "name": "Upgrade",
+    "description": "A transparent disc of unknown origin.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

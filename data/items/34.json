@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FULL_HEAL",
+    "index": 34,
+    "name": "Full Heal",
+    "description": "Fully restores HP & status.",
+    "price": 400,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "FULL_HEAL",
+    "index": 34,
+    "name": "Full Heal",
+    "description": "Fully restores HP & status.",
+    "price": 400,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "HEAT_ROCK",
+    "index": 198,
+    "name": "Heat Rock",
+    "description": "Extends duration of sandstorms.",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SUN",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "HEAT_ROCK",
+    "index": 198,
+    "name": "Heat Rock",
+    "description": "Extends duration of sandstorms.",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SUN",
+    "category": "ITEM"
+  }
+}

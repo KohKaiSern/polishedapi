@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MORPH_MAIL",
+    "index": 251,
+    "name": "Morph Mail",
+    "description": "Sky-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MORPH_MAIL",
+    "index": 251,
+    "name": "Morph Mail",
+    "description": "Sky-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

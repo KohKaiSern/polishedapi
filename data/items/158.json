@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "IRON_BALL",
+    "index": 158,
+    "name": "Iron Ball",
+    "description": "Always moves last. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_IRON_BALL",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "IRON_BALL",
+    "index": 158,
+    "name": "Iron Ball",
+    "description": "Always moves last. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_IRON_BALL",
+    "category": "ITEM"
+  }
+}

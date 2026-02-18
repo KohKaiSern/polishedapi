@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "WISE_GLASSES",
+    "index": 152,
+    "name": "Wise Glasses",
+    "description": "Ups super effective moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CATEGORY_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "WISE_GLASSES",
+    "index": 152,
+    "name": "Wise Glasses",
+    "description": "Ups super effective moves. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_CATEGORY_BOOST",
+    "category": "ITEM"
+  }
+}

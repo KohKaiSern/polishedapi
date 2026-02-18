@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EVERSTONE",
+    "index": 119,
+    "name": "Everstone",
+    "description": "Shares battle Exp. Points. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EVERSTONE",
+    "index": 119,
+    "name": "Everstone",
+    "description": "Shares battle Exp. Points. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

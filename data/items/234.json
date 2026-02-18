@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PEARL",
+    "index": 234,
+    "name": "Pearl",
+    "description": "A big, beautiful pearl. Sell high.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "PEARL",
+    "index": 234,
+    "name": "Pearl",
+    "description": "A big, beautiful pearl. Sell high.",
+    "price": 2000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

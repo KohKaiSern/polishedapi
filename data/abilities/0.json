@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "NO_ABILITY",
+    "index": 0,
+    "name": "---",
+    "description": "Abilities are disabled."
+  },
+  "faithful": {
+    "id": "NO_ABILITY",
+    "index": 0,
+    "name": "---",
+    "description": "Abilities are disabled."
+  }
+}

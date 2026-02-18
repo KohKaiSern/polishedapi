@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LEFTOVERS",
+    "index": 148,
+    "name": "Leftovers",
+    "description": "Calms and fosters friendship. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_LEFTOVERS",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LEFTOVERS",
+    "index": 148,
+    "name": "Leftovers",
+    "description": "Calms and fosters friendship. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_LEFTOVERS",
+    "category": "ITEM"
+  }
+}

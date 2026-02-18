@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "TAMATO_BERRY",
+    "index": 78,
+    "name": "Tamato Berry",
+    "description": "Raises Attack in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "TAMATO_BERRY",
+    "index": 78,
+    "name": "Tamato Berry",
+    "description": "Raises Attack in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  }
+}

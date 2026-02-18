@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BLACK_BELT",
+    "index": 122,
+    "name": "Black Belt",
+    "description": "Powers up Flyingtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BLACK_BELT",
+    "index": 122,
+    "name": "Black Belt",
+    "description": "Powers up Flyingtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

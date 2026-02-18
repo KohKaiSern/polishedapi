@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RARE_BONE",
+    "index": 240,
+    "name": "Rare Bone",
+    "description": "Very tasty. Sell high.",
+    "price": 5000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "RARE_BONE",
+    "index": 240,
+    "name": "Rare Bone",
+    "description": "Very tasty. Sell high.",
+    "price": 5000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

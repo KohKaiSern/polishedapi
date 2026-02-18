@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SACRED_ASH",
+    "index": 61,
+    "name": "Sacred Ash",
+    "description": "A self-cure for paralysis. (Hold)",
+    "price": 50000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "SACRED_ASH",
+    "index": 61,
+    "name": "Sacred Ash",
+    "description": "A self-cure for paralysis. (Hold)",
+    "price": 50000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

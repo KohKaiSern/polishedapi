@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RAWST_BERRY",
+    "index": 65,
+    "name": "Rawst Berry",
+    "description": "A self-cure for freezing. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "RAWST_BERRY",
+    "index": 65,
+    "name": "Rawst Berry",
+    "description": "A self-cure for freezing. (Hold)",
+    "price": 10,
+    "heldEffect": "HELD_HEAL_STATUS",
+    "category": "BERRIES"
+  }
+}

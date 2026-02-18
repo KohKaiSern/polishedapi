@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "EJECT_PACK",
+    "index": 175,
+    "name": "Eject Pack",
+    "description": "Protects from traps. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_EJECT_PACK",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "EJECT_PACK",
+    "index": 175,
+    "name": "Eject Pack",
+    "description": "Protects from traps. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_EJECT_PACK",
+    "category": "ITEM"
+  }
+}

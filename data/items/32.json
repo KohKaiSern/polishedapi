@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "AWAKENING",
+    "index": 32,
+    "name": "Awakening",
+    "description": "Defrosts frozen Pokémon.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "AWAKENING",
+    "index": 32,
+    "name": "Awakening",
+    "description": "Defrosts frozen Pokémon.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

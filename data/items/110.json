@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LEAF_STONE",
+    "index": 110,
+    "name": "Leaf Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LEAF_STONE",
+    "index": 110,
+    "name": "Leaf Stone",
+    "description": "Evolves certain kinds of Pokémon.",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

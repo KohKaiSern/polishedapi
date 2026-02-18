@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "DRAGON_FANG",
+    "index": 136,
+    "name": "Dragon Fang",
+    "description": "Powers up Darktype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "DRAGON_FANG",
+    "index": 136,
+    "name": "Dragon Fang",
+    "description": "Powers up Darktype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

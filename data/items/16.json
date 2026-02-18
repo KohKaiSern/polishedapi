@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "NET_BALL",
+    "index": 16,
+    "name": "Net Ball",
+    "description": "A Ball for underwater Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "NET_BALL",
+    "index": 16,
+    "name": "Net Ball",
+    "description": "A Ball for underwater Pokémon.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

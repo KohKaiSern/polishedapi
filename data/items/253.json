@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MUSIC_MAIL",
+    "index": 253,
+    "name": "Music Mail",
+    "description": "Mew-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MUSIC_MAIL",
+    "index": 253,
+    "name": "Music Mail",
+    "description": "Mew-print Mail. (Hold)",
+    "price": 50,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

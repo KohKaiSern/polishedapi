@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SYNCHRONIZE",
+    "index": 25,
+    "name": "Synchronize",
+    "description": "Passes Psn, Par, or Brn to foes."
+  },
+  "faithful": {
+    "id": "SYNCHRONIZE",
+    "index": 25,
+    "name": "Synchronize",
+    "description": "Passes Psn, Par, or Brn to foes."
+  }
+}

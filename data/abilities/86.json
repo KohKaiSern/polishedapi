@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MAGIC_GUARD",
+    "index": 86,
+    "name": "Magic Guard",
+    "description": "Only takes damage from attacks."
+  },
+  "faithful": {
+    "id": "MAGIC_GUARD",
+    "index": 86,
+    "name": "Magic Guard",
+    "description": "Only takes damage from attacks."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BERSERK_GENE",
+    "index": 139,
+    "name": "Berserk Gene",
+    "description": "Lowers the foe's accuracy. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BERSERK_GENE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BERSERK_GENE",
+    "index": 139,
+    "name": "Berserk Gene",
+    "description": "Lowers the foe's accuracy. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_BERSERK_GENE",
+    "category": "ITEM"
+  }
+}

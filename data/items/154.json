@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "LIGHT_CLAY",
+    "index": 154,
+    "name": "Light Clay",
+    "description": "Powers up moves with HP. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SCREENS",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "LIGHT_CLAY",
+    "index": 154,
+    "name": "Light Clay",
+    "description": "Powers up moves with HP. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_PROLONG_SCREENS",
+    "category": "ITEM"
+  }
+}

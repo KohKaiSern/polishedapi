@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "KELPSY_BERRY",
+    "index": 74,
+    "name": "Kelpsy Berry",
+    "description": "Raises friendship, lowers Defense.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "KELPSY_BERRY",
+    "index": 74,
+    "name": "Kelpsy Berry",
+    "description": "Raises friendship, lowers Defense.",
+    "price": 10,
+    "heldEffect": "HELD_NO_BUG_BITE",
+    "category": "BERRIES"
+  }
+}

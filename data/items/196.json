@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "WHITE_HERB",
+    "index": 196,
+    "name": "White Herb",
+    "description": "Extends duration of rain. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_WHITE_HERB",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "WHITE_HERB",
+    "index": 196,
+    "name": "White Herb",
+    "description": "Extends duration of rain. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_WHITE_HERB",
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BLACKGLASSES",
+    "index": 137,
+    "name": "BlackGlasses",
+    "description": "Powers up Fairytype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BLACKGLASSES",
+    "index": 137,
+    "name": "BlackGlasses",
+    "description": "Powers up Fairytype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

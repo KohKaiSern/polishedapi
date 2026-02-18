@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ETHER",
+    "index": 38,
+    "name": "Ether",
+    "description": "Fully restores PP of one move.",
+    "price": 1200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ETHER",
+    "index": 38,
+    "name": "Ether",
+    "description": "Fully restores PP of one move.",
+    "price": 1200,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "QUICK_CLAW",
+    "index": 141,
+    "name": "Quick Claw",
+    "description": "May make the foe flinch. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_QUICK_CLAW",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "QUICK_CLAW",
+    "index": 141,
+    "name": "Quick Claw",
+    "description": "May make the foe flinch. (Hold)",
+    "price": 4000,
+    "heldEffect": "HELD_QUICK_CLAW",
+    "category": "ITEM"
+  }
+}

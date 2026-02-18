@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POISON_BARB",
+    "index": 124,
+    "name": "Poison Barb",
+    "description": "Powers up Groundtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POISON_BARB",
+    "index": 124,
+    "name": "Poison Barb",
+    "description": "Powers up Groundtype moves. (Hold)",
+    "price": 1000,
+    "heldEffect": "HELD_TYPE_BOOST",
+    "category": "ITEM"
+  }
+}

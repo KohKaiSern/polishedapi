@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BURN_HEAL",
+    "index": 30,
+    "name": "Burn Heal",
+    "description": "Heals paralyzed Pokémon.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "BURN_HEAL",
+    "index": 30,
+    "name": "Burn Heal",
+    "description": "Heals paralyzed Pokémon.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

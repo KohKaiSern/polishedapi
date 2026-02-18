@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "RAZOR_CLAW",
+    "index": 221,
+    "name": "Razor Claw",
+    "description": "A stone as round as a Pokémon Egg.",
+    "price": 5000,
+    "heldEffect": "HELD_CRITICAL_UP",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "RAZOR_CLAW",
+    "index": 221,
+    "name": "Razor Claw",
+    "description": "A stone as round as a Pokémon Egg.",
+    "price": 5000,
+    "heldEffect": "HELD_CRITICAL_UP",
+    "category": "ITEM"
+  }
+}

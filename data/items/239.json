@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "BRICK_PIECE",
+    "index": 239,
+    "name": "Brick Piece",
+    "description": "A rare bone. Sell high.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "BRICK_PIECE",
+    "index": 239,
+    "name": "Brick Piece",
+    "description": "A rare bone. Sell high.",
+    "price": 100,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "POKE_DOLL",
+    "index": 97,
+    "name": "Poké Doll",
+    "description": "Plant fertilizer for Berry trees.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "POKE_DOLL",
+    "index": 97,
+    "name": "Poké Doll",
+    "description": "Plant fertilizer for Berry trees.",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

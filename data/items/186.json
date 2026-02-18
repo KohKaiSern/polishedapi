@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "THICK_CLUB",
+    "index": 186,
+    "name": "Thick Club",
+    "description": "Ups critical hit ratio of Chansey.",
+    "price": 5000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "THICK_CLUB",
+    "index": 186,
+    "name": "Thick Club",
+    "description": "Ups critical hit ratio of Chansey.",
+    "price": 5000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

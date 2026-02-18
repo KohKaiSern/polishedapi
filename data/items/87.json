@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "CUSTAP_BERRY",
+    "index": 87,
+    "name": "Custap Berry",
+    "description": "Damages foe on a physical hit.",
+    "price": 10,
+    "heldEffect": "HELD_CUSTAP_BERRY",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "CUSTAP_BERRY",
+    "index": 87,
+    "name": "Custap Berry",
+    "description": "Damages foe on a physical hit.",
+    "price": 10,
+    "heldEffect": "HELD_CUSTAP_BERRY",
+    "category": "BERRIES"
+  }
+}

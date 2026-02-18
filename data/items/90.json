@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "KEE_BERRY",
+    "index": 90,
+    "name": "Kee Berry",
+    "description": "Raises Sp.Def on a special hit.",
+    "price": 10,
+    "heldEffect": "HELD_DEFEND_HIT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "KEE_BERRY",
+    "index": 90,
+    "name": "Kee Berry",
+    "description": "Raises Sp.Def on a special hit.",
+    "price": 10,
+    "heldEffect": "HELD_DEFEND_HIT",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "DRY_SKIN",
+    "index": 76,
+    "name": "Dry Skin",
+    "description": "Reduces HP in sun. Water restores HP."
+  },
+  "faithful": {
+    "id": "DRY_SKIN",
+    "index": 76,
+    "name": "Dry Skin",
+    "description": "Reduces HP in sun. Water restores HP."
+  }
+}

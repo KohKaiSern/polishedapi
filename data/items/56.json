@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PEWTERCRUNCH",
+    "index": 56,
+    "name": "PewterCrunch",
+    "description": "Restores Pokémon HP by 60. Bitter.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "PEWTERCRUNCH",
+    "index": 56,
+    "name": "PewterCrunch",
+    "description": "Restores Pokémon HP by 60. Bitter.",
+    "price": 300,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

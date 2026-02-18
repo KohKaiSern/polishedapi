@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "MACHO_BRACE",
+    "index": 207,
+    "name": "Macho Brace",
+    "description": "Boosts HP gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_DOUBLE",
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "MACHO_BRACE",
+    "index": 207,
+    "name": "Macho Brace",
+    "description": "Boosts HP gain, but lowers Speed.",
+    "price": 3000,
+    "heldEffect": "HELD_EV_DOUBLE",
+    "category": "ITEM"
+  }
+}

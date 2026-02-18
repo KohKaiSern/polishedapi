@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "JABOCA_BERRY",
+    "index": 88,
+    "name": "Jaboca Berry",
+    "description": "Damages foe on a special hit.",
+    "price": 10,
+    "heldEffect": "HELD_OFFEND_HIT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "JABOCA_BERRY",
+    "index": 88,
+    "name": "Jaboca Berry",
+    "description": "Damages foe on a special hit.",
+    "price": 10,
+    "heldEffect": "HELD_OFFEND_HIT",
+    "category": "BERRIES"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "PETAYA_BERRY",
+    "index": 82,
+    "name": "Petaya Berry",
+    "description": "Raises Sp.Def in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  },
+  "faithful": {
+    "id": "PETAYA_BERRY",
+    "index": 82,
+    "name": "Petaya Berry",
+    "description": "Raises Sp.Def in a pinch.",
+    "price": 10,
+    "heldEffect": "HELD_RAISE_STAT",
+    "category": "BERRIES"
+  }
+}

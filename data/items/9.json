@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "FRIEND_BALL",
+    "index": 9,
+    "name": "Friend Ball",
+    "description": "A Ball for catching fast Pokémon.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  },
+  "faithful": {
+    "id": "FRIEND_BALL",
+    "index": 9,
+    "name": "Friend Ball",
+    "description": "A Ball for catching fast Pokémon.",
+    "price": 150,
+    "heldEffect": null,
+    "category": "BALL"
+  }
+}

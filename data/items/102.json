@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "X_SPEED",
+    "index": 102,
+    "name": "X Speed",
+    "description": "Raises Sp.Atk. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "X_SPEED",
+    "index": 102,
+    "name": "X Speed",
+    "description": "Raises Sp.Atk. (1 battle)",
+    "price": 1000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}

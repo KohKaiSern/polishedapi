@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "ZINC",
+    "index": 47,
+    "name": "Zinc",
+    "description": "Raises level of a Pokémon by one.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  },
+  "faithful": {
+    "id": "ZINC",
+    "index": 47,
+    "name": "Zinc",
+    "description": "Raises level of a Pokémon by one.",
+    "price": 10000,
+    "heldEffect": null,
+    "category": "MEDICINE"
+  }
+}

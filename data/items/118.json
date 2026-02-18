@@ -1,0 +1,20 @@
+{
+  "polished": {
+    "id": "SHINY_STONE",
+    "index": 118,
+    "name": "Shiny Stone",
+    "description": "Stops evolution. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  },
+  "faithful": {
+    "id": "SHINY_STONE",
+    "index": 118,
+    "name": "Shiny Stone",
+    "description": "Stops evolution. (Hold)",
+    "price": 3000,
+    "heldEffect": null,
+    "category": "ITEM"
+  }
+}
