@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STRUGGLE",
+    "index": 255,
+    "name": "Struggle",
+    "description": "Used only if all PP are exhausted."
+  },
+  "faithful": {
+    "id": "STRUGGLE",
+    "index": 255,
+    "name": "Struggle",
+    "description": "Used only if all PP are exhausted."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FRESH_SNACK",
+    "index": 135,
+    "name": "Fresh Snack",
+    "description": "Restores HP by 1/2 the user's max HP."
+  },
+  "faithful": {
+    "id": "FRESH_SNACK",
+    "index": 135,
+    "name": "Fresh Snack",
+    "description": "Restores HP by 1/2 the user's max HP."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SANDSTORM",
+    "index": 201,
+    "name": "Sandstorm",
+    "description": "Inflicts damage every turn."
+  },
+  "faithful": {
+    "id": "SANDSTORM",
+    "index": 201,
+    "name": "Sandstorm",
+    "description": "Inflicts damage every turn."
+  }
+}

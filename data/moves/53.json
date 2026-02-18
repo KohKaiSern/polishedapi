@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FLAMETHROWER",
+    "index": 53,
+    "name": "Flamethrower",
+    "description": "An attack that may inflict a burn."
+  },
+  "faithful": {
+    "id": "FLAMETHROWER",
+    "index": 53,
+    "name": "Flamethrower",
+    "description": "An attack that may inflict a burn."
+  }
+}

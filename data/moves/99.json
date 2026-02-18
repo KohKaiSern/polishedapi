@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "RAGE",
+    "index": 99,
+    "name": "Rage",
+    "description": "Raises Attack if the user is hit."
+  },
+  "faithful": {
+    "id": "RAGE",
+    "index": 99,
+    "name": "Rage",
+    "description": "Raises Attack if the user is hit."
+  }
+}

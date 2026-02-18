@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HAIL",
+    "index": 39,
+    "name": "Hail",
+    "description": "Inflicts damage every turn."
+  },
+  "faithful": {
+    "id": "HAIL",
+    "index": 39,
+    "name": "Hail",
+    "description": "Inflicts damage every turn."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "AVALANCHE",
+    "index": 90,
+    "name": "Avalanche",
+    "description": "Damage doubles if user is hit first."
+  },
+  "faithful": {
+    "id": "AVALANCHE",
+    "index": 90,
+    "name": "Avalanche",
+    "description": "Damage doubles if user is hit first."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SHADOW_BALL",
+    "index": 247,
+    "name": "Shadow Ball",
+    "description": "An attack that may lower Sp.Def."
+  },
+  "faithful": {
+    "id": "SHADOW_BALL",
+    "index": 247,
+    "name": "Shadow Ball",
+    "description": "An attack that may lower Sp.Def."
+  }
+}

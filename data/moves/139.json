@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "POISON_JAB",
+    "index": 139,
+    "name": "Poison Jab",
+    "description": "An attack that may poison the foe."
+  },
+  "faithful": {
+    "id": "POISON_JAB",
+    "index": 139,
+    "name": "Poison Jab",
+    "description": "An attack that may poison the foe."
+  }
+}

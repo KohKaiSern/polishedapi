@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "AIR_SLASH",
+    "index": 13,
+    "name": "Air Slash",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "AIR_SLASH",
+    "index": 13,
+    "name": "Air Slash",
+    "description": "An attack that may cause flinching."
+  }
+}

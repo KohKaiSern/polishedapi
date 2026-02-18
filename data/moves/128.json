@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ICICLE_CRASH",
+    "index": 128,
+    "name": "Icicle Crash",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "ICICLE_CRASH",
+    "index": 128,
+    "name": "Icicle Crash",
+    "description": "An attack that may cause flinching."
+  }
+}

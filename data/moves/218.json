@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "BUG_BUZZ",
+    "index": 218,
+    "name": "Bug Buzz",
+    "description": "An attack that may lower Sp.Def."
+  },
+  "faithful": {
+    "id": "BUG_BUZZ",
+    "index": 218,
+    "name": "Bug Buzz",
+    "description": "An attack that may lower Sp.Def."
+  }
+}

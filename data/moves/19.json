@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FLY",
+    "index": 19,
+    "name": "Fly",
+    "description": "1st turn: Fly 2nd turn: Attack"
+  },
+  "faithful": {
+    "id": "FLY",
+    "index": 19,
+    "name": "Fly",
+    "description": "1st turn: Fly 2nd turn: Attack"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MUD_SLAP",
+    "index": 189,
+    "name": "Mud-Slap",
+    "description": "An attack that lowers accuracy."
+  },
+  "faithful": {
+    "id": "MUD_SLAP",
+    "index": 189,
+    "name": "Mud-Slap",
+    "description": "An attack that lowers accuracy."
+  }
+}

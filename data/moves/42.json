@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PIN_MISSILE",
+    "index": 42,
+    "name": "Pin Missile",
+    "description": "Fires pins that strike 2-5 times."
+  },
+  "faithful": {
+    "id": "PIN_MISSILE",
+    "index": 42,
+    "name": "Pin Missile",
+    "description": "Fires pins that strike 2-5 times."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PECK",
+    "index": 64,
+    "name": "Peck",
+    "description": "Jabs the foe with a beak, etc."
+  },
+  "faithful": {
+    "id": "PECK",
+    "index": 64,
+    "name": "Peck",
+    "description": "Jabs the foe with a beak, etc."
+  }
+}

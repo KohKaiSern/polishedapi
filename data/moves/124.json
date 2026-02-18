@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "VENOSHOCK",
+    "index": 124,
+    "name": "Venoshock",
+    "description": "Damage doubles if foe is poisoned."
+  },
+  "faithful": {
+    "id": "VENOSHOCK",
+    "index": 124,
+    "name": "Venoshock",
+    "description": "Damage doubles if foe is poisoned."
+  }
+}

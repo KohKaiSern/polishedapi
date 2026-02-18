@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "WATERFALL",
+    "index": 127,
+    "name": "Waterfall",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "WATERFALL",
+    "index": 127,
+    "name": "Waterfall",
+    "description": "An attack that may cause flinching."
+  }
+}

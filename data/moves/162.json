@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SUPER_FANG",
+    "index": 162,
+    "name": "Super Fang",
+    "description": "Cuts the foe's HP by 1/2."
+  },
+  "faithful": {
+    "id": "SUPER_FANG",
+    "index": 162,
+    "name": "Super Fang",
+    "description": "Cuts the foe's HP by 1/2."
+  }
+}

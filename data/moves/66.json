@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "CLOSE_COMBAT",
+    "index": 66,
+    "name": "Close Combat",
+    "description": "Lowers the user's Def and Sp.Def."
+  },
+  "faithful": {
+    "id": "CLOSE_COMBAT",
+    "index": 66,
+    "name": "Close Combat",
+    "description": "Lowers the user's Def and Sp.Def."
+  }
+}

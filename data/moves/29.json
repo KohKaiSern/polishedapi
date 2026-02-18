@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HEADBUTT",
+    "index": 29,
+    "name": "Headbutt",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "HEADBUTT",
+    "index": 29,
+    "name": "Headbutt",
+    "description": "An attack that may cause flinching."
+  }
+}

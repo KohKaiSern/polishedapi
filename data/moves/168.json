@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "THIEF",
+    "index": 168,
+    "name": "Thief",
+    "description": "An attack that may steal a held item."
+  },
+  "faithful": {
+    "id": "THIEF",
+    "index": 168,
+    "name": "Thief",
+    "description": "An attack that may steal a held item."
+  }
+}

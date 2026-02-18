@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LOW_KICK",
+    "index": 67,
+    "name": "Low Kick",
+    "description": "Deals more damage to heavier foes."
+  },
+  "faithful": {
+    "id": "LOW_KICK",
+    "index": 67,
+    "name": "Low Kick",
+    "description": "Deals more damage to heavier foes."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "U_TURN",
+    "index": 41,
+    "name": "U-turn",
+    "description": "Switches out after making its attack."
+  },
+  "faithful": {
+    "id": "U_TURN",
+    "index": 41,
+    "name": "U-turn",
+    "description": "Switches out after making its attack."
+  }
+}

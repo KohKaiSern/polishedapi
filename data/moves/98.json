@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "QUICK_ATTACK",
+    "index": 98,
+    "name": "Quick Attack",
+    "description": "Lets the user get in the first hit."
+  },
+  "faithful": {
+    "id": "QUICK_ATTACK",
+    "index": 98,
+    "name": "Quick Attack",
+    "description": "Lets the user get in the first hit."
+  }
+}

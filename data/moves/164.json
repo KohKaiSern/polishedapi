@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SUBSTITUTE",
+    "index": 164,
+    "name": "Substitute",
+    "description": "Makes a decoy with 1/4 user's max HP."
+  },
+  "faithful": {
+    "id": "SUBSTITUTE",
+    "index": 164,
+    "name": "Substitute",
+    "description": "Makes a decoy with 1/4 user's max HP."
+  }
+}

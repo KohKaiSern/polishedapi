@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STRING_SHOT",
+    "index": 81,
+    "name": "String Shot",
+    "description": "A move that lowers the foe's Speed."
+  },
+  "faithful": {
+    "id": "STRING_SHOT",
+    "index": 81,
+    "name": "String Shot",
+    "description": "A move that lowers the foe's Speed."
+  }
+}

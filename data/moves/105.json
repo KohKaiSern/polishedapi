@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "RECOVER",
+    "index": 105,
+    "name": "Recover",
+    "description": "Restores HP by 1/2 the max HP."
+  },
+  "faithful": {
+    "id": "RECOVER",
+    "index": 105,
+    "name": "Recover",
+    "description": "Restores HP by 1/2 the max HP."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "DISABLE",
+    "index": 50,
+    "name": "Disable",
+    "description": "Disables the foe's most recent move."
+  },
+  "faithful": {
+    "id": "DISABLE",
+    "index": 50,
+    "name": "Disable",
+    "description": "Disables the foe's most recent move."
+  }
+}

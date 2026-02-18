@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LEECH_LIFE",
+    "index": 141,
+    "name": "Leech Life",
+    "description": "Steals 1/2 of the damage inflicted."
+  },
+  "faithful": {
+    "id": "LEECH_LIFE",
+    "index": 141,
+    "name": "Leech Life",
+    "description": "Steals 1/2 of the damage inflicted."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "BUG_BITE",
+    "index": 210,
+    "name": "Bug Bite",
+    "description": "Bites the foe and eats a held Berry."
+  },
+  "faithful": {
+    "id": "BUG_BITE",
+    "index": 210,
+    "name": "Bug Bite",
+    "description": "Bites the foe and eats a held Berry."
+  }
+}

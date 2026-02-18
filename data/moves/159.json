@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "BULK_UP",
+    "index": 159,
+    "name": "Bulk Up",
+    "description": "Raises the user's Atk and Def."
+  },
+  "faithful": {
+    "id": "BULK_UP",
+    "index": 159,
+    "name": "Bulk Up",
+    "description": "Raises the user's Atk and Def."
+  }
+}

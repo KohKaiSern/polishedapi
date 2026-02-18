@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SEISMIC_TOSS",
+    "index": 69,
+    "name": "Seismic Toss",
+    "description": "Damage equals the user's level."
+  },
+  "faithful": {
+    "id": "SEISMIC_TOSS",
+    "index": 69,
+    "name": "Seismic Toss",
+    "description": "Damage equals the user's level."
+  }
+}

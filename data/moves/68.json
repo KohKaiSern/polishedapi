@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "COUNTER",
+    "index": 68,
+    "name": "Counter",
+    "description": "Returns a physical attack double."
+  },
+  "faithful": {
+    "id": "COUNTER",
+    "index": 68,
+    "name": "Counter",
+    "description": "Returns a physical attack double."
+  }
+}

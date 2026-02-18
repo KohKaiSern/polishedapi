@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "POISONPOWDER",
+    "index": 77,
+    "name": "PoisonPowder",
+    "description": "A move that may poison the foe."
+  },
+  "faithful": {
+    "id": "POISONPOWDER",
+    "index": 77,
+    "name": "PoisonPowder",
+    "description": "A move that may poison the foe."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "DRAGON_CLAW",
+    "index": 5,
+    "name": "Dragon Claw",
+    "description": "Slashes the foe with sharp claws."
+  },
+  "faithful": {
+    "id": "DRAGON_CLAW",
+    "index": 5,
+    "name": "Dragon Claw",
+    "description": "Slashes the foe with sharp claws."
+  }
+}

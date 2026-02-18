@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "DIG",
+    "index": 91,
+    "name": "Dig",
+    "description": "1st turn: Burrow 2nd turn: Attack"
+  },
+  "faithful": {
+    "id": "DIG",
+    "index": 91,
+    "name": "Dig",
+    "description": "1st turn: Burrow 2nd turn: Attack"
+  }
+}

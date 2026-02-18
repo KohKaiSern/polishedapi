@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ICICLE_SPEAR",
+    "index": 131,
+    "name": "Icicle Spear",
+    "description": "Fires icicles to hit 2-5 times."
+  },
+  "faithful": {
+    "id": "ICICLE_SPEAR",
+    "index": 131,
+    "name": "Icicle Spear",
+    "description": "Fires icicles to hit 2-5 times."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ENERGY_BALL",
+    "index": 176,
+    "name": "Energy Ball",
+    "description": "An attack that may lower Sp.Def."
+  },
+  "faithful": {
+    "id": "ENERGY_BALL",
+    "index": 176,
+    "name": "Energy Ball",
+    "description": "An attack that may lower Sp.Def."
+  }
+}

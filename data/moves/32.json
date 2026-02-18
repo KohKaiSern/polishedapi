@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HEX",
+    "index": 32,
+    "name": "Hex",
+    "description": "Damage doubles if foe has status."
+  },
+  "faithful": {
+    "id": "HEX",
+    "index": 32,
+    "name": "Hex",
+    "description": "Damage doubles if foe has status."
+  }
+}

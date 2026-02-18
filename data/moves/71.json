@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ABSORB",
+    "index": 71,
+    "name": "Absorb",
+    "description": "Steals 1/2 of the damage inflicted."
+  },
+  "faithful": {
+    "id": "ABSORB",
+    "index": 71,
+    "name": "Absorb",
+    "description": "Steals 1/2 of the damage inflicted."
+  }
+}

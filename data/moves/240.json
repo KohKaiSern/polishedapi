@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "RAIN_DANCE",
+    "index": 240,
+    "name": "Rain Dance",
+    "description": "Boosts Water-type moves for 5 turns."
+  },
+  "faithful": {
+    "id": "RAIN_DANCE",
+    "index": 240,
+    "name": "Rain Dance",
+    "description": "Boosts Water-type moves for 5 turns."
+  }
+}

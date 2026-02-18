@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "BITE",
+    "index": 44,
+    "name": "Bite",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "BITE",
+    "index": 44,
+    "name": "Bite",
+    "description": "An attack that may cause flinching."
+  }
+}

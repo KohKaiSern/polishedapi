@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "GIGA_DRAIN",
+    "index": 202,
+    "name": "Giga Drain",
+    "description": "Steals 1/2 of the damage inflicted."
+  },
+  "faithful": {
+    "id": "GIGA_DRAIN",
+    "index": 202,
+    "name": "Giga Drain",
+    "description": "Steals 1/2 of the damage inflicted."
+  }
+}

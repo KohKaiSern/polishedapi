@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "EARTH_POWER",
+    "index": 125,
+    "name": "Earth Power",
+    "description": "An attack that may lower Sp.Def."
+  },
+  "faithful": {
+    "id": "EARTH_POWER",
+    "index": 125,
+    "name": "Earth Power",
+    "description": "An attack that may lower Sp.Def."
+  }
+}

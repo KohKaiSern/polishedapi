@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SKILL_SWAP",
+    "index": 121,
+    "name": "Skill Swap",
+    "description": "Swaps abilities with the foe."
+  },
+  "faithful": {
+    "id": "SKILL_SWAP",
+    "index": 121,
+    "name": "Skill Swap",
+    "description": "Swaps abilities with the foe."
+  }
+}

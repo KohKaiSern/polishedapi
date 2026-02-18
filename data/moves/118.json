@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "METRONOME",
+    "index": 118,
+    "name": "Metronome",
+    "description": "Randomly uses any Pokémon move."
+  },
+  "faithful": {
+    "id": "METRONOME",
+    "index": 118,
+    "name": "Metronome",
+    "description": "Randomly uses any Pokémon move."
+  }
+}

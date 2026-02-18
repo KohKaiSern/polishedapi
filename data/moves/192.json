@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ZAP_CANNON",
+    "index": 192,
+    "name": "Zap Cannon",
+    "description": "An attack that always paralyzes."
+  },
+  "faithful": {
+    "id": "ZAP_CANNON",
+    "index": 192,
+    "name": "Zap Cannon",
+    "description": "An attack that always paralyzes."
+  }
+}

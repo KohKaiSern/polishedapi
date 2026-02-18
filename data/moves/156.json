@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "REST",
+    "index": 156,
+    "name": "Rest",
+    "description": "Sleep for 2 turns to fully recover."
+  },
+  "faithful": {
+    "id": "REST",
+    "index": 156,
+    "name": "Rest",
+    "description": "Sleep for 2 turns to fully recover."
+  }
+}

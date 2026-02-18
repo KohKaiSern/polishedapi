@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "TOXIC",
+    "index": 92,
+    "name": "Toxic",
+    "description": "A Poison move with increasing damage."
+  },
+  "faithful": {
+    "id": "TOXIC",
+    "index": 92,
+    "name": "Toxic",
+    "description": "A Poison move with increasing damage."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "TAKE_DOWN",
+    "index": 36,
+    "name": "Take Down",
+    "description": "A tackle that also hurts the user."
+  },
+  "faithful": {
+    "id": "TAKE_DOWN",
+    "index": 36,
+    "name": "Take Down",
+    "description": "A tackle that also hurts the user."
+  }
+}

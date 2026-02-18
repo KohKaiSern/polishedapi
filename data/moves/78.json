@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STUN_SPORE",
+    "index": 78,
+    "name": "Stun Spore",
+    "description": "A move that may paralyze the foe."
+  },
+  "faithful": {
+    "id": "STUN_SPORE",
+    "index": 78,
+    "name": "Stun Spore",
+    "description": "A move that may paralyze the foe."
+  }
+}

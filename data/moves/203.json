@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ENDURE",
+    "index": 203,
+    "name": "Endure",
+    "description": "Endures any hit with at least 1HP."
+  },
+  "faithful": {
+    "id": "ENDURE",
+    "index": 203,
+    "name": "Endure",
+    "description": "Endures any hit with at least 1HP."
+  }
+}

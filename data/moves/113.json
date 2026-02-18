@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LIGHT_SCREEN",
+    "index": 113,
+    "name": "Light Screen",
+    "description": "Raises Sp.Def with a wall of light."
+  },
+  "faithful": {
+    "id": "LIGHT_SCREEN",
+    "index": 113,
+    "name": "Light Screen",
+    "description": "Raises Sp.Def with a wall of light."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FALSE_SWIPE",
+    "index": 206,
+    "name": "False Swipe",
+    "description": "Leaves the foe with at least 1HP."
+  },
+  "faithful": {
+    "id": "FALSE_SWIPE",
+    "index": 206,
+    "name": "False Swipe",
+    "description": "Leaves the foe with at least 1HP."
+  }
+}

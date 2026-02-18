@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SOLAR_BEAM",
+    "index": 76,
+    "name": "Solar Beam",
+    "description": "1st turn: Prepare 2nd turn: Attack"
+  },
+  "faithful": {
+    "id": "SOLAR_BEAM",
+    "index": 76,
+    "name": "Solar Beam",
+    "description": "1st turn: Prepare 2nd turn: Attack"
+  }
+}

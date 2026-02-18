@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PAIN_SPLIT",
+    "index": 220,
+    "name": "Pain Split",
+    "description": "Adds user & foe's HPs. Shares total."
+  },
+  "faithful": {
+    "id": "PAIN_SPLIT",
+    "index": 220,
+    "name": "Pain Split",
+    "description": "Adds user & foe's HPs. Shares total."
+  }
+}

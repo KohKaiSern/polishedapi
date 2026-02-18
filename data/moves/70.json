@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "STRENGTH",
+    "index": 70,
+    "name": "Strength",
+    "description": "A powerful physical attack."
+  },
+  "faithful": {
+    "id": "STRENGTH",
+    "index": 70,
+    "name": "Strength",
+    "description": "A powerful physical attack."
+  }
+}

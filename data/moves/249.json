@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ROCK_SMASH",
+    "index": 249,
+    "name": "Brick Break",
+    "description": "Removes Reflect and Light Screen."
+  },
+  "faithful": {
+    "id": "ROCK_SMASH",
+    "index": 249,
+    "name": "Rock Smash",
+    "description": "An attack that may lower Defense."
+  }
+}

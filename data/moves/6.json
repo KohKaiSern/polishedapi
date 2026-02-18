@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "PAY_DAY",
+    "index": 6,
+    "name": "Pay Day",
+    "description": "Throws coins. Gets them back later."
+  },
+  "faithful": {
+    "id": "PAY_DAY",
+    "index": 6,
+    "name": "Pay Day",
+    "description": "Throws coins. Gets them back later."
+  }
+}

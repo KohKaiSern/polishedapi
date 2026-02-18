@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ZEN_HEADBUTT",
+    "index": 170,
+    "name": "Zen Headbutt",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "ZEN_HEADBUTT",
+    "index": 170,
+    "name": "Zen Headbutt",
+    "description": "An attack that may cause flinching."
+  }
+}

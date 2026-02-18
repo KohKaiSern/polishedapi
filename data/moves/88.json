@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ROCK_THROW",
+    "index": 88,
+    "name": "Rock Throw",
+    "description": "Drops rocks on the enemy."
+  },
+  "faithful": {
+    "id": "ROCK_THROW",
+    "index": 88,
+    "name": "Rock Throw",
+    "description": "Drops rocks on the enemy."
+  }
+}

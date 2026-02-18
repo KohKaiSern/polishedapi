@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "WATER_GUN",
+    "index": 55,
+    "name": "Water Gun",
+    "description": "Squirts water to attack."
+  },
+  "faithful": {
+    "id": "WATER_GUN",
+    "index": 55,
+    "name": "Water Gun",
+    "description": "Squirts water to attack."
+  }
+}

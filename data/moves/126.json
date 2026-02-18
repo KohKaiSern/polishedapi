@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "FIRE_BLAST",
+    "index": 126,
+    "name": "Fire Blast",
+    "description": "An attack that may inflict a burn."
+  },
+  "faithful": {
+    "id": "FIRE_BLAST",
+    "index": 126,
+    "name": "Fire Blast",
+    "description": "An attack that may inflict a burn."
+  }
+}

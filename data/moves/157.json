@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ROCK_SLIDE",
+    "index": 157,
+    "name": "Rock Slide",
+    "description": "An attack that may cause flinching."
+  },
+  "faithful": {
+    "id": "ROCK_SLIDE",
+    "index": 157,
+    "name": "Rock Slide",
+    "description": "An attack that may cause flinching."
+  }
+}

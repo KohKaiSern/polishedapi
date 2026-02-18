@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ACROBATICS",
+    "index": 1,
+    "name": "Acrobatics",
+    "description": "Damage doubles if user has no item."
+  },
+  "faithful": {
+    "id": "ACROBATICS",
+    "index": 1,
+    "name": "Acrobatics",
+    "description": "Damage doubles if user has no item."
+  }
+}

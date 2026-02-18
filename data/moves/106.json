@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ROCK_BLAST",
+    "index": 106,
+    "name": "Rock Blast",
+    "description": "Hurls boulders to hit 2-5 times."
+  },
+  "faithful": {
+    "id": "ROCK_BLAST",
+    "index": 106,
+    "name": "Rock Blast",
+    "description": "Hurls boulders to hit 2-5 times."
+  }
+}

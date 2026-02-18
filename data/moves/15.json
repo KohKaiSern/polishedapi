@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "CUT",
+    "index": 15,
+    "name": "Cut",
+    "description": "Cuts using claws, scythes, etc."
+  },
+  "faithful": {
+    "id": "CUT",
+    "index": 15,
+    "name": "Cut",
+    "description": "Cuts using claws, scythes, etc."
+  }
+}

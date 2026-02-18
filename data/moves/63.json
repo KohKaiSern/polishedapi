@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HYPER_BEAM",
+    "index": 63,
+    "name": "Hyper Beam",
+    "description": "1st turn: Attack 2nd turn: Rest"
+  },
+  "faithful": {
+    "id": "HYPER_BEAM",
+    "index": 63,
+    "name": "Hyper Beam",
+    "description": "1st turn: Attack 2nd turn: Rest"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "LEECH_SEED",
+    "index": 73,
+    "name": "Leech Seed",
+    "description": "Steals HP from the foe on every turn."
+  },
+  "faithful": {
+    "id": "LEECH_SEED",
+    "index": 73,
+    "name": "Leech Seed",
+    "description": "Steals HP from the foe on every turn."
+  }
+}

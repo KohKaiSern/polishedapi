@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "NIGHT_SHADE",
+    "index": 101,
+    "name": "Night Shade",
+    "description": "Damage equals the user's level."
+  },
+  "faithful": {
+    "id": "NIGHT_SHADE",
+    "index": 101,
+    "name": "Night Shade",
+    "description": "Damage equals the user's level."
+  }
+}

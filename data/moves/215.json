@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HEAL_BELL",
+    "index": 215,
+    "name": "Heal Bell",
+    "description": "Eliminates all status problems."
+  },
+  "faithful": {
+    "id": "HEAL_BELL",
+    "index": 215,
+    "name": "Heal Bell",
+    "description": "Eliminates all status problems."
+  }
+}

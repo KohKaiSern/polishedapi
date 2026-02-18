@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "DRAIN_PUNCH",
+    "index": 167,
+    "name": "Drain Punch",
+    "description": "Steals 1/2 of the damage inflicted."
+  },
+  "faithful": {
+    "id": "DRAIN_PUNCH",
+    "index": 167,
+    "name": "Drain Punch",
+    "description": "Steals 1/2 of the damage inflicted."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "SONIC_BOOM",
+    "index": 49,
+    "name": "Sonic Boom",
+    "description": "Always inflicts 20HP damage."
+  },
+  "faithful": {
+    "id": "SONIC_BOOM",
+    "index": 49,
+    "name": "Sonic Boom",
+    "description": "Always inflicts 20HP damage."
+  }
+}

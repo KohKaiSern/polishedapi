@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "HEALINGLIGHT",
+    "index": 234,
+    "name": "HealingLight",
+    "description": "Restores HP based on weather."
+  },
+  "faithful": {
+    "id": "HEALINGLIGHT",
+    "index": 234,
+    "name": "HealingLight",
+    "description": "Restores HP based on weather."
+  }
+}

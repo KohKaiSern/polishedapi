@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "ACID",
+    "index": 51,
+    "name": "Acid",
+    "description": "An attack that may lower Sp.Def."
+  },
+  "faithful": {
+    "id": "ACID",
+    "index": 51,
+    "name": "Acid",
+    "description": "An attack that may lower Sp.Def."
+  }
+}

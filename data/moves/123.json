@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "GUNK_SHOT",
+    "index": 123,
+    "name": "Gunk Shot",
+    "description": "An attack that may poison the foe."
+  },
+  "faithful": {
+    "id": "GUNK_SHOT",
+    "index": 123,
+    "name": "Gunk Shot",
+    "description": "An attack that may poison the foe."
+  }
+}

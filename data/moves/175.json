@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "GYRO_BALL",
+    "index": 175,
+    "name": "Gyro Ball",
+    "description": "Does more damage at lower speed."
+  },
+  "faithful": {
+    "id": "GYRO_BALL",
+    "index": 175,
+    "name": "Gyro Ball",
+    "description": "Does more damage at lower speed."
+  }
+}

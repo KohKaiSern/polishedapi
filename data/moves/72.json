@@ -1,0 +1,14 @@
+{
+  "polished": {
+    "id": "MEGA_DRAIN",
+    "index": 72,
+    "name": "Mega Drain",
+    "description": "Steals 1/2 of the damage inflicted."
+  },
+  "faithful": {
+    "id": "MEGA_DRAIN",
+    "index": 72,
+    "name": "Mega Drain",
+    "description": "Steals 1/2 of the damage inflicted."
+  }
+}
