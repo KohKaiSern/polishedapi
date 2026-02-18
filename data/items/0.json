@@ -2,13 +2,11 @@
   "polished": {
     "id": "NO_ITEM",
     "index": 0,
-    "name": "Park Ball",
-    "description": "An item for catching Pokémon."
+    "name": "Park Ball"
   },
   "faithful": {
     "id": "NO_ITEM",
     "index": 0,
-    "name": "Park Ball",
-    "description": "An item for catching Pokémon."
+    "name": "Park Ball"
   }
 }

@@ -54,7 +54,7 @@ const files = await Promise.all(
 for (const PF of ['polished', 'faithful'] as const) {
   const consts = extractConsts(files[0][PF], undefined, 'NUM_ITEMS');
   const names = extractNames(files[1][PF], 0);
-  const descs = extractDescs(files[2][PF], 0, undefined, 'NUM_ITEMS');
+  const descs = extractDescs(files[2][PF], 1, undefined, 'NUM_ITEMS');
   const attrs = extractAttrs(files[3][PF]);
   items[PF] = consolidate<Item>(consts, names, descs, attrs)
 }
