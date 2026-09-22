@@ -3,12 +3,26 @@
     "id": "TOXIC_SPIKES",
     "index": 28,
     "name": "Toxic Spikes",
-    "description": "Poisons foes when they switch in."
+    "description": "Poisons foes when they switch in.",
+    "effect": "EFFECT_TOXIC_SPIKES",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TOXIC_SPIKES",
     "index": 28,
     "name": "Toxic Spikes",
-    "description": "Poisons foes when they switch in."
+    "description": "Poisons foes when they switch in.",
+    "effect": "EFFECT_TOXIC_SPIKES",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

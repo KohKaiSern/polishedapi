@@ -3,12 +3,26 @@
     "id": "MEGAHORN",
     "index": 224,
     "name": "Megahorn",
-    "description": "A powerful charge attack."
+    "description": "A powerful charge attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 120,
+    "type": "BUG",
+    "accuracy": 85,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "MEGAHORN",
     "index": 224,
     "name": "Megahorn",
-    "description": "A powerful charge attack."
+    "description": "A powerful charge attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 120,
+    "type": "BUG",
+    "accuracy": 85,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

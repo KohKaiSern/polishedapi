@@ -3,12 +3,26 @@
     "id": "NIGHT_SHADE",
     "index": 101,
     "name": "Night Shade",
-    "description": "Damage equals the user's level."
+    "description": "Damage equals the user's level.",
+    "effect": "EFFECT_LEVEL_DAMAGE",
+    "basePower": 1,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "NIGHT_SHADE",
     "index": 101,
     "name": "Night Shade",
-    "description": "Damage equals the user's level."
+    "description": "Damage equals the user's level.",
+    "effect": "EFFECT_LEVEL_DAMAGE",
+    "basePower": 1,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "FOCUS_BLAST",
     "index": 27,
     "name": "Focus Blast",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 120,
+    "type": "FIGHTING",
+    "accuracy": 70,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "FOCUS_BLAST",
     "index": 27,
     "name": "Focus Blast",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 120,
+    "type": "FIGHTING",
+    "accuracy": 70,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

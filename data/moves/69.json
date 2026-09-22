@@ -3,12 +3,26 @@
     "id": "SEISMIC_TOSS",
     "index": 69,
     "name": "Seismic Toss",
-    "description": "Damage equals the user's level."
+    "description": "Damage equals the user's level.",
+    "effect": "EFFECT_LEVEL_DAMAGE",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SEISMIC_TOSS",
     "index": 69,
     "name": "Seismic Toss",
-    "description": "Damage equals the user's level."
+    "description": "Damage equals the user's level.",
+    "effect": "EFFECT_LEVEL_DAMAGE",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

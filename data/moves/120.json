@@ -3,12 +3,26 @@
     "id": "TRICK_ROOM",
     "index": 120,
     "name": "Trick Room",
-    "description": "Slow Pokémon move first for 5 turns."
+    "description": "Slow Pokémon move first for 5 turns.",
+    "effect": "EFFECT_TRICK_ROOM",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TRICK_ROOM",
     "index": 120,
     "name": "Trick Room",
-    "description": "Slow Pokémon move first for 5 turns."
+    "description": "Slow Pokémon move first for 5 turns.",
+    "effect": "EFFECT_TRICK_ROOM",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

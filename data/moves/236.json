@@ -3,12 +3,26 @@
     "id": "KNOCK_OFF",
     "index": 236,
     "name": "Knock Off",
-    "description": "Slaps down the foe's held item."
+    "description": "Slaps down the foe's held item.",
+    "effect": "EFFECT_KNOCK_OFF",
+    "basePower": 65,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "KNOCK_OFF",
     "index": 236,
     "name": "Knock Off",
-    "description": "Slaps down the foe's held item."
+    "description": "Slaps down the foe's held item.",
+    "effect": "EFFECT_KNOCK_OFF",
+    "basePower": 65,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

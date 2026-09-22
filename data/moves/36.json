@@ -3,12 +3,26 @@
     "id": "TAKE_DOWN",
     "index": 36,
     "name": "Take Down",
-    "description": "A tackle that also hurts the user."
+    "description": "A tackle that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 90,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "TAKE_DOWN",
     "index": 36,
     "name": "Take Down",
-    "description": "A tackle that also hurts the user."
+    "description": "A tackle that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 90,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

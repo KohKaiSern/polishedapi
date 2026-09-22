@@ -3,12 +3,26 @@
     "id": "FLASH",
     "index": 148,
     "name": "Flash",
-    "description": "A move that lowers the foe's accuracy."
+    "description": "A move that lowers the foe's accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "FLASH",
     "index": 148,
     "name": "Flash",
-    "description": "A move that lowers the foe's accuracy."
+    "description": "A move that lowers the foe's accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

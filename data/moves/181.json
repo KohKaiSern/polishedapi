@@ -3,12 +3,26 @@
     "id": "ICE_SHARD",
     "index": 181,
     "name": "Ice Shard",
-    "description": "Hurls icy shards. Always goes first."
+    "description": "Hurls icy shards. Always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ICE_SHARD",
     "index": 181,
     "name": "Ice Shard",
-    "description": "Hurls icy shards. Always goes first."
+    "description": "Hurls icy shards. Always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

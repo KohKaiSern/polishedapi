@@ -3,12 +3,26 @@
     "id": "SCARY_FACE",
     "index": 184,
     "name": "Scary Face",
-    "description": "Sharply lowers the foe's Speed."
+    "description": "Sharply lowers the foe's Speed.",
+    "effect": "EFFECT_SPEED_DOWN_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SCARY_FACE",
     "index": 184,
     "name": "Scary Face",
-    "description": "Sharply lowers the foe's Speed."
+    "description": "Sharply lowers the foe's Speed.",
+    "effect": "EFFECT_SPEED_DOWN_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

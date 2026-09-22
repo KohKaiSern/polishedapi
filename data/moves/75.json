@@ -3,12 +3,26 @@
     "id": "RAZOR_LEAF",
     "index": 75,
     "name": "Razor Leaf",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 55,
+    "type": "GRASS",
+    "accuracy": 95,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "RAZOR_LEAF",
     "index": 75,
     "name": "Razor Leaf",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 55,
+    "type": "GRASS",
+    "accuracy": 95,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

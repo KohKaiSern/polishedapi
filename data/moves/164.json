@@ -3,12 +3,26 @@
     "id": "SUBSTITUTE",
     "index": 164,
     "name": "Substitute",
-    "description": "Makes a decoy with 1/4 user's max HP."
+    "description": "Makes a decoy with 1/4 user's max HP.",
+    "effect": "EFFECT_SUBSTITUTE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SUBSTITUTE",
     "index": 164,
     "name": "Substitute",
-    "description": "Makes a decoy with 1/4 user's max HP."
+    "description": "Makes a decoy with 1/4 user's max HP.",
+    "effect": "EFFECT_SUBSTITUTE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

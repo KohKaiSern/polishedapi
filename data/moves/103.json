@@ -3,12 +3,26 @@
     "id": "SCREECH",
     "index": 103,
     "name": "Screech",
-    "description": "Sharply lowers the foe's Defense."
+    "description": "Sharply lowers the foe's Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SCREECH",
     "index": 103,
     "name": "Screech",
-    "description": "Sharply lowers the foe's Defense."
+    "description": "Sharply lowers the foe's Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

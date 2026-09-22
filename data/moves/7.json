@@ -3,12 +3,26 @@
     "id": "FIRE_PUNCH",
     "index": 7,
     "name": "Fire Punch",
-    "description": "A fiery punch. May cause a burn."
+    "description": "A fiery punch. May cause a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 75,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FIRE_PUNCH",
     "index": 7,
     "name": "Fire Punch",
-    "description": "A fiery punch. May cause a burn."
+    "description": "A fiery punch. May cause a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 75,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

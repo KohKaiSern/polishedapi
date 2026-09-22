@@ -3,12 +3,26 @@
     "id": "AQUA_JET",
     "index": 239,
     "name": "Aqua Jet",
-    "description": "A speedy lunge. Always goes first."
+    "description": "A speedy lunge. Always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "AQUA_JET",
     "index": 239,
     "name": "Aqua Jet",
-    "description": "A speedy lunge. Always goes first."
+    "description": "A speedy lunge. Always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

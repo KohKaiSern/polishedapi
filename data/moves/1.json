@@ -3,12 +3,26 @@
     "id": "ACROBATICS",
     "index": 1,
     "name": "Acrobatics",
-    "description": "Damage doubles if user has no item."
+    "description": "Damage doubles if user has no item.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 55,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ACROBATICS",
     "index": 1,
     "name": "Acrobatics",
-    "description": "Damage doubles if user has no item."
+    "description": "Damage doubles if user has no item.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 55,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

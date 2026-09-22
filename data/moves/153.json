@@ -3,12 +3,26 @@
     "id": "EXPLOSION",
     "index": 153,
     "name": "Explosion",
-    "description": "Very powerful but makes user faint."
+    "description": "Very powerful but makes user faint.",
+    "effect": "EFFECT_EXPLOSION",
+    "basePower": 250,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "EXPLOSION",
     "index": 153,
     "name": "Explosion",
-    "description": "Very powerful but makes user faint."
+    "description": "Very powerful but makes user faint.",
+    "effect": "EFFECT_EXPLOSION",
+    "basePower": 250,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

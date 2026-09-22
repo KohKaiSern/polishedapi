@@ -3,12 +3,26 @@
     "id": "SCALD",
     "index": 119,
     "name": "Scald",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 70,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SCALD",
     "index": 119,
     "name": "Scald",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 80,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "SPECIAL"
   }
 }

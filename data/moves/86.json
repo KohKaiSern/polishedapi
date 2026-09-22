@@ -3,12 +3,26 @@
     "id": "THUNDER_WAVE",
     "index": 86,
     "name": "Thunder Wave",
-    "description": "A move that paralyzes the foe."
+    "description": "A move that paralyzes the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "ELECTRIC",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "THUNDER_WAVE",
     "index": 86,
     "name": "Thunder Wave",
-    "description": "A move that paralyzes the foe."
+    "description": "A move that paralyzes the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "ELECTRIC",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

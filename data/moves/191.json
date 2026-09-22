@@ -3,12 +3,26 @@
     "id": "SPIKES",
     "index": 191,
     "name": "Spikes",
-    "description": "Hurts foes when they switch in."
+    "description": "Hurts foes when they switch in.",
+    "effect": "EFFECT_SPIKES",
+    "basePower": 0,
+    "type": "GROUND",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SPIKES",
     "index": 191,
     "name": "Spikes",
-    "description": "Hurts foes when they switch in."
+    "description": "Hurts foes when they switch in.",
+    "effect": "EFFECT_SPIKES",
+    "basePower": 0,
+    "type": "GROUND",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "ANCIENTPOWER",
     "index": 246,
     "name": "AncientPower",
-    "description": "An attack that may raise all stats."
+    "description": "An attack that may raise all stats.",
+    "effect": "EFFECT_ALL_UP_HIT",
+    "basePower": 60,
+    "type": "ROCK",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ANCIENTPOWER",
     "index": 246,
     "name": "AncientPower",
-    "description": "An attack that may raise all stats."
+    "description": "An attack that may raise all stats.",
+    "effect": "EFFECT_ALL_UP_HIT",
+    "basePower": 60,
+    "type": "ROCK",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

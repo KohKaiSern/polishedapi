@@ -3,12 +3,26 @@
     "id": "AGILITY",
     "index": 97,
     "name": "Agility",
-    "description": "Sharply raises the user's Speed."
+    "description": "Sharply raises the user's Speed.",
+    "effect": "EFFECT_SPEED_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "AGILITY",
     "index": 97,
     "name": "Agility",
-    "description": "Sharply raises the user's Speed."
+    "description": "Sharply raises the user's Speed.",
+    "effect": "EFFECT_SPEED_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

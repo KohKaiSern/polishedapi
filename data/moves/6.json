@@ -3,12 +3,26 @@
     "id": "PAY_DAY",
     "index": 6,
     "name": "Pay Day",
-    "description": "Throws coins. Gets them back later."
+    "description": "Throws coins. Gets them back later.",
+    "effect": "EFFECT_PAY_DAY",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "PAY_DAY",
     "index": 6,
     "name": "Pay Day",
-    "description": "Throws coins. Gets them back later."
+    "description": "Throws coins. Gets them back later.",
+    "effect": "EFFECT_PAY_DAY",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

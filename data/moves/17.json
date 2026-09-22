@@ -3,12 +3,26 @@
     "id": "WING_ATTACK",
     "index": 17,
     "name": "Wing Attack",
-    "description": "Strikes the foe with wings."
+    "description": "Strikes the foe with wings.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 60,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "WING_ATTACK",
     "index": 17,
     "name": "Wing Attack",
-    "description": "Strikes the foe with wings."
+    "description": "Strikes the foe with wings.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 60,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

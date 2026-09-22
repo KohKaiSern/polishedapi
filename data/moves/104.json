@@ -3,12 +3,26 @@
     "id": "DOUBLE_TEAM",
     "index": 104,
     "name": "Double Team",
-    "description": "Raises the user's evasiveness."
+    "description": "Raises the user's evasiveness.",
+    "effect": "EFFECT_EVASION_UP",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "DOUBLE_TEAM",
     "index": 104,
     "name": "Double Team",
-    "description": "Raises the user's evasiveness."
+    "description": "Raises the user's evasiveness.",
+    "effect": "EFFECT_EVASION_UP",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

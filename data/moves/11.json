@@ -3,12 +3,26 @@
     "id": "X_SCISSOR",
     "index": 11,
     "name": "X-Scissor",
-    "description": "Slashes foe with scythes or claws."
+    "description": "Slashes foe with scythes or claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "BUG",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "X_SCISSOR",
     "index": 11,
     "name": "X-Scissor",
-    "description": "Slashes foe with scythes or claws."
+    "description": "Slashes foe with scythes or claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "BUG",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "FLAME_CHARGE",
     "index": 172,
     "name": "Flame Charge",
-    "description": "An attack that may up user's Speed."
+    "description": "An attack that may up user's Speed.",
+    "effect": "EFFECT_SPEED_UP_HIT",
+    "basePower": 50,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FLAME_CHARGE",
     "index": 172,
     "name": "Flame Charge",
-    "description": "An attack that may up user's Speed."
+    "description": "An attack that may up user's Speed.",
+    "effect": "EFFECT_SPEED_UP_HIT",
+    "basePower": 50,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

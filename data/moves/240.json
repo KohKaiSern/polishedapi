@@ -3,12 +3,26 @@
     "id": "RAIN_DANCE",
     "index": 240,
     "name": "Rain Dance",
-    "description": "Boosts Water-type moves for 5 turns."
+    "description": "Boosts Water-type moves for 5 turns.",
+    "effect": "EFFECT_RAIN_DANCE",
+    "basePower": 0,
+    "type": "WATER",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "RAIN_DANCE",
     "index": 240,
     "name": "Rain Dance",
-    "description": "Boosts Water-type moves for 5 turns."
+    "description": "Boosts Water-type moves for 5 turns.",
+    "effect": "EFFECT_RAIN_DANCE",
+    "basePower": 0,
+    "type": "WATER",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "HAZE",
     "index": 114,
     "name": "Haze",
-    "description": "Eliminates all stat changes."
+    "description": "Eliminates all stat changes.",
+    "effect": "EFFECT_HAZE",
+    "basePower": 0,
+    "type": "ICE",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "HAZE",
     "index": 114,
     "name": "Haze",
-    "description": "Eliminates all stat changes."
+    "description": "Eliminates all stat changes.",
+    "effect": "EFFECT_HAZE",
+    "basePower": 0,
+    "type": "ICE",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

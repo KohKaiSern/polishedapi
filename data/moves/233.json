@@ -3,12 +3,26 @@
     "id": "AURA_SPHERE",
     "index": 233,
     "name": "Aura Sphere",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 80,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "AURA_SPHERE",
     "index": 233,
     "name": "Aura Sphere",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 80,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

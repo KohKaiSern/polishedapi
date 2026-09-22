@@ -3,12 +3,26 @@
     "id": "MEAN_LOOK",
     "index": 212,
     "name": "Mean Look",
-    "description": "Prevents fleeing or switching."
+    "description": "Prevents fleeing or switching.",
+    "effect": "EFFECT_MEAN_LOOK",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "MEAN_LOOK",
     "index": 212,
     "name": "Mean Look",
-    "description": "Prevents fleeing or switching."
+    "description": "Prevents fleeing or switching.",
+    "effect": "EFFECT_MEAN_LOOK",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "PAIN_SPLIT",
     "index": 220,
     "name": "Pain Split",
-    "description": "Adds user & foe's HPs. Shares total."
+    "description": "Adds user & foe's HPs. Shares total.",
+    "effect": "EFFECT_PAIN_SPLIT",
+    "basePower": 0,
+    "type": "GHOST",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "PAIN_SPLIT",
     "index": 220,
     "name": "Pain Split",
-    "description": "Adds user & foe's HPs. Shares total."
+    "description": "Adds user & foe's HPs. Shares total.",
+    "effect": "EFFECT_PAIN_SPLIT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

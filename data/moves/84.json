@@ -3,12 +3,26 @@
     "id": "THUNDERSHOCK",
     "index": 84,
     "name": "ThunderShock",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 40,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "THUNDERSHOCK",
     "index": 84,
     "name": "ThunderShock",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 40,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

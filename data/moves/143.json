@@ -3,12 +3,26 @@
     "id": "BRAVE_BIRD",
     "index": 143,
     "name": "Brave Bird",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 120,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "BRAVE_BIRD",
     "index": 143,
     "name": "Brave Bird",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 120,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

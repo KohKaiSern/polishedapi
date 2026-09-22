@@ -3,12 +3,26 @@
     "id": "OUTRAGE",
     "index": 200,
     "name": "Outrage",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "OUTRAGE",
     "index": 200,
     "name": "Outrage",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

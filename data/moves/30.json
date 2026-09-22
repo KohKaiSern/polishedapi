@@ -3,12 +3,26 @@
     "id": "HORN_ATTACK",
     "index": 30,
     "name": "Horn Attack",
-    "description": "An attack using a horn to jab."
+    "description": "An attack using a horn to jab.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 65,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "HORN_ATTACK",
     "index": 30,
     "name": "Horn Attack",
-    "description": "An attack using a horn to jab."
+    "description": "An attack using a horn to jab.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 65,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

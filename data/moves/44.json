@@ -3,12 +3,26 @@
     "id": "BITE",
     "index": 44,
     "name": "Bite",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "BITE",
     "index": 44,
     "name": "Bite",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

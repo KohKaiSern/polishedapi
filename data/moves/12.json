@@ -3,12 +3,26 @@
     "id": "NIGHT_SLASH",
     "index": 12,
     "name": "Night Slash",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 70,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "NIGHT_SLASH",
     "index": 12,
     "name": "Night Slash",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 70,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "FLARE_BLITZ",
     "index": 25,
     "name": "Flare Blitz",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_FLARE_BLITZ",
+    "basePower": 120,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FLARE_BLITZ",
     "index": 25,
     "name": "Flare Blitz",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_FLARE_BLITZ",
+    "basePower": 120,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

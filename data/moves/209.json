@@ -3,12 +3,26 @@
     "id": "SPARK",
     "index": 209,
     "name": "Spark",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 65,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SPARK",
     "index": 209,
     "name": "Spark",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 65,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

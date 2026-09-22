@@ -3,12 +3,26 @@
     "id": "VINE_WHIP",
     "index": 22,
     "name": "Vine Whip",
-    "description": "Whips the foe with slender vines."
+    "description": "Whips the foe with slender vines.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 45,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "VINE_WHIP",
     "index": 22,
     "name": "Vine Whip",
-    "description": "Whips the foe with slender vines."
+    "description": "Whips the foe with slender vines.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 45,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "PETAL_DANCE",
     "index": 80,
     "name": "Petal Dance",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "PETAL_DANCE",
     "index": 80,
     "name": "Petal Dance",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

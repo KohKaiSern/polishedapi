@@ -3,12 +3,26 @@
     "id": "TELEPORT",
     "index": 100,
     "name": "Teleport",
-    "description": "A move for fleeing from battle."
+    "description": "A move for fleeing from battle.",
+    "effect": "EFFECT_TELEPORT",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TELEPORT",
     "index": 100,
     "name": "Teleport",
-    "description": "A move for fleeing from battle."
+    "description": "A move for fleeing from battle.",
+    "effect": "EFFECT_TELEPORT",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

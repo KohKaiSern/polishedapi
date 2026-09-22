@@ -3,12 +3,26 @@
     "id": "MIRROR_COAT",
     "index": 243,
     "name": "Mirror Coat",
-    "description": "Returns a special attack double."
+    "description": "Returns a special attack double.",
+    "effect": "EFFECT_COUNTER",
+    "basePower": 1,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "MIRROR_COAT",
     "index": 243,
     "name": "Mirror Coat",
-    "description": "Returns a special attack double."
+    "description": "Returns a special attack double.",
+    "effect": "EFFECT_COUNTER",
+    "basePower": 1,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

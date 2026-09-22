@@ -3,12 +3,26 @@
     "id": "DISABLE",
     "index": 50,
     "name": "Disable",
-    "description": "Disables the foe's most recent move."
+    "description": "Disables the foe's most recent move.",
+    "effect": "EFFECT_DISABLE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "DISABLE",
     "index": 50,
     "name": "Disable",
-    "description": "Disables the foe's most recent move."
+    "description": "Disables the foe's most recent move.",
+    "effect": "EFFECT_DISABLE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SPORE",
     "index": 147,
     "name": "Spore",
-    "description": "A move that puts the foe to sleep."
+    "description": "A move that puts the foe to sleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SPORE",
     "index": 147,
     "name": "Spore",
-    "description": "A move that puts the foe to sleep."
+    "description": "A move that puts the foe to sleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

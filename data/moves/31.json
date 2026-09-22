@@ -3,12 +3,26 @@
     "id": "TRICK",
     "index": 31,
     "name": "Trick",
-    "description": "Swaps held items with the foe."
+    "description": "Swaps held items with the foe.",
+    "effect": "EFFECT_TRICK",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TRICK",
     "index": 31,
     "name": "Trick",
-    "description": "Swaps held items with the foe."
+    "description": "Swaps held items with the foe.",
+    "effect": "EFFECT_TRICK",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

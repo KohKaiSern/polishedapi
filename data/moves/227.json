@@ -3,12 +3,26 @@
     "id": "ENCORE",
     "index": 227,
     "name": "Encore",
-    "description": "Makes the foe repeat 2-6 times."
+    "description": "Makes the foe repeat 2-6 times.",
+    "effect": "EFFECT_ENCORE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "ENCORE",
     "index": 227,
     "name": "Encore",
-    "description": "Makes the foe repeat 2-6 times."
+    "description": "Makes the foe repeat 2-6 times.",
+    "effect": "EFFECT_ENCORE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

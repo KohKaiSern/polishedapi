@@ -3,12 +3,26 @@
     "id": "SAFEGUARD",
     "index": 219,
     "name": "Safeguard",
-    "description": "Prevents all status problems."
+    "description": "Prevents all status problems.",
+    "effect": "EFFECT_SAFEGUARD",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SAFEGUARD",
     "index": 219,
     "name": "Safeguard",
-    "description": "Prevents all status problems."
+    "description": "Prevents all status problems.",
+    "effect": "EFFECT_SAFEGUARD",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SCRATCH",
     "index": 10,
     "name": "Scratch",
-    "description": "Scratches with sharp claws."
+    "description": "Scratches with sharp claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SCRATCH",
     "index": 10,
     "name": "Scratch",
-    "description": "Scratches with sharp claws."
+    "description": "Scratches with sharp claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

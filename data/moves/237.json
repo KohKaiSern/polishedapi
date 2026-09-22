@@ -3,12 +3,26 @@
     "id": "HIDDEN_POWER",
     "index": 237,
     "name": "Hidden Power",
-    "description": "The type varies with the Pokémon."
+    "description": "The type varies with the Pokémon.",
+    "effect": "EFFECT_HIDDEN_POWER",
+    "basePower": 70,
+    "type": "UNKNOWN_T",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "HIDDEN_POWER",
     "index": 237,
     "name": "Hidden Power",
-    "description": "The type varies with the Pokémon."
+    "description": "The type varies with the Pokémon.",
+    "effect": "EFFECT_HIDDEN_POWER",
+    "basePower": 60,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

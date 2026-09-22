@@ -3,12 +3,26 @@
     "id": "THUNDER",
     "index": 87,
     "name": "Thunder",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_THUNDER",
+    "basePower": 110,
+    "type": "ELECTRIC",
+    "accuracy": 70,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "THUNDER",
     "index": 87,
     "name": "Thunder",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_THUNDER",
+    "basePower": 110,
+    "type": "ELECTRIC",
+    "accuracy": 70,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "SPECIAL"
   }
 }

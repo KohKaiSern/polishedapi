@@ -3,12 +3,26 @@
     "id": "SEED_BOMB",
     "index": 178,
     "name": "Seed Bomb",
-    "description": "Slams a barrage of seeds at the foe."
+    "description": "Slams a barrage of seeds at the foe.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SEED_BOMB",
     "index": 178,
     "name": "Seed Bomb",
-    "description": "Slams a barrage of seeds at the foe."
+    "description": "Slams a barrage of seeds at the foe.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

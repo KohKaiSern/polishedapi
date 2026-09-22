@@ -3,12 +3,26 @@
     "id": "CUT",
     "index": 15,
     "name": "Cut",
-    "description": "Cuts using claws, scythes, etc."
+    "description": "Cuts using claws, scythes, etc.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 60,
+    "type": "STEEL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "CUT",
     "index": 15,
     "name": "Cut",
-    "description": "Cuts using claws, scythes, etc."
+    "description": "Cuts using claws, scythes, etc.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 50,
+    "type": "NORMAL",
+    "accuracy": 95,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

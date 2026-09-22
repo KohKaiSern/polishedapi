@@ -3,12 +3,26 @@
     "id": "DOUBLE_KICK",
     "index": 24,
     "name": "Double Kick",
-    "description": "A double kicking attack."
+    "description": "A double kicking attack.",
+    "effect": "EFFECT_DOUBLE_HIT",
+    "basePower": 30,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "DOUBLE_KICK",
     "index": 24,
     "name": "Double Kick",
-    "description": "A double kicking attack."
+    "description": "A double kicking attack.",
+    "effect": "EFFECT_DOUBLE_HIT",
+    "basePower": 30,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

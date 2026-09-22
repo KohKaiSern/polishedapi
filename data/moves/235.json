@@ -3,12 +3,26 @@
     "id": "HURRICANE",
     "index": 235,
     "name": "Hurricane",
-    "description": "An attack that may confuse the foe."
+    "description": "An attack that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 110,
+    "type": "FLYING",
+    "accuracy": 70,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "HURRICANE",
     "index": 235,
     "name": "Hurricane",
-    "description": "An attack that may confuse the foe."
+    "description": "An attack that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 110,
+    "type": "FLYING",
+    "accuracy": 70,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "ICE_BEAM",
     "index": 58,
     "name": "Ice Beam",
-    "description": "An attack that may freeze the foe."
+    "description": "An attack that may freeze the foe.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 90,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ICE_BEAM",
     "index": 58,
     "name": "Ice Beam",
-    "description": "An attack that may freeze the foe."
+    "description": "An attack that may freeze the foe.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 90,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

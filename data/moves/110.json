@@ -3,12 +3,26 @@
     "id": "AQUA_TAIL",
     "index": 110,
     "name": "Aqua Tail",
-    "description": "Swings tail like a wave in a storm."
+    "description": "Swings tail like a wave in a storm.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 90,
+    "type": "WATER",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "AQUA_TAIL",
     "index": 110,
     "name": "Aqua Tail",
-    "description": "Swings tail like a wave in a storm."
+    "description": "Swings tail like a wave in a storm.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 90,
+    "type": "WATER",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

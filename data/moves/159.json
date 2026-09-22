@@ -3,12 +3,26 @@
     "id": "BULK_UP",
     "index": 159,
     "name": "Bulk Up",
-    "description": "Raises the user's Atk and Def."
+    "description": "Raises the user's Atk and Def.",
+    "effect": "EFFECT_BULK_UP",
+    "basePower": 0,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "BULK_UP",
     "index": 159,
     "name": "Bulk Up",
-    "description": "Raises the user's Atk and Def."
+    "description": "Raises the user's Atk and Def.",
+    "effect": "EFFECT_BULK_UP",
+    "basePower": 0,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

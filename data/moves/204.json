@@ -3,12 +3,26 @@
     "id": "CHARM",
     "index": 204,
     "name": "Charm",
-    "description": "Sharply lowers the foe's Attack."
+    "description": "Sharply lowers the foe's Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_2",
+    "basePower": 0,
+    "type": "FAIRY",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "CHARM",
     "index": 204,
     "name": "Charm",
-    "description": "Sharply lowers the foe's Attack."
+    "description": "Sharply lowers the foe's Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_2",
+    "basePower": 0,
+    "type": "FAIRY",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

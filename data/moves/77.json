@@ -3,12 +3,26 @@
     "id": "POISONPOWDER",
     "index": 77,
     "name": "PoisonPowder",
-    "description": "A move that may poison the foe."
+    "description": "A move that may poison the foe.",
+    "effect": "EFFECT_POISON",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": 75,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "POISONPOWDER",
     "index": 77,
     "name": "PoisonPowder",
-    "description": "A move that may poison the foe."
+    "description": "A move that may poison the foe.",
+    "effect": "EFFECT_POISON",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": 75,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

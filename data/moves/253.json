@@ -3,12 +3,26 @@
     "id": "PLAY_ROUGH",
     "index": 253,
     "name": "Play Rough",
-    "description": "An attack that may lower Attack."
+    "description": "An attack that may lower Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_HIT",
+    "basePower": 90,
+    "type": "FAIRY",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "PLAY_ROUGH",
     "index": 253,
     "name": "Play Rough",
-    "description": "An attack that may lower Attack."
+    "description": "An attack that may lower Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_HIT",
+    "basePower": 90,
+    "type": "FAIRY",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "FEINT_ATTACK",
     "index": 185,
     "name": "Feint Attack",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FEINT_ATTACK",
     "index": 185,
     "name": "Feint Attack",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

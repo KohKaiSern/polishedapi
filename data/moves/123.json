@@ -3,12 +3,26 @@
     "id": "GUNK_SHOT",
     "index": 123,
     "name": "Gunk Shot",
-    "description": "An attack that may poison the foe."
+    "description": "An attack that may poison the foe.",
+    "effect": "EFFECT_POISON_HIT",
+    "basePower": 120,
+    "type": "POISON",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "GUNK_SHOT",
     "index": 123,
     "name": "Gunk Shot",
-    "description": "An attack that may poison the foe."
+    "description": "An attack that may poison the foe.",
+    "effect": "EFFECT_POISON_HIT",
+    "basePower": 120,
+    "type": "POISON",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "VOLT_SWITCH",
     "index": 21,
     "name": "Volt Switch",
-    "description": "Switches out after making its attack."
+    "description": "Switches out after making its attack.",
+    "effect": "EFFECT_SWITCH_HIT",
+    "basePower": 70,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "VOLT_SWITCH",
     "index": 21,
     "name": "Volt Switch",
-    "description": "Switches out after making its attack."
+    "description": "Switches out after making its attack.",
+    "effect": "EFFECT_SWITCH_HIT",
+    "basePower": 70,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

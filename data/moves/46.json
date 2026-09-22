@@ -3,12 +3,26 @@
     "id": "ROAR",
     "index": 46,
     "name": "Roar",
-    "description": "Scares wild foes to end battle."
+    "description": "Scares wild foes to end battle.",
+    "effect": "EFFECT_ROAR",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "ROAR",
     "index": 46,
     "name": "Roar",
-    "description": "Scares wild foes to end battle."
+    "description": "Scares wild foes to end battle.",
+    "effect": "EFFECT_ROAR",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

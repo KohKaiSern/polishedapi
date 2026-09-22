@@ -3,12 +3,26 @@
     "id": "GLARE",
     "index": 137,
     "name": "Glare",
-    "description": "A move that may paralyze the foe."
+    "description": "A move that may paralyze the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "GLARE",
     "index": 137,
     "name": "Glare",
-    "description": "A move that may paralyze the foe."
+    "description": "A move that may paralyze the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

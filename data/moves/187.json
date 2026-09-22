@@ -3,12 +3,26 @@
     "id": "BELLY_DRUM",
     "index": 187,
     "name": "Belly Drum",
-    "description": "Sacrifices HP to maximize Attack."
+    "description": "Sacrifices HP to maximize Attack.",
+    "effect": "EFFECT_BELLY_DRUM",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "BELLY_DRUM",
     "index": 187,
     "name": "Belly Drum",
-    "description": "Sacrifices HP to maximize Attack."
+    "description": "Sacrifices HP to maximize Attack.",
+    "effect": "EFFECT_BELLY_DRUM",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

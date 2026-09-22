@@ -3,12 +3,26 @@
     "id": "BATON_PASS",
     "index": 226,
     "name": "Baton Pass",
-    "description": "Switches while keeping effects."
+    "description": "Switches while keeping effects.",
+    "effect": "EFFECT_BATON_PASS",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "BATON_PASS",
     "index": 226,
     "name": "Baton Pass",
-    "description": "Switches while keeping effects."
+    "description": "Switches while keeping effects.",
+    "effect": "EFFECT_BATON_PASS",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

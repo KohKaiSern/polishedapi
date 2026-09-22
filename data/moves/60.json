@@ -3,12 +3,26 @@
     "id": "PSYBEAM",
     "index": 60,
     "name": "Psybeam",
-    "description": "An attack that may confuse the foe."
+    "description": "An attack that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 65,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "PSYBEAM",
     "index": 60,
     "name": "Psybeam",
-    "description": "An attack that may confuse the foe."
+    "description": "An attack that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 65,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

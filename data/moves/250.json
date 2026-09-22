@@ -3,12 +3,26 @@
     "id": "WHIRLPOOL",
     "index": 250,
     "name": "Whirlpool",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 40,
+    "type": "WATER",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "WHIRLPOOL",
     "index": 250,
     "name": "Whirlpool",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 35,
+    "type": "WATER",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

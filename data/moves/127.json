@@ -3,12 +3,26 @@
     "id": "WATERFALL",
     "index": 127,
     "name": "Waterfall",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "WATERFALL",
     "index": 127,
     "name": "Waterfall",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "PHYSICAL"
   }
 }

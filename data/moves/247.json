@@ -3,12 +3,26 @@
     "id": "SHADOW_BALL",
     "index": 247,
     "name": "Shadow Ball",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 80,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SHADOW_BALL",
     "index": 247,
     "name": "Shadow Ball",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 80,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "SPECIAL"
   }
 }

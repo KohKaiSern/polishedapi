@@ -3,12 +3,26 @@
     "id": "CONVERSION",
     "index": 160,
     "name": "Conversion",
-    "description": "Change user's type to a move's type."
+    "description": "Change user's type to a move's type.",
+    "effect": "EFFECT_CONVERSION",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "CONVERSION",
     "index": 160,
     "name": "Conversion",
-    "description": "Change user's type to a move's type."
+    "description": "Change user's type to a move's type.",
+    "effect": "EFFECT_CONVERSION",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

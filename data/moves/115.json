@@ -3,12 +3,26 @@
     "id": "REFLECT",
     "index": 115,
     "name": "Reflect",
-    "description": "Raises Defense with a barrier."
+    "description": "Raises Defense with a barrier.",
+    "effect": "EFFECT_REFLECT",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "REFLECT",
     "index": 115,
     "name": "Reflect",
-    "description": "Raises Defense with a barrier."
+    "description": "Raises Defense with a barrier.",
+    "effect": "EFFECT_REFLECT",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

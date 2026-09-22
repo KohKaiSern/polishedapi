@@ -3,12 +3,26 @@
     "id": "METAL_CLAW",
     "index": 232,
     "name": "Metal Claw",
-    "description": "An attack that may up user's Attack."
+    "description": "An attack that may up user's Attack.",
+    "effect": "EFFECT_ATTACK_UP_HIT",
+    "basePower": 50,
+    "type": "STEEL",
+    "accuracy": 95,
+    "powerPoints": 35,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "METAL_CLAW",
     "index": 232,
     "name": "Metal Claw",
-    "description": "An attack that may up user's Attack."
+    "description": "An attack that may up user's Attack.",
+    "effect": "EFFECT_ATTACK_UP_HIT",
+    "basePower": 50,
+    "type": "STEEL",
+    "accuracy": 95,
+    "powerPoints": 35,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

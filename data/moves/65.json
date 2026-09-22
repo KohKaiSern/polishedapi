@@ -3,12 +3,26 @@
     "id": "DRILL_PECK",
     "index": 65,
     "name": "Drill Peck",
-    "description": "A strong, spinning-peck attack."
+    "description": "A strong, spinning-peck attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "DRILL_PECK",
     "index": 65,
     "name": "Drill Peck",
-    "description": "A strong, spinning-peck attack."
+    "description": "A strong, spinning-peck attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

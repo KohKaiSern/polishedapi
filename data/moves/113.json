@@ -3,12 +3,26 @@
     "id": "LIGHT_SCREEN",
     "index": 113,
     "name": "Light Screen",
-    "description": "Raises Sp.Def with a wall of light."
+    "description": "Raises Sp.Def with a wall of light.",
+    "effect": "EFFECT_LIGHT_SCREEN",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "LIGHT_SCREEN",
     "index": 113,
     "name": "Light Screen",
-    "description": "Raises Sp.Def with a wall of light."
+    "description": "Raises Sp.Def with a wall of light.",
+    "effect": "EFFECT_LIGHT_SCREEN",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

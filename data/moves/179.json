@@ -3,12 +3,26 @@
     "id": "REVERSAL",
     "index": 179,
     "name": "Reversal",
-    "description": "Stronger if the user's HP is low."
+    "description": "Stronger if the user's HP is low.",
+    "effect": "EFFECT_REVERSAL",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "REVERSAL",
     "index": 179,
     "name": "Reversal",
-    "description": "Stronger if the user's HP is low."
+    "description": "Stronger if the user's HP is low.",
+    "effect": "EFFECT_REVERSAL",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

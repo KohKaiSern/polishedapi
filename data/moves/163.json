@@ -3,12 +3,26 @@
     "id": "SLASH",
     "index": 163,
     "name": "Slash",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SLASH",
     "index": 163,
     "name": "Slash",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

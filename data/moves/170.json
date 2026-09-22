@@ -3,12 +3,26 @@
     "id": "ZEN_HEADBUTT",
     "index": 170,
     "name": "Zen Headbutt",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "PSYCHIC",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ZEN_HEADBUTT",
     "index": 170,
     "name": "Zen Headbutt",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "PSYCHIC",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 20,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "IRON_TAIL",
     "index": 231,
     "name": "Iron Tail",
-    "description": "An attack that may lower Defense."
+    "description": "An attack that may lower Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN_HIT",
+    "basePower": 100,
+    "type": "STEEL",
+    "accuracy": 75,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "IRON_TAIL",
     "index": 231,
     "name": "Iron Tail",
-    "description": "An attack that may lower Defense."
+    "description": "An attack that may lower Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN_HIT",
+    "basePower": 100,
+    "type": "STEEL",
+    "accuracy": 75,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

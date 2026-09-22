@@ -3,12 +3,26 @@
     "id": "HYPNOSIS",
     "index": 95,
     "name": "Hypnosis",
-    "description": "May cause the foe to fall asleep."
+    "description": "May cause the foe to fall asleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": 60,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "HYPNOSIS",
     "index": 95,
     "name": "Hypnosis",
-    "description": "May cause the foe to fall asleep."
+    "description": "May cause the foe to fall asleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": 60,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

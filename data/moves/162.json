@@ -3,12 +3,26 @@
     "id": "SUPER_FANG",
     "index": 162,
     "name": "Super Fang",
-    "description": "Cuts the foe's HP by 1/2."
+    "description": "Cuts the foe's HP by 1/2.",
+    "effect": "EFFECT_SUPER_FANG",
+    "basePower": 1,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SUPER_FANG",
     "index": 162,
     "name": "Super Fang",
-    "description": "Cuts the foe's HP by 1/2."
+    "description": "Cuts the foe's HP by 1/2.",
+    "effect": "EFFECT_SUPER_FANG",
+    "basePower": 1,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

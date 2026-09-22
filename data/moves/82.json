@@ -3,12 +3,26 @@
     "id": "DRAGON_RAGE",
     "index": 82,
     "name": "Dragon Rage",
-    "description": "Always inflicts 40HP damage."
+    "description": "Always inflicts 40HP damage.",
+    "effect": "EFFECT_STATIC_DAMAGE",
+    "basePower": 40,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "DRAGON_RAGE",
     "index": 82,
     "name": "Dragon Rage",
-    "description": "Always inflicts 40HP damage."
+    "description": "Always inflicts 40HP damage.",
+    "effect": "EFFECT_STATIC_DAMAGE",
+    "basePower": 40,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

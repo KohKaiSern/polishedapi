@@ -3,12 +3,26 @@
     "id": "BULLDOZE",
     "index": 132,
     "name": "Bulldoze",
-    "description": "A Ground attack that lowers Speed."
+    "description": "A Ground attack that lowers Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 60,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "BULLDOZE",
     "index": 132,
     "name": "Bulldoze",
-    "description": "A Ground attack that lowers Speed."
+    "description": "A Ground attack that lowers Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 60,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

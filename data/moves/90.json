@@ -3,12 +3,26 @@
     "id": "AVALANCHE",
     "index": 90,
     "name": "Avalanche",
-    "description": "Damage doubles if user is hit first."
+    "description": "Damage doubles if user is hit first.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 60,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "AVALANCHE",
     "index": 90,
     "name": "Avalanche",
-    "description": "Damage doubles if user is hit first."
+    "description": "Damage doubles if user is hit first.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 60,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

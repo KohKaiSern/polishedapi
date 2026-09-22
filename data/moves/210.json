@@ -3,12 +3,26 @@
     "id": "BUG_BITE",
     "index": 210,
     "name": "Bug Bite",
-    "description": "Bites the foe and eats a held Berry."
+    "description": "Bites the foe and eats a held Berry.",
+    "effect": "EFFECT_BUG_BITE",
+    "basePower": 60,
+    "type": "BUG",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "BUG_BITE",
     "index": 210,
     "name": "Bug Bite",
-    "description": "Bites the foe and eats a held Berry."
+    "description": "Bites the foe and eats a held Berry.",
+    "effect": "EFFECT_BUG_BITE",
+    "basePower": 60,
+    "type": "BUG",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

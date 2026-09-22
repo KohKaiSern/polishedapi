@@ -3,12 +3,26 @@
     "id": "SWORDS_DANCE",
     "index": 14,
     "name": "Swords Dance",
-    "description": "Sharply raises the user's Attack."
+    "description": "Sharply raises the user's Attack.",
+    "effect": "EFFECT_ATTACK_UP_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SWORDS_DANCE",
     "index": 14,
     "name": "Swords Dance",
-    "description": "Sharply raises the user's Attack."
+    "description": "Sharply raises the user's Attack.",
+    "effect": "EFFECT_ATTACK_UP_2",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "THUNDERPUNCH",
     "index": 9,
     "name": "ThunderPunch",
-    "description": "An electric punch. It may paralyze."
+    "description": "An electric punch. It may paralyze.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 75,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "THUNDERPUNCH",
     "index": 9,
     "name": "ThunderPunch",
-    "description": "An electric punch. It may paralyze."
+    "description": "An electric punch. It may paralyze.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 75,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

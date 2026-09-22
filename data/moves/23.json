@@ -3,12 +3,26 @@
     "id": "STOMP",
     "index": 23,
     "name": "Stomp",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_STOMP",
+    "basePower": 65,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "STOMP",
     "index": 23,
     "name": "Stomp",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_STOMP",
+    "basePower": 65,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

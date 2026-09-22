@@ -3,12 +3,26 @@
     "id": "PROTECT",
     "index": 182,
     "name": "Protect",
-    "description": "Foils attack that turn. It may fail."
+    "description": "Foils attack that turn. It may fail.",
+    "effect": "EFFECT_PROTECT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "PROTECT",
     "index": 182,
     "name": "Protect",
-    "description": "Foils attack that turn. It may fail."
+    "description": "Foils attack that turn. It may fail.",
+    "effect": "EFFECT_PROTECT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

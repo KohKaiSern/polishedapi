@@ -3,12 +3,26 @@
     "id": "ICE_PUNCH",
     "index": 8,
     "name": "Ice Punch",
-    "description": "An icy punch. May cause freezing."
+    "description": "An icy punch. May cause freezing.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 75,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ICE_PUNCH",
     "index": 8,
     "name": "Ice Punch",
-    "description": "An icy punch. May cause freezing."
+    "description": "An icy punch. May cause freezing.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 75,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

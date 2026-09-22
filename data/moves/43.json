@@ -3,12 +3,26 @@
     "id": "LEER",
     "index": 43,
     "name": "Leer",
-    "description": "A move that lowers the foe's Defense."
+    "description": "A move that lowers the foe's Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "LEER",
     "index": 43,
     "name": "Leer",
-    "description": "A move that lowers the foe's Defense."
+    "description": "A move that lowers the foe's Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

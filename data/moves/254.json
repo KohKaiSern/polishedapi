@@ -3,12 +3,26 @@
     "id": "DISARM_VOICE",
     "index": 254,
     "name": "Disarm Voice",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 40,
+    "type": "FAIRY",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "DISARM_VOICE",
     "index": 254,
     "name": "Disarm Voice",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 40,
+    "type": "FAIRY",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

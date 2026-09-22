@@ -3,12 +3,26 @@
     "id": "SANDSTORM",
     "index": 201,
     "name": "Sandstorm",
-    "description": "Inflicts damage every turn."
+    "description": "Inflicts damage every turn.",
+    "effect": "EFFECT_SANDSTORM",
+    "basePower": 0,
+    "type": "ROCK",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SANDSTORM",
     "index": 201,
     "name": "Sandstorm",
-    "description": "Inflicts damage every turn."
+    "description": "Inflicts damage every turn.",
+    "effect": "EFFECT_SANDSTORM",
+    "basePower": 0,
+    "type": "ROCK",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

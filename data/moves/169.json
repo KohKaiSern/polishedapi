@@ -3,12 +3,26 @@
     "id": "WILL_O_WISP",
     "index": 169,
     "name": "Will-O-Wisp",
-    "description": "A move that may burn the foe."
+    "description": "A move that may burn the foe.",
+    "effect": "EFFECT_BURN",
+    "basePower": 0,
+    "type": "FIRE",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "WILL_O_WISP",
     "index": 169,
     "name": "Will-O-Wisp",
-    "description": "A move that may burn the foe."
+    "description": "A move that may burn the foe.",
+    "effect": "EFFECT_BURN",
+    "basePower": 0,
+    "type": "FIRE",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

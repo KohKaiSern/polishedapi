@@ -3,12 +3,26 @@
     "id": "DOUBLE_EDGE",
     "index": 38,
     "name": "Double-Edge",
-    "description": "A tackle that also hurts the user."
+    "description": "A tackle that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 120,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "DOUBLE_EDGE",
     "index": 38,
     "name": "Double-Edge",
-    "description": "A tackle that also hurts the user."
+    "description": "A tackle that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 120,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

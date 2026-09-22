@@ -3,12 +3,26 @@
     "id": "AERIAL_ACE",
     "index": 4,
     "name": "Aerial Ace",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "FLYING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "AERIAL_ACE",
     "index": 4,
     "name": "Aerial Ace",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "FLYING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SUPERSONIC",
     "index": 48,
     "name": "Supersonic",
-    "description": "A move that may confuse the foe."
+    "description": "A move that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 65,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SUPERSONIC",
     "index": 48,
     "name": "Supersonic",
-    "description": "A move that may confuse the foe."
+    "description": "A move that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 55,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

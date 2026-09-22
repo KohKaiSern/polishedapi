@@ -3,12 +3,26 @@
     "id": "FORESIGHT",
     "index": 193,
     "name": "Foresight",
-    "description": "Negates foe's evasion and immunity."
+    "description": "Negates foe's evasion and immunity.",
+    "effect": "EFFECT_FORESIGHT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "FORESIGHT",
     "index": 193,
     "name": "Foresight",
-    "description": "Negates foe's evasion and immunity."
+    "description": "Negates foe's evasion and immunity.",
+    "effect": "EFFECT_FORESIGHT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "MOONBLAST",
     "index": 252,
     "name": "Moonblast",
-    "description": "An attack that may lower Sp.Atk."
+    "description": "An attack that may lower Sp.Atk.",
+    "effect": "EFFECT_SP_ATK_DOWN_HIT",
+    "basePower": 95,
+    "type": "FAIRY",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "MOONBLAST",
     "index": 252,
     "name": "Moonblast",
-    "description": "An attack that may lower Sp.Atk."
+    "description": "An attack that may lower Sp.Atk.",
+    "effect": "EFFECT_SP_ATK_DOWN_HIT",
+    "basePower": 95,
+    "type": "FAIRY",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "SPECIAL"
   }
 }

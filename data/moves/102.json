@@ -3,12 +3,26 @@
     "id": "DRAGON_PULSE",
     "index": 102,
     "name": "Dragon Pulse",
-    "description": "Attacks foe with a shock wave."
+    "description": "Attacks foe with a shock wave.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 85,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "DRAGON_PULSE",
     "index": 102,
     "name": "Dragon Pulse",
-    "description": "Attacks foe with a shock wave."
+    "description": "Attacks foe with a shock wave.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 85,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SURF",
     "index": 57,
     "name": "Surf",
-    "description": "A strong Watertype attack."
+    "description": "A strong Watertype attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 90,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SURF",
     "index": 57,
     "name": "Surf",
-    "description": "A strong Watertype attack."
+    "description": "A strong Watertype attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 90,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

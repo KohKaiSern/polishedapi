@@ -3,12 +3,26 @@
     "id": "COUNTER",
     "index": 68,
     "name": "Counter",
-    "description": "Returns a physical attack double."
+    "description": "Returns a physical attack double.",
+    "effect": "EFFECT_COUNTER",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "COUNTER",
     "index": 68,
     "name": "Counter",
-    "description": "Returns a physical attack double."
+    "description": "Returns a physical attack double.",
+    "effect": "EFFECT_COUNTER",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "POWER_GEM",
     "index": 197,
     "name": "Power Gem",
-    "description": "Attacks with a ray of gem-like light."
+    "description": "Attacks with a ray of gem-like light.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "ROCK",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "POWER_GEM",
     "index": 197,
     "name": "Power Gem",
-    "description": "Attacks with a ray of gem-like light."
+    "description": "Attacks with a ray of gem-like light.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "ROCK",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

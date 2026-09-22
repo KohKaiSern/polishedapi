@@ -3,12 +3,26 @@
     "id": "FIRE_SPIN",
     "index": 83,
     "name": "Fire Spin",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 40,
+    "type": "FIRE",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "FIRE_SPIN",
     "index": 83,
     "name": "Fire Spin",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 35,
+    "type": "FIRE",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

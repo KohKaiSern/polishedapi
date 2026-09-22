@@ -3,12 +3,26 @@
     "id": "ROCK_SMASH",
     "index": 249,
     "name": "Brick Break",
-    "description": "Removes Reflect and Light Screen."
+    "description": "Removes Reflect and Light Screen.",
+    "effect": "EFFECT_BRICK_BREAK",
+    "basePower": 75,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ROCK_SMASH",
     "index": 249,
     "name": "Rock Smash",
-    "description": "An attack that may lower Defense."
+    "description": "An attack that may lower Defense.",
+    "effect": "EFFECT_DEFENSE_DOWN_HIT",
+    "basePower": 40,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 50,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "BULLET_PUNCH",
     "index": 140,
     "name": "Bullet Punch",
-    "description": "A tough punch that always goes first."
+    "description": "A tough punch that always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "STEEL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "BULLET_PUNCH",
     "index": 140,
     "name": "Bullet Punch",
-    "description": "A tough punch that always goes first."
+    "description": "A tough punch that always goes first.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "STEEL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

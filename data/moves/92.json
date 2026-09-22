@@ -3,12 +3,26 @@
     "id": "TOXIC",
     "index": 92,
     "name": "Toxic",
-    "description": "A Poison move with increasing damage."
+    "description": "A Poison move with increasing damage.",
+    "effect": "EFFECT_TOXIC",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TOXIC",
     "index": 92,
     "name": "Toxic",
-    "description": "A Poison move with increasing damage."
+    "description": "A Poison move with increasing damage.",
+    "effect": "EFFECT_TOXIC",
+    "basePower": 0,
+    "type": "POISON",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

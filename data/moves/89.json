@@ -3,12 +3,26 @@
     "id": "EARTHQUAKE",
     "index": 89,
     "name": "Earthquake",
-    "description": "Tough but useless vs. flying foes."
+    "description": "Tough but useless vs. flying foes.",
+    "effect": "EFFECT_EARTHQUAKE",
+    "basePower": 100,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "EARTHQUAKE",
     "index": 89,
     "name": "Earthquake",
-    "description": "Tough but useless vs. flying foes."
+    "description": "Tough but useless vs. flying foes.",
+    "effect": "EFFECT_EARTHQUAKE",
+    "basePower": 100,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

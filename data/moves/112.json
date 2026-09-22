@@ -3,12 +3,26 @@
     "id": "BARRIER",
     "index": 112,
     "name": "Barrier",
-    "description": "Sharply raises the user's Defense."
+    "description": "Sharply raises the user's Defense.",
+    "effect": "EFFECT_DEFENSE_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "BARRIER",
     "index": 112,
     "name": "Barrier",
-    "description": "Sharply raises the user's Defense."
+    "description": "Sharply raises the user's Defense.",
+    "effect": "EFFECT_DEFENSE_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

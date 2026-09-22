@@ -3,12 +3,26 @@
     "id": "QUICK_ATTACK",
     "index": 98,
     "name": "Quick Attack",
-    "description": "Lets the user get in the first hit."
+    "description": "Lets the user get in the first hit.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "QUICK_ATTACK",
     "index": 98,
     "name": "Quick Attack",
-    "description": "Lets the user get in the first hit."
+    "description": "Lets the user get in the first hit.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "extract": "tsx extractors/index.ts",
-    "gfx": "tsx extractors/index_gfx.ts",
-    "update": "git -C polishedcrystal fetch --tags --force && git -C polishedcrystal checkout $(git -C polishedcrystal tag --sort=-version:refname | grep -v 'do-not-checkout' | head -n 1)"
+    "extract_gfx": "tsx extractors/index_gfx.ts",
+    "update": "rm -rf polishedcrystal && tag=$(curl https://api.github.com/repos/Rangi42/polishedcrystal/releases/latest | jq -r '.tag_name') && git clone --depth 1 --branch \"$tag\" https://github.com/Rangi42/polishedcrystal.git && rm -rf polishedcrystal/.git*"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +15,7 @@
   "devDependencies": {
     "@skyra/gifenc": "^1.0.1",
     "@types/node": "^25.1.0",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.4",
     "tsx": "^4.21.0"
   },
   "type": "module"

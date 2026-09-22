@@ -3,12 +3,26 @@
     "id": "SHELL_SMASH",
     "index": 208,
     "name": "Shell Smash",
-    "description": "Lowers defenses, raises offenses."
+    "description": "Lowers defenses, raises offenses.",
+    "effect": "EFFECT_SHELL_SMASH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SHELL_SMASH",
     "index": 208,
     "name": "Shell Smash",
-    "description": "Lowers defenses, raises offenses."
+    "description": "Lowers defenses, raises offenses.",
+    "effect": "EFFECT_SHELL_SMASH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

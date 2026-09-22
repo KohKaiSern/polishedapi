@@ -3,12 +3,26 @@
     "id": "HEAL_BELL",
     "index": 215,
     "name": "Heal Bell",
-    "description": "Eliminates all status problems."
+    "description": "Eliminates all status problems.",
+    "effect": "EFFECT_HEAL_BELL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "HEAL_BELL",
     "index": 215,
     "name": "Heal Bell",
-    "description": "Eliminates all status problems."
+    "description": "Eliminates all status problems.",
+    "effect": "EFFECT_HEAL_BELL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

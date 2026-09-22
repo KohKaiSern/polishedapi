@@ -3,12 +3,26 @@
     "id": "DRAGONBREATH",
     "index": 225,
     "name": "DragonBreath",
-    "description": "A strong breath attack."
+    "description": "A strong breath attack.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 60,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "DRAGONBREATH",
     "index": 225,
     "name": "DragonBreath",
-    "description": "A strong breath attack."
+    "description": "A strong breath attack.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 60,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "SPECIAL"
   }
 }

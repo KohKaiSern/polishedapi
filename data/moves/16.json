@@ -3,12 +3,26 @@
     "id": "GUST",
     "index": 16,
     "name": "Gust",
-    "description": "Whips up a strong gust of wind."
+    "description": "Whips up a strong gust of wind.",
+    "effect": "EFFECT_GUST",
+    "basePower": 40,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "GUST",
     "index": 16,
     "name": "Gust",
-    "description": "Whips up a strong gust of wind."
+    "description": "Whips up a strong gust of wind.",
+    "effect": "EFFECT_GUST",
+    "basePower": 40,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

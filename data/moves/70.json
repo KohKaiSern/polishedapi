@@ -3,12 +3,26 @@
     "id": "STRENGTH",
     "index": 70,
     "name": "Strength",
-    "description": "A powerful physical attack."
+    "description": "A powerful physical attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "STRENGTH",
     "index": 70,
     "name": "Strength",
-    "description": "A powerful physical attack."
+    "description": "A powerful physical attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

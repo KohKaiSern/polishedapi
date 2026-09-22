@@ -3,12 +3,26 @@
     "id": "DESTINY_BOND",
     "index": 194,
     "name": "Destiny Bond",
-    "description": "The foe faints if the user does."
+    "description": "The foe faints if the user does.",
+    "effect": "EFFECT_DESTINY_BOND",
+    "basePower": 0,
+    "type": "GHOST",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "DESTINY_BOND",
     "index": 194,
     "name": "Destiny Bond",
-    "description": "The foe faints if the user does."
+    "description": "The foe faints if the user does.",
+    "effect": "EFFECT_DESTINY_BOND",
+    "basePower": 0,
+    "type": "GHOST",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

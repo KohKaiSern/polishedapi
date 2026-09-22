@@ -3,12 +3,26 @@
     "id": "REST",
     "index": 156,
     "name": "Rest",
-    "description": "Sleep for 2 turns to fully recover."
+    "description": "Sleep for 2 turns to fully recover.",
+    "effect": "EFFECT_HEAL",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "REST",
     "index": 156,
     "name": "Rest",
-    "description": "Sleep for 2 turns to fully recover."
+    "description": "Sleep for 2 turns to fully recover.",
+    "effect": "EFFECT_HEAL",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "ZAP_CANNON",
     "index": 192,
     "name": "Zap Cannon",
-    "description": "An attack that always paralyzes."
+    "description": "An attack that always paralyzes.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 120,
+    "type": "ELECTRIC",
+    "accuracy": 50,
+    "powerPoints": 5,
+    "effectChance": 100,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ZAP_CANNON",
     "index": 192,
     "name": "Zap Cannon",
-    "description": "An attack that always paralyzes."
+    "description": "An attack that always paralyzes.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 120,
+    "type": "ELECTRIC",
+    "accuracy": 50,
+    "powerPoints": 5,
+    "effectChance": 100,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "WILD_CHARGE",
     "index": 198,
     "name": "Wild Charge",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 90,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "WILD_CHARGE",
     "index": 198,
     "name": "Wild Charge",
-    "description": "A charge that also hurts the user."
+    "description": "A charge that also hurts the user.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 90,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

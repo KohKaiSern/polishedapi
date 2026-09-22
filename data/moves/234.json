@@ -3,12 +3,26 @@
     "id": "HEALINGLIGHT",
     "index": 234,
     "name": "HealingLight",
-    "description": "Restores HP based on weather."
+    "description": "Restores HP based on weather.",
+    "effect": "EFFECT_HEALING_LIGHT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "HEALINGLIGHT",
     "index": 234,
     "name": "HealingLight",
-    "description": "Restores HP based on weather."
+    "description": "Restores HP based on weather.",
+    "effect": "EFFECT_HEALING_LIGHT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

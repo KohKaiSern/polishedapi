@@ -3,12 +3,26 @@
     "id": "GYRO_BALL",
     "index": 175,
     "name": "Gyro Ball",
-    "description": "Does more damage at lower speed."
+    "description": "Does more damage at lower speed.",
+    "effect": "EFFECT_GYRO_BALL",
+    "basePower": 1,
+    "type": "STEEL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "GYRO_BALL",
     "index": 175,
     "name": "Gyro Ball",
-    "description": "Does more damage at lower speed."
+    "description": "Does more damage at lower speed.",
+    "effect": "EFFECT_GYRO_BALL",
+    "basePower": 1,
+    "type": "STEEL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

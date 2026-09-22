@@ -3,12 +3,26 @@
     "id": "AURORA_BEAM",
     "index": 62,
     "name": "Aurora Beam",
-    "description": "An attack that may lower Attack."
+    "description": "An attack that may lower Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_HIT",
+    "basePower": 65,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "AURORA_BEAM",
     "index": 62,
     "name": "Aurora Beam",
-    "description": "An attack that may lower Attack."
+    "description": "An attack that may lower Attack.",
+    "effect": "EFFECT_ATTACK_DOWN_HIT",
+    "basePower": 65,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

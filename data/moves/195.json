@@ -3,12 +3,26 @@
     "id": "PERISH_SONG",
     "index": 195,
     "name": "Perish Song",
-    "description": "Both user and foe faint in 3 turns."
+    "description": "Both user and foe faint in 3 turns.",
+    "effect": "EFFECT_PERISH_SONG",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "PERISH_SONG",
     "index": 195,
     "name": "Perish Song",
-    "description": "Both user and foe faint in 3 turns."
+    "description": "Both user and foe faint in 3 turns.",
+    "effect": "EFFECT_PERISH_SONG",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

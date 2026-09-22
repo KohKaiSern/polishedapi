@@ -3,12 +3,26 @@
     "id": "SACRED_FIRE",
     "index": 221,
     "name": "Sacred Fire",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_SACRED_FIRE",
+    "basePower": 100,
+    "type": "FIRE",
+    "accuracy": 95,
+    "powerPoints": 5,
+    "effectChance": 50,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SACRED_FIRE",
     "index": 221,
     "name": "Sacred Fire",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_SACRED_FIRE",
+    "basePower": 100,
+    "type": "FIRE",
+    "accuracy": 95,
+    "powerPoints": 5,
+    "effectChance": 50,
+    "category": "PHYSICAL"
   }
 }

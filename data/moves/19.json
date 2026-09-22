@@ -3,12 +3,26 @@
     "id": "FLY",
     "index": 19,
     "name": "Fly",
-    "description": "1st turn: Fly 2nd turn: Attack"
+    "description": "1st turn: Fly 2nd turn: Attack",
+    "effect": "EFFECT_FLY",
+    "basePower": 90,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FLY",
     "index": 19,
     "name": "Fly",
-    "description": "1st turn: Fly 2nd turn: Attack"
+    "description": "1st turn: Fly 2nd turn: Attack",
+    "effect": "EFFECT_FLY",
+    "basePower": 90,
+    "type": "FLYING",
+    "accuracy": 95,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

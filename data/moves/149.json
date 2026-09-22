@@ -3,12 +3,26 @@
     "id": "EXTRASENSORY",
     "index": 149,
     "name": "Extrasensory",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "EXTRASENSORY",
     "index": 149,
     "name": "Extrasensory",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

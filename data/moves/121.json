@@ -3,12 +3,26 @@
     "id": "SKILL_SWAP",
     "index": 121,
     "name": "Skill Swap",
-    "description": "Swaps abilities with the foe."
+    "description": "Swaps abilities with the foe.",
+    "effect": "EFFECT_SKILL_SWAP",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SKILL_SWAP",
     "index": 121,
     "name": "Skill Swap",
-    "description": "Swaps abilities with the foe."
+    "description": "Swaps abilities with the foe.",
+    "effect": "EFFECT_SKILL_SWAP",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

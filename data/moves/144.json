@@ -3,12 +3,26 @@
     "id": "TRANSFORM",
     "index": 144,
     "name": "Transform",
-    "description": "The user assumes the foe's guise."
+    "description": "The user assumes the foe's guise.",
+    "effect": "EFFECT_TRANSFORM",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "TRANSFORM",
     "index": 144,
     "name": "Transform",
-    "description": "The user assumes the foe's guise."
+    "description": "The user assumes the foe's guise.",
+    "effect": "EFFECT_TRANSFORM",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

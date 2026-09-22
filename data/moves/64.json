@@ -3,12 +3,26 @@
     "id": "PECK",
     "index": 64,
     "name": "Peck",
-    "description": "Jabs the foe with a beak, etc."
+    "description": "Jabs the foe with a beak, etc.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 35,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "PECK",
     "index": 64,
     "name": "Peck",
-    "description": "Jabs the foe with a beak, etc."
+    "description": "Jabs the foe with a beak, etc.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 35,
+    "type": "FLYING",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

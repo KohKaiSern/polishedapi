@@ -3,12 +3,26 @@
     "id": "ICICLE_SPEAR",
     "index": 131,
     "name": "Icicle Spear",
-    "description": "Fires icicles to hit 2-5 times."
+    "description": "Fires icicles to hit 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ICICLE_SPEAR",
     "index": 131,
     "name": "Icicle Spear",
-    "description": "Fires icicles to hit 2-5 times."
+    "description": "Fires icicles to hit 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "ICE",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

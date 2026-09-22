@@ -3,12 +3,26 @@
     "id": "CURSE",
     "index": 174,
     "name": "Curse",
-    "description": "Works differently for Ghost-types."
+    "description": "Works differently for Ghost-types.",
+    "effect": "EFFECT_CURSE",
+    "basePower": 0,
+    "type": "GHOST",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "CURSE",
     "index": 174,
     "name": "Curse",
-    "description": "Works differently for Ghost-types."
+    "description": "Works differently for Ghost-types.",
+    "effect": "EFFECT_CURSE",
+    "basePower": 0,
+    "type": "GHOST",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

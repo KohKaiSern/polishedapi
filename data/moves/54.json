@@ -3,12 +3,26 @@
     "id": "CALM_MIND",
     "index": 54,
     "name": "Calm Mind",
-    "description": "Raises the user's Sp.Atk and Sp.Def."
+    "description": "Raises the user's Sp.Atk and Sp.Def.",
+    "effect": "EFFECT_CALM_MIND",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "CALM_MIND",
     "index": 54,
     "name": "Calm Mind",
-    "description": "Raises the user's Sp.Atk and Sp.Def."
+    "description": "Raises the user's Sp.Atk and Sp.Def.",
+    "effect": "EFFECT_CALM_MIND",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

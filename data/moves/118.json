@@ -3,12 +3,26 @@
     "id": "METRONOME",
     "index": 118,
     "name": "Metronome",
-    "description": "Randomly uses any Pokémon move."
+    "description": "Randomly uses any Pokémon move.",
+    "effect": "EFFECT_METRONOME",
+    "basePower": 0,
+    "type": "UNKNOWN_T",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "METRONOME",
     "index": 118,
     "name": "Metronome",
-    "description": "Randomly uses any Pokémon move."
+    "description": "Randomly uses any Pokémon move.",
+    "effect": "EFFECT_METRONOME",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

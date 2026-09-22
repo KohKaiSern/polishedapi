@@ -3,12 +3,26 @@
     "id": "PSYCHIC",
     "index": 94,
     "name": "Psychic",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 90,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "PSYCHIC",
     "index": 94,
     "name": "Psychic",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 90,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

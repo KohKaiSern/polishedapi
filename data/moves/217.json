@@ -3,12 +3,26 @@
     "id": "PSYSTRIKE",
     "index": 217,
     "name": "Psystrike",
-    "description": "A wave that does physical damage."
+    "description": "A wave that does physical damage.",
+    "effect": "EFFECT_PSYSTRIKE",
+    "basePower": 100,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "PSYSTRIKE",
     "index": 217,
     "name": "Psystrike",
-    "description": "A wave that does physical damage."
+    "description": "A wave that does physical damage.",
+    "effect": "EFFECT_PSYSTRIKE",
+    "basePower": 100,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

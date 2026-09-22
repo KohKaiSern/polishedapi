@@ -3,12 +3,26 @@
     "id": "TACKLE",
     "index": 33,
     "name": "Tackle",
-    "description": "A full-body charge attack."
+    "description": "A full-body charge attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "TACKLE",
     "index": 33,
     "name": "Tackle",
-    "description": "A full-body charge attack."
+    "description": "A full-body charge attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 40,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 35,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

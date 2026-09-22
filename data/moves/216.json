@@ -3,12 +3,26 @@
     "id": "RETURN",
     "index": 216,
     "name": "Return",
-    "description": "An attack that is based on loyalty."
+    "description": "An attack that is based on loyalty.",
+    "effect": "EFFECT_RETURN",
+    "basePower": 1,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "RETURN",
     "index": 216,
     "name": "Return",
-    "description": "An attack that is based on loyalty."
+    "description": "An attack that is based on loyalty.",
+    "effect": "EFFECT_RETURN",
+    "basePower": 1,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

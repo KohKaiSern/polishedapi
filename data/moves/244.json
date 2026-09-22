@@ -3,12 +3,26 @@
     "id": "NASTY_PLOT",
     "index": 244,
     "name": "Nasty Plot",
-    "description": "Sharply raises the user's Sp.Atk."
+    "description": "Sharply raises the user's Sp.Atk.",
+    "effect": "EFFECT_SP_ATK_UP_2",
+    "basePower": 0,
+    "type": "DARK",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "NASTY_PLOT",
     "index": 244,
     "name": "Nasty Plot",
-    "description": "Sharply raises the user's Sp.Atk."
+    "description": "Sharply raises the user's Sp.Atk.",
+    "effect": "EFFECT_SP_ATK_UP_2",
+    "basePower": 0,
+    "type": "DARK",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

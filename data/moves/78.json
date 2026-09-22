@@ -3,12 +3,26 @@
     "id": "STUN_SPORE",
     "index": 78,
     "name": "Stun Spore",
-    "description": "A move that may paralyze the foe."
+    "description": "A move that may paralyze the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 75,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "STUN_SPORE",
     "index": 78,
     "name": "Stun Spore",
-    "description": "A move that may paralyze the foe."
+    "description": "A move that may paralyze the foe.",
+    "effect": "EFFECT_PARALYZE",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 75,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

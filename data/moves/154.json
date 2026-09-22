@@ -3,12 +3,26 @@
     "id": "FURY_STRIKES",
     "index": 154,
     "name": "Fury Strikes",
-    "description": "Scratches or jabs 2-5 times."
+    "description": "Scratches or jabs 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 20,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FURY_STRIKES",
     "index": 154,
     "name": "Fury Strikes",
-    "description": "Scratches or jabs 2-5 times."
+    "description": "Scratches or jabs 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 18,
+    "type": "NORMAL",
+    "accuracy": 80,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

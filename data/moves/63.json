@@ -3,12 +3,26 @@
     "id": "HYPER_BEAM",
     "index": 63,
     "name": "Hyper Beam",
-    "description": "1st turn: Attack 2nd turn: Rest"
+    "description": "1st turn: Attack 2nd turn: Rest",
+    "effect": "EFFECT_HYPER_BEAM",
+    "basePower": 150,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "HYPER_BEAM",
     "index": 63,
     "name": "Hyper Beam",
-    "description": "1st turn: Attack 2nd turn: Rest"
+    "description": "1st turn: Attack 2nd turn: Rest",
+    "effect": "EFFECT_HYPER_BEAM",
+    "basePower": 150,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

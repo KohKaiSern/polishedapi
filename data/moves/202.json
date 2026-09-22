@@ -3,12 +3,26 @@
     "id": "GIGA_DRAIN",
     "index": 202,
     "name": "Giga Drain",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 75,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "GIGA_DRAIN",
     "index": 202,
     "name": "Giga Drain",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 75,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

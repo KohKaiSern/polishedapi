@@ -3,12 +3,26 @@
     "id": "MUD_SLAP",
     "index": 189,
     "name": "Mud-Slap",
-    "description": "An attack that lowers accuracy."
+    "description": "An attack that lowers accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN_HIT",
+    "basePower": 20,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 100,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "MUD_SLAP",
     "index": 189,
     "name": "Mud-Slap",
-    "description": "An attack that lowers accuracy."
+    "description": "An attack that lowers accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN_HIT",
+    "basePower": 20,
+    "type": "GROUND",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 100,
+    "category": "SPECIAL"
   }
 }

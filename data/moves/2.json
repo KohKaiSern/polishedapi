@@ -3,12 +3,26 @@
     "id": "KARATE_CHOP",
     "index": 2,
     "name": "Karate Chop",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 50,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "KARATE_CHOP",
     "index": 2,
     "name": "Karate Chop",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 50,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

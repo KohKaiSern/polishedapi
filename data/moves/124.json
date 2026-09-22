@@ -3,12 +3,26 @@
     "id": "VENOSHOCK",
     "index": 124,
     "name": "Venoshock",
-    "description": "Damage doubles if foe is poisoned."
+    "description": "Damage doubles if foe is poisoned.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 65,
+    "type": "POISON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "VENOSHOCK",
     "index": 124,
     "name": "Venoshock",
-    "description": "Damage doubles if foe is poisoned."
+    "description": "Damage doubles if foe is poisoned.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 65,
+    "type": "POISON",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "POWER_WHIP",
     "index": 199,
     "name": "Power Whip",
-    "description": "A violent lash attack."
+    "description": "A violent lash attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 85,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "POWER_WHIP",
     "index": 199,
     "name": "Power Whip",
-    "description": "A violent lash attack."
+    "description": "A violent lash attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 85,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

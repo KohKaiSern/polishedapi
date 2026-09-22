@@ -3,12 +3,26 @@
     "id": "LOW_KICK",
     "index": 67,
     "name": "Low Kick",
-    "description": "Deals more damage to heavier foes."
+    "description": "Deals more damage to heavier foes.",
+    "effect": "EFFECT_LOW_KICK",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "LOW_KICK",
     "index": 67,
     "name": "Low Kick",
-    "description": "Deals more damage to heavier foes."
+    "description": "Deals more damage to heavier foes.",
+    "effect": "EFFECT_LOW_KICK",
+    "basePower": 1,
+    "type": "FIGHTING",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

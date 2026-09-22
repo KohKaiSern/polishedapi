@@ -3,12 +3,26 @@
     "id": "GROWTH",
     "index": 74,
     "name": "Growth",
-    "description": "Raises the user's Atk and Sp.Atk."
+    "description": "Raises the user's Atk and Sp.Atk.",
+    "effect": "EFFECT_GROWTH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "GROWTH",
     "index": 74,
     "name": "Growth",
-    "description": "Raises the user's Atk and Sp.Atk."
+    "description": "Raises the user's Atk and Sp.Atk.",
+    "effect": "EFFECT_GROWTH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

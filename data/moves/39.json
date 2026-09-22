@@ -3,12 +3,26 @@
     "id": "HAIL",
     "index": 39,
     "name": "Hail",
-    "description": "Inflicts damage every turn."
+    "description": "Inflicts damage every turn.",
+    "effect": "EFFECT_HAIL",
+    "basePower": 0,
+    "type": "ICE",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "HAIL",
     "index": 39,
     "name": "Hail",
-    "description": "Inflicts damage every turn."
+    "description": "Inflicts damage every turn.",
+    "effect": "EFFECT_HAIL",
+    "basePower": 0,
+    "type": "ICE",
+    "accuracy": -1,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

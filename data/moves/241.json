@@ -3,12 +3,26 @@
     "id": "SUNNY_DAY",
     "index": 241,
     "name": "Sunny Day",
-    "description": "Boosts Fire-type moves for 5 turns."
+    "description": "Boosts Fire-type moves for 5 turns.",
+    "effect": "EFFECT_SUNNY_DAY",
+    "basePower": 0,
+    "type": "FIRE",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SUNNY_DAY",
     "index": 241,
     "name": "Sunny Day",
-    "description": "Boosts Fire-type moves for 5 turns."
+    "description": "Boosts Fire-type moves for 5 turns.",
+    "effect": "EFFECT_SUNNY_DAY",
+    "basePower": 0,
+    "type": "FIRE",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

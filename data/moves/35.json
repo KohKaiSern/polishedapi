@@ -3,12 +3,26 @@
     "id": "WRAP",
     "index": 35,
     "name": "Wrap",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 15,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "WRAP",
     "index": 35,
     "name": "Wrap",
-    "description": "Traps the foe for 2-5 turns."
+    "description": "Traps the foe for 2-5 turns.",
+    "effect": "EFFECT_TRAP",
+    "basePower": 15,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

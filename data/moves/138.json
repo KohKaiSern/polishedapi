@@ -3,12 +3,26 @@
     "id": "DREAM_EATER",
     "index": 138,
     "name": "Dream Eater",
-    "description": "Steals HP from a sleeping victim."
+    "description": "Steals HP from a sleeping victim.",
+    "effect": "EFFECT_DREAM_EATER",
+    "basePower": 100,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "DREAM_EATER",
     "index": 138,
     "name": "Dream Eater",
-    "description": "Steals HP from a sleeping victim."
+    "description": "Steals HP from a sleeping victim.",
+    "effect": "EFFECT_DREAM_EATER",
+    "basePower": 100,
+    "type": "PSYCHIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "RECOVER",
     "index": 105,
     "name": "Recover",
-    "description": "Restores HP by 1/2 the max HP."
+    "description": "Restores HP by 1/2 the max HP.",
+    "effect": "EFFECT_HEAL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "RECOVER",
     "index": 105,
     "name": "Recover",
-    "description": "Restores HP by 1/2 the max HP."
+    "description": "Restores HP by 1/2 the max HP.",
+    "effect": "EFFECT_HEAL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

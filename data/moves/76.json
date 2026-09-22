@@ -3,12 +3,26 @@
     "id": "SOLAR_BEAM",
     "index": 76,
     "name": "Solar Beam",
-    "description": "1st turn: Prepare 2nd turn: Attack"
+    "description": "1st turn: Prepare 2nd turn: Attack",
+    "effect": "EFFECT_SOLAR_BEAM",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SOLAR_BEAM",
     "index": 76,
     "name": "Solar Beam",
-    "description": "1st turn: Prepare 2nd turn: Attack"
+    "description": "1st turn: Prepare 2nd turn: Attack",
+    "effect": "EFFECT_SOLAR_BEAM",
+    "basePower": 120,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

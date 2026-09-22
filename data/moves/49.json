@@ -3,12 +3,26 @@
     "id": "SONIC_BOOM",
     "index": 49,
     "name": "Sonic Boom",
-    "description": "Always inflicts 20HP damage."
+    "description": "Always inflicts 20HP damage.",
+    "effect": "EFFECT_STATIC_DAMAGE",
+    "basePower": 20,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SONIC_BOOM",
     "index": 49,
     "name": "Sonic Boom",
-    "description": "Always inflicts 20HP damage."
+    "description": "Always inflicts 20HP damage.",
+    "effect": "EFFECT_STATIC_DAMAGE",
+    "basePower": 20,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

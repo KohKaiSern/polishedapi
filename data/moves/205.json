@@ -3,12 +3,26 @@
     "id": "ROLLOUT",
     "index": 205,
     "name": "Rollout",
-    "description": "Attacks 5 turns with rising power."
+    "description": "Attacks 5 turns with rising power.",
+    "effect": "EFFECT_ROLLOUT",
+    "basePower": 30,
+    "type": "ROCK",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ROLLOUT",
     "index": 205,
     "name": "Rollout",
-    "description": "Attacks 5 turns with rising power."
+    "description": "Attacks 5 turns with rising power.",
+    "effect": "EFFECT_ROLLOUT",
+    "basePower": 30,
+    "type": "ROCK",
+    "accuracy": 90,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

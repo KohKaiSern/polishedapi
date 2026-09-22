@@ -3,12 +3,26 @@
     "id": "THUNDERBOLT",
     "index": 85,
     "name": "Thunderbolt",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 90,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "THUNDERBOLT",
     "index": 85,
     "name": "Thunderbolt",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 90,
+    "type": "ELECTRIC",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

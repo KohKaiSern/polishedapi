@@ -3,12 +3,26 @@
     "id": "LICK",
     "index": 122,
     "name": "Lick",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 30,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "LICK",
     "index": 122,
     "name": "Lick",
-    "description": "An attack that may cause paralysis."
+    "description": "An attack that may cause paralysis.",
+    "effect": "EFFECT_PARALYZE_HIT",
+    "basePower": 30,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SWAGGER",
     "index": 207,
     "name": "Swagger",
-    "description": "Causes confusion but raises Attack."
+    "description": "Causes confusion but raises Attack.",
+    "effect": "EFFECT_SWAGGER",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 100,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SWAGGER",
     "index": 207,
     "name": "Swagger",
-    "description": "Causes confusion but raises Attack."
+    "description": "Causes confusion but raises Attack.",
+    "effect": "EFFECT_SWAGGER",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 85,
+    "powerPoints": 15,
+    "effectChance": 100,
+    "category": "STATUS"
   }
 }

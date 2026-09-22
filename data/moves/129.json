@@ -3,12 +3,26 @@
     "id": "SWIFT",
     "index": 129,
     "name": "Swift",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "SWIFT",
     "index": 129,
     "name": "Swift",
-    "description": "An attack that never misses."
+    "description": "An attack that never misses.",
+    "effect": "EFFECT_ALWAYS_HIT",
+    "basePower": 60,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "EXTREMESPEED",
     "index": 245,
     "name": "ExtremeSpeed",
-    "description": "A powerful firststrike attack."
+    "description": "A powerful firststrike attack.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "EXTREMESPEED",
     "index": 245,
     "name": "ExtremeSpeed",
-    "description": "A powerful firststrike attack."
+    "description": "A powerful firststrike attack.",
+    "effect": "EFFECT_PRIORITY_HIT",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

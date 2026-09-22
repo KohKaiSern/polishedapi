@@ -3,12 +3,26 @@
     "id": "HEADBUTT",
     "index": 29,
     "name": "Headbutt",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "HEADBUTT",
     "index": 29,
     "name": "Headbutt",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

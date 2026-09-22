@@ -3,12 +3,26 @@
     "id": "HEX",
     "index": 32,
     "name": "Hex",
-    "description": "Damage doubles if foe has status."
+    "description": "Damage doubles if foe has status.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 65,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "HEX",
     "index": 32,
     "name": "Hex",
-    "description": "Damage doubles if foe has status."
+    "description": "Damage doubles if foe has status.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 65,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "FACADE",
     "index": 171,
     "name": "Facade",
-    "description": "Double damage with Psn, Brn, or Prz."
+    "description": "Double damage with Psn, Brn, or Prz.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "FACADE",
     "index": 171,
     "name": "Facade",
-    "description": "Double damage with Psn, Brn, or Prz."
+    "description": "Double damage with Psn, Brn, or Prz.",
+    "effect": "EFFECT_CONDITIONAL_BOOST",
+    "basePower": 70,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

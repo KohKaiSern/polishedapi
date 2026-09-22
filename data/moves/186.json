@@ -3,12 +3,26 @@
     "id": "SWEET_KISS",
     "index": 186,
     "name": "Sweet Kiss",
-    "description": "A move that may confuse the foe."
+    "description": "A move that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE",
+    "basePower": 0,
+    "type": "FAIRY",
+    "accuracy": 75,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SWEET_KISS",
     "index": 186,
     "name": "Sweet Kiss",
-    "description": "A move that may confuse the foe."
+    "description": "A move that may confuse the foe.",
+    "effect": "EFFECT_CONFUSE",
+    "basePower": 0,
+    "type": "FAIRY",
+    "accuracy": 75,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

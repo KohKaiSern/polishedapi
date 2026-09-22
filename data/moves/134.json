@@ -3,12 +3,26 @@
     "id": "ROOST",
     "index": 134,
     "name": "Roost",
-    "description": "Lands to restore 1/2 the max HP."
+    "description": "Lands to restore 1/2 the max HP.",
+    "effect": "EFFECT_ROOST",
+    "basePower": 0,
+    "type": "FLYING",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "ROOST",
     "index": 134,
     "name": "Roost",
-    "description": "Lands to restore 1/2 the max HP."
+    "description": "Lands to restore 1/2 the max HP.",
+    "effect": "EFFECT_ROOST",
+    "basePower": 0,
+    "type": "FLYING",
+    "accuracy": -1,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

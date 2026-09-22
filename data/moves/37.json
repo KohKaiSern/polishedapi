@@ -3,12 +3,26 @@
     "id": "THRASH",
     "index": 37,
     "name": "Thrash",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "THRASH",
     "index": 37,
     "name": "Thrash",
-    "description": "Works 2-3 turns and confuses user."
+    "description": "Works 2-3 turns and confuses user.",
+    "effect": "EFFECT_RAMPAGE",
+    "basePower": 120,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

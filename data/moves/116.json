@@ -3,12 +3,26 @@
     "id": "FOCUS_ENERGY",
     "index": 116,
     "name": "Focus Energy",
-    "description": "Raises the critical hit ratio."
+    "description": "Raises the critical hit ratio.",
+    "effect": "EFFECT_FOCUS_ENERGY",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "FOCUS_ENERGY",
     "index": 116,
     "name": "Focus Energy",
-    "description": "Raises the critical hit ratio."
+    "description": "Raises the critical hit ratio.",
+    "effect": "EFFECT_FOCUS_ENERGY",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 30,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

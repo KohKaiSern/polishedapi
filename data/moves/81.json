@@ -3,12 +3,26 @@
     "id": "STRING_SHOT",
     "index": 81,
     "name": "String Shot",
-    "description": "A move that lowers the foe's Speed."
+    "description": "A move that lowers the foe's Speed.",
+    "effect": "EFFECT_SPEED_DOWN_2",
+    "basePower": 0,
+    "type": "BUG",
+    "accuracy": 95,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "STRING_SHOT",
     "index": 81,
     "name": "String Shot",
-    "description": "A move that lowers the foe's Speed."
+    "description": "A move that lowers the foe's Speed.",
+    "effect": "EFFECT_SPEED_DOWN_2",
+    "basePower": 0,
+    "type": "BUG",
+    "accuracy": 95,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

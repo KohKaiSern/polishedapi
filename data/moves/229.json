@@ -3,12 +3,26 @@
     "id": "RAPID_SPIN",
     "index": 229,
     "name": "Rapid Spin",
-    "description": "A high-speed spinning attack."
+    "description": "A high-speed spinning attack.",
+    "effect": "EFFECT_RAPID_SPIN",
+    "basePower": 50,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "RAPID_SPIN",
     "index": 229,
     "name": "Rapid Spin",
-    "description": "A high-speed spinning attack."
+    "description": "A high-speed spinning attack.",
+    "effect": "EFFECT_RAPID_SPIN",
+    "basePower": 50,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 40,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

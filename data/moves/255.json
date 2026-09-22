@@ -3,12 +3,26 @@
     "id": "STRUGGLE",
     "index": 255,
     "name": "Struggle",
-    "description": "Used only if all PP are exhausted."
+    "description": "Used only if all PP are exhausted.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 50,
+    "type": "UNKNOWN_T",
+    "accuracy": -1,
+    "powerPoints": 1,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "STRUGGLE",
     "index": 255,
     "name": "Struggle",
-    "description": "Used only if all PP are exhausted."
+    "description": "Used only if all PP are exhausted.",
+    "effect": "EFFECT_RECOIL_HIT",
+    "basePower": 50,
+    "type": "UNKNOWN_T",
+    "accuracy": -1,
+    "powerPoints": 1,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

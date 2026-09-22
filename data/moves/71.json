@@ -3,12 +3,26 @@
     "id": "ABSORB",
     "index": 71,
     "name": "Absorb",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 20,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ABSORB",
     "index": 71,
     "name": "Absorb",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 20,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

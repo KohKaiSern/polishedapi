@@ -3,12 +3,26 @@
     "id": "GROWL",
     "index": 45,
     "name": "Growl",
-    "description": "A move that lowers the foe's Attack."
+    "description": "A move that lowers the foe's Attack.",
+    "effect": "EFFECT_ATTACK_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "GROWL",
     "index": 45,
     "name": "Growl",
-    "description": "A move that lowers the foe's Attack."
+    "description": "A move that lowers the foe's Attack.",
+    "effect": "EFFECT_ATTACK_DOWN",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "PIN_MISSILE",
     "index": 42,
     "name": "Pin Missile",
-    "description": "Fires pins that strike 2-5 times."
+    "description": "Fires pins that strike 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "BUG",
+    "accuracy": 95,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "PIN_MISSILE",
     "index": 42,
     "name": "Pin Missile",
-    "description": "Fires pins that strike 2-5 times."
+    "description": "Fires pins that strike 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "BUG",
+    "accuracy": 95,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

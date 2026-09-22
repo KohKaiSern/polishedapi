@@ -3,12 +3,26 @@
     "id": "ICICLE_CRASH",
     "index": 128,
     "name": "Icicle Crash",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 85,
+    "type": "ICE",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ICICLE_CRASH",
     "index": 128,
     "name": "Icicle Crash",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 85,
+    "type": "ICE",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SKETCH",
     "index": 166,
     "name": "Sketch",
-    "description": "Copies the foe's move permanently."
+    "description": "Copies the foe's move permanently.",
+    "effect": "EFFECT_SKETCH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 1,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SKETCH",
     "index": 166,
     "name": "Sketch",
-    "description": "Copies the foe's move permanently."
+    "description": "Copies the foe's move permanently.",
+    "effect": "EFFECT_SKETCH",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 1,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

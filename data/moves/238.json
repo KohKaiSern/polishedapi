@@ -3,12 +3,26 @@
     "id": "CROSS_CHOP",
     "index": 238,
     "name": "Cross Chop",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "FIGHTING",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "CROSS_CHOP",
     "index": 238,
     "name": "Cross Chop",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "FIGHTING",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

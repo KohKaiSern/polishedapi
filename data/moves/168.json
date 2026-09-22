@@ -3,12 +3,26 @@
     "id": "THIEF",
     "index": 168,
     "name": "Thief",
-    "description": "An attack that may steal a held item."
+    "description": "An attack that may steal a held item.",
+    "effect": "EFFECT_THIEF",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "THIEF",
     "index": 168,
     "name": "Thief",
-    "description": "An attack that may steal a held item."
+    "description": "An attack that may steal a held item.",
+    "effect": "EFFECT_THIEF",
+    "basePower": 60,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "AMNESIA",
     "index": 133,
     "name": "Amnesia",
-    "description": "Sharply raises the user's Sp.Def."
+    "description": "Sharply raises the user's Sp.Def.",
+    "effect": "EFFECT_SP_DEF_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "AMNESIA",
     "index": 133,
     "name": "Amnesia",
-    "description": "Sharply raises the user's Sp.Def."
+    "description": "Sharply raises the user's Sp.Def.",
+    "effect": "EFFECT_SP_DEF_UP_2",
+    "basePower": 0,
+    "type": "PSYCHIC",
+    "accuracy": -1,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

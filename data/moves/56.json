@@ -3,12 +3,26 @@
     "id": "HYDRO_PUMP",
     "index": 56,
     "name": "Hydro Pump",
-    "description": "A powerful Watertype attack."
+    "description": "A powerful Watertype attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 110,
+    "type": "WATER",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "HYDRO_PUMP",
     "index": 56,
     "name": "Hydro Pump",
-    "description": "A powerful Watertype attack."
+    "description": "A powerful Watertype attack.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 110,
+    "type": "WATER",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

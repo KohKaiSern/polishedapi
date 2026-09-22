@@ -3,12 +3,26 @@
     "id": "EMBER",
     "index": 52,
     "name": "Ember",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 40,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "EMBER",
     "index": 52,
     "name": "Ember",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 40,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 25,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

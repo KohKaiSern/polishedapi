@@ -3,12 +3,26 @@
     "id": "BUBBLE_BEAM",
     "index": 61,
     "name": "Bubble Beam",
-    "description": "An attack that may lower Speed."
+    "description": "An attack that may lower Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 65,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "BUBBLE_BEAM",
     "index": 61,
     "name": "Bubble Beam",
-    "description": "An attack that may lower Speed."
+    "description": "An attack that may lower Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 65,
+    "type": "WATER",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

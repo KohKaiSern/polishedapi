@@ -3,12 +3,26 @@
     "id": "DRAGON_DANCE",
     "index": 151,
     "name": "Dragon Dance",
-    "description": "Raises the user's Attack and Speed."
+    "description": "Raises the user's Attack and Speed.",
+    "effect": "EFFECT_DRAGON_DANCE",
+    "basePower": 0,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "DRAGON_DANCE",
     "index": 151,
     "name": "Dragon Dance",
-    "description": "Raises the user's Attack and Speed."
+    "description": "Raises the user's Attack and Speed.",
+    "effect": "EFFECT_DRAGON_DANCE",
+    "basePower": 0,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 20,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

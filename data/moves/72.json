@@ -3,12 +3,26 @@
     "id": "MEGA_DRAIN",
     "index": 72,
     "name": "Mega Drain",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 40,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "MEGA_DRAIN",
     "index": 72,
     "name": "Mega Drain",
-    "description": "Steals 1/2 of the damage inflicted."
+    "description": "Steals 1/2 of the damage inflicted.",
+    "effect": "EFFECT_LEECH_HIT",
+    "basePower": 40,
+    "type": "GRASS",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

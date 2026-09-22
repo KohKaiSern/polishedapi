@@ -3,12 +3,26 @@
     "id": "FLAMETHROWER",
     "index": 53,
     "name": "Flamethrower",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 90,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "FLAMETHROWER",
     "index": 53,
     "name": "Flamethrower",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 90,
+    "type": "FIRE",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

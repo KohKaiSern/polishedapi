@@ -3,12 +3,26 @@
     "id": "HYPER_FANG",
     "index": 158,
     "name": "Hyper Fang",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "HYPER_FANG",
     "index": 158,
     "name": "Hyper Fang",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 90,
+    "powerPoints": 15,
+    "effectChance": 10,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SLEEP_POWDER",
     "index": 79,
     "name": "Sleep Powder",
-    "description": "May cause the foe to fall asleep."
+    "description": "May cause the foe to fall asleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 75,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "SLEEP_POWDER",
     "index": 79,
     "name": "Sleep Powder",
-    "description": "May cause the foe to fall asleep."
+    "description": "May cause the foe to fall asleep.",
+    "effect": "EFFECT_SLEEP",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 75,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

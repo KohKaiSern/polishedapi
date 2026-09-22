@@ -3,12 +3,26 @@
     "id": "FIRE_BLAST",
     "index": 126,
     "name": "Fire Blast",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 110,
+    "type": "FIRE",
+    "accuracy": 85,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "FIRE_BLAST",
     "index": 126,
     "name": "Fire Blast",
-    "description": "An attack that may inflict a burn."
+    "description": "An attack that may inflict a burn.",
+    "effect": "EFFECT_BURN_HIT",
+    "basePower": 110,
+    "type": "FIRE",
+    "accuracy": 85,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "STONE_EDGE",
     "index": 26,
     "name": "Stone Edge",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "ROCK",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "STONE_EDGE",
     "index": 26,
     "name": "Stone Edge",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "ROCK",
+    "accuracy": 80,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

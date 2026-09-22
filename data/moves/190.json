@@ -3,12 +3,26 @@
     "id": "OCTAZOOKA",
     "index": 190,
     "name": "Octazooka",
-    "description": "An attack that may lower accuracy."
+    "description": "An attack that may lower accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN_HIT",
+    "basePower": 75,
+    "type": "WATER",
+    "accuracy": 95,
+    "powerPoints": 10,
+    "effectChance": 30,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "OCTAZOOKA",
     "index": 190,
     "name": "Octazooka",
-    "description": "An attack that may lower accuracy."
+    "description": "An attack that may lower accuracy.",
+    "effect": "EFFECT_ACCURACY_DOWN_HIT",
+    "basePower": 65,
+    "type": "WATER",
+    "accuracy": 85,
+    "powerPoints": 10,
+    "effectChance": 50,
+    "category": "SPECIAL"
   }
 }

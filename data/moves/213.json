@@ -3,12 +3,26 @@
     "id": "ATTRACT",
     "index": 213,
     "name": "Attract",
-    "description": "Makes the opposite gender infatuated."
+    "description": "Makes the opposite gender infatuated.",
+    "effect": "EFFECT_ATTRACT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "ATTRACT",
     "index": 213,
     "name": "Attract",
-    "description": "Makes the opposite gender infatuated."
+    "description": "Makes the opposite gender infatuated.",
+    "effect": "EFFECT_ATTRACT",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

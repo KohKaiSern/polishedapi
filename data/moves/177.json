@@ -3,12 +3,26 @@
     "id": "AEROBLAST",
     "index": 177,
     "name": "Aeroblast",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "FLYING",
+    "accuracy": 95,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "AEROBLAST",
     "index": 177,
     "name": "Aeroblast",
-    "description": "Has a high critical hit ratio."
+    "description": "Has a high critical hit ratio.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 100,
+    "type": "FLYING",
+    "accuracy": 95,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "SPECIAL"
   }
 }

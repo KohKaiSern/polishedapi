@@ -3,12 +3,26 @@
     "id": "BLIZZARD",
     "index": 59,
     "name": "Blizzard",
-    "description": "An attack that may freeze the foe."
+    "description": "An attack that may freeze the foe.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 110,
+    "type": "ICE",
+    "accuracy": 70,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "BLIZZARD",
     "index": 59,
     "name": "Blizzard",
-    "description": "An attack that may freeze the foe."
+    "description": "An attack that may freeze the foe.",
+    "effect": "EFFECT_FREEZE_HIT",
+    "basePower": 110,
+    "type": "ICE",
+    "accuracy": 70,
+    "powerPoints": 5,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "SUCKER_PUNCH",
     "index": 18,
     "name": "Sucker Punch",
-    "description": "Attacks before the foe does."
+    "description": "Attacks before the foe does.",
+    "effect": "EFFECT_SUCKER_PUNCH",
+    "basePower": 70,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "SUCKER_PUNCH",
     "index": 18,
     "name": "Sucker Punch",
-    "description": "Attacks before the foe does."
+    "description": "Attacks before the foe does.",
+    "effect": "EFFECT_SUCKER_PUNCH",
+    "basePower": 70,
+    "type": "DARK",
+    "accuracy": 100,
+    "powerPoints": 5,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

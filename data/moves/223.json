@@ -3,12 +3,26 @@
     "id": "DYNAMICPUNCH",
     "index": 223,
     "name": "DynamicPunch",
-    "description": "An attack that confuses the foe."
+    "description": "An attack that confuses the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 100,
+    "type": "FIGHTING",
+    "accuracy": 50,
+    "powerPoints": 5,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "DYNAMICPUNCH",
     "index": 223,
     "name": "DynamicPunch",
-    "description": "An attack that confuses the foe."
+    "description": "An attack that confuses the foe.",
+    "effect": "EFFECT_CONFUSE_HIT",
+    "basePower": 100,
+    "type": "FIGHTING",
+    "accuracy": 50,
+    "powerPoints": 5,
+    "effectChance": 100,
+    "category": "PHYSICAL"
   }
 }

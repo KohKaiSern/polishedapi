@@ -3,12 +3,26 @@
     "id": "TRI_ATTACK",
     "index": 161,
     "name": "Tri Attack",
-    "description": "Fires three kinds of beams at once."
+    "description": "Fires three kinds of beams at once.",
+    "effect": "EFFECT_TRI_ATTACK",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 20,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "TRI_ATTACK",
     "index": 161,
     "name": "Tri Attack",
-    "description": "Fires three kinds of beams at once."
+    "description": "Fires three kinds of beams at once.",
+    "effect": "EFFECT_TRI_ATTACK",
+    "basePower": 80,
+    "type": "NORMAL",
+    "accuracy": 100,
+    "powerPoints": 10,
+    "effectChance": 20,
+    "category": "SPECIAL"
   }
 }

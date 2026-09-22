@@ -3,12 +3,26 @@
     "id": "ROCK_BLAST",
     "index": 106,
     "name": "Rock Blast",
-    "description": "Hurls boulders to hit 2-5 times."
+    "description": "Hurls boulders to hit 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "ROCK",
+    "accuracy": 90,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ROCK_BLAST",
     "index": 106,
     "name": "Rock Blast",
-    "description": "Hurls boulders to hit 2-5 times."
+    "description": "Hurls boulders to hit 2-5 times.",
+    "effect": "EFFECT_MULTI_HIT",
+    "basePower": 25,
+    "type": "ROCK",
+    "accuracy": 90,
+    "powerPoints": 25,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

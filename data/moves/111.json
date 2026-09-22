@@ -3,12 +3,26 @@
     "id": "DEFENSE_CURL",
     "index": 111,
     "name": "Defense Curl",
-    "description": "Raises the user's Defense."
+    "description": "Raises the user's Defense.",
+    "effect": "EFFECT_DEFENSE_CURL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "DEFENSE_CURL",
     "index": 111,
     "name": "Defense Curl",
-    "description": "Raises the user's Defense."
+    "description": "Raises the user's Defense.",
+    "effect": "EFFECT_DEFENSE_CURL",
+    "basePower": 0,
+    "type": "NORMAL",
+    "accuracy": -1,
+    "powerPoints": 40,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

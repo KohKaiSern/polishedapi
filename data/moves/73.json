@@ -3,12 +3,26 @@
     "id": "LEECH_SEED",
     "index": 73,
     "name": "Leech Seed",
-    "description": "Steals HP from the foe on every turn."
+    "description": "Steals HP from the foe on every turn.",
+    "effect": "EFFECT_LEECH_SEED",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   },
   "faithful": {
     "id": "LEECH_SEED",
     "index": 73,
     "name": "Leech Seed",
-    "description": "Steals HP from the foe on every turn."
+    "description": "Steals HP from the foe on every turn.",
+    "effect": "EFFECT_LEECH_SEED",
+    "basePower": 0,
+    "type": "GRASS",
+    "accuracy": 90,
+    "powerPoints": 10,
+    "effectChance": 0,
+    "category": "STATUS"
   }
 }

@@ -3,12 +3,26 @@
     "id": "ACID",
     "index": 51,
     "name": "Acid",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 40,
+    "type": "POISON",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 10,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ACID",
     "index": 51,
     "name": "Acid",
-    "description": "An attack that may lower Sp.Def."
+    "description": "An attack that may lower Sp.Def.",
+    "effect": "EFFECT_SP_DEF_DOWN_HIT",
+    "basePower": 40,
+    "type": "POISON",
+    "accuracy": 100,
+    "powerPoints": 30,
+    "effectChance": 10,
+    "category": "SPECIAL"
   }
 }

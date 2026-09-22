@@ -3,12 +3,26 @@
     "id": "DRAGON_CLAW",
     "index": 5,
     "name": "Dragon Claw",
-    "description": "Slashes the foe with sharp claws."
+    "description": "Slashes the foe with sharp claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "DRAGON_CLAW",
     "index": 5,
     "name": "Dragon Claw",
-    "description": "Slashes the foe with sharp claws."
+    "description": "Slashes the foe with sharp claws.",
+    "effect": "EFFECT_NORMAL_HIT",
+    "basePower": 80,
+    "type": "DRAGON",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 0,
+    "category": "PHYSICAL"
   }
 }

@@ -3,12 +3,26 @@
     "id": "ICY_WIND",
     "index": 196,
     "name": "Icy Wind",
-    "description": "An icy attack that lowers Speed."
+    "description": "An icy attack that lowers Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 55,
+    "type": "ICE",
+    "accuracy": 95,
+    "powerPoints": 15,
+    "effectChance": 100,
+    "category": "SPECIAL"
   },
   "faithful": {
     "id": "ICY_WIND",
     "index": 196,
     "name": "Icy Wind",
-    "description": "An icy attack that lowers Speed."
+    "description": "An icy attack that lowers Speed.",
+    "effect": "EFFECT_SPEED_DOWN_HIT",
+    "basePower": 55,
+    "type": "ICE",
+    "accuracy": 95,
+    "powerPoints": 15,
+    "effectChance": 100,
+    "category": "SPECIAL"
   }
 }

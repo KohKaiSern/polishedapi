@@ -3,12 +3,26 @@
     "id": "ASTONISH",
     "index": 180,
     "name": "Astonish",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 30,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   },
   "faithful": {
     "id": "ASTONISH",
     "index": 180,
     "name": "Astonish",
-    "description": "An attack that may cause flinching."
+    "description": "An attack that may cause flinching.",
+    "effect": "EFFECT_FLINCH_HIT",
+    "basePower": 30,
+    "type": "GHOST",
+    "accuracy": 100,
+    "powerPoints": 15,
+    "effectChance": 30,
+    "category": "PHYSICAL"
   }
 }
